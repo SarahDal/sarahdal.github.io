@@ -34,7 +34,7 @@ The car counter uses Arduino Pro Mini, a great, compact, low power arduino. Howe
 
 Cars run over a sealed rubber tube on the ground, which is connected to a NXP MPX5100DP pressure sensor. The rubber hosing was sealed at one end (I used the T-connector in the end of the hose, and a short length joining the two arms to the T, making it sealed) laid across the entrance to the car park and fixed in place with saddle clips, which were screwed into rawl plugs I drilled in the road. Drill a hole in your housing and use the bulkhead connector to get the tube inside and connected to the pressure sensor - see image below for how I did it, using a short length of 4mm plastic tube I had lying around to go from the bulkhead to the pressure sensor once inside the housing:
 
-![](/assets/images/CC_housing.jpg){:width="800px"} 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_housing.jpg){:width="800px"} 
 
 ## Connecting it up:
 
@@ -70,8 +70,8 @@ The first obvious improvement would be to implement a sleep function to save bat
 
 ## Image Gallery
 
-![](/assets/images/CC_arduino.jpg){:width="800px"} Connecting up SDA and SCL to pins A2 and A3
+![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_arduino.jpg){:width="800px"} Connecting up SDA and SCL to pins A2 and A3
 
-![](/assets/images/CC_housing.jpg){:width="800px"} Counter tech in the box, powered by batteries and with an on/off switch
+![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_housing.jpg){:width="800px"} Counter tech in the box, powered by batteries and with an on/off switch
 
-![](/assets/images/CC_graph_annotated.JPG){:width="800px"} Example of calibration graph
+![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_graph_annotated.JPG){:width="800px"} Example of calibration graph

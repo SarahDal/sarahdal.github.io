@@ -35,13 +35,13 @@ He has a GPS tag on his collar ([a Tractive device](https://tractive.com)) It in
 
 The Tractive collar also has BLE, as does my watch, meaning we can both be tracked within the house during the day using the brilliant [ESPresense](https://espresense.com/){:width="700px"}, which runs on ESP32s. This can not only look out for specific BLE devices, but also handle a selection of common sensors. However calibration can be fiddly, and I've found that they often seem to "flicker" position between rooms, but it is useful if I want to know where he is
 
-![](/assets/images/tracking.png){:width="700px"} Location History of me and the cat from the Home Assistant dash
+![]({{ site.url }}{{ site.baseurl }}/assets/images/tracking.png){:width="700px"} Location History of me and the cat from the Home Assistant dash
 
 ## The Sensor Dashboard
 
-![](/assets/images/HAdash.JPG){:width="700px"} Basic Home Assistant dashboards
+![]({{ site.url }}{{ site.baseurl }}/assets/images/HAdash.JPG){:width="700px"} Basic Home Assistant dashboards
 
-![](/assets/images/HAdash2.JPG){:width="700px"}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/HAdash2.JPG){:width="700px"}
 
 Data from all of these sensors can be displayed on a custom dashboard, a pretty collection of graphs and figures plus buttons, usually displayed on a tablet or screen. This was a bit boring, so I set about creating a physical dashboard using as vintage components as I could.
 
