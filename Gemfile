@@ -13,6 +13,9 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 #group: :jekyll_plugins
 
+# to fix the "theme not found"
+gem 'faraday-retry', '~> 2.2'
+
 # Theme
 gem "minimal-mistakes-jekyll"
 
