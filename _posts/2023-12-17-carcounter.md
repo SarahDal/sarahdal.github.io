@@ -9,7 +9,7 @@ category: Arduino & ESP32
 
 While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.
 
-Back in 2019 when I did this project, internet searching found the following projects that I used as inspiration:
+In 2019 when I did this project, internet searching found the following projects that I used as inspiration:
 
 *   [Arudino people counting, using PIR (passive infra-red)](https://www.dbpharrison.com/projects/interactivefloor/arduinopeoplecounter1/)
 *   [Kris Temmermen’s car counter on Hackaday](https://hackaday.io/project/4567-traffic-counter-road-tube)
@@ -37,7 +37,7 @@ The car counter uses Arduino Pro Mini, a great, compact, low power arduino. Howe
 
 Cars run over a sealed rubber tube on the ground, which is connected to a NXP MPX5100DP pressure sensor. The rubber hosing was sealed at one end (I used the T-connector in the end of the hose, and a short length joining the two arms to the T, making it sealed) laid across the entrance to the car park and fixed in place with saddle clips, which were screwed into rawl plugs I drilled in the road. Drill a hole in your housing and use the bulkhead connector to get the tube inside and connected to the pressure sensor - see image below for how I did it, using a short length of 4mm plastic tube I had lying around to go from the bulkhead to the pressure sensor once inside the housing:
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_housing.jpg){:width="800px"} 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_housing.jpg)
 
 ## Connecting it up:
 
@@ -70,8 +70,6 @@ I didn’t have a way of measuring low power, but I calculated the power consump
 This was simple to set up, and for under £100 I was able to not only accurately count the numbers of visitor's cars to the reserve, but the different numbers on each day and even time of day.
 
 The first obvious improvement would be to implement a sleep function to save battery. And now it's a few years on, I would absolutely use ESP32 for this project, and have it send the data somewhere rather than (or as well as) save to SD card.
-
-## Image Gallery
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/CC_arduino.jpg){:width="800px"} Connecting up SDA and SCL to pins A2 and A3
 
