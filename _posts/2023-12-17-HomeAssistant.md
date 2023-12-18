@@ -2,6 +2,21 @@
 layout: single
 author: sarah
 title: Home Assistant
+
+gallery:
+  - url: /assets/images/dashmark1.jpg
+    image_path: /assets/images/dashmark1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/dash1.jpg
+    image_path: /assets/images/dash1.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/dash2.jpeg
+    image_path: /assets/images/dash2.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
 ---
 
 Home Assistant runs on a Raspberry Pi and can control most modern Smart Home devices, plus a whole load more you can make yourself.
@@ -32,8 +47,5 @@ Data from all of these sensors can be displayed on a custom dashboard, a pretty 
 
 Current Temperature and Air Quality can be displayed on old school 7-segment displays. There are two chunky LEDs, showing if the hot water in the tank is hot enough for a shower or not. Currently, a small OLED tells me which room the cat is in.
 
-![](/assets/images/dashmark1.jpg){:width="700px"} Retro sensor display board v1
+{% include gallery caption="gallery" %}
 
-![](/assets/images/dash1.jpg){:width="700px"} rear of the sensor board v2
-
-![](/assets/images/dash2.jpeg){:width="700px"} rear of the sensor board v2, I've added a buzzer that buzzes when Fury leaves the area
