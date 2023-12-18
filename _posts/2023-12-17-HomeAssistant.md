@@ -2,6 +2,7 @@
 layout: single
 author: sarah
 title: Home Assistant
+category: Home Assistant
 
 gallery:
   - url: /assets/images/dashmark1.jpg
