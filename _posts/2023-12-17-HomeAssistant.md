@@ -7,16 +7,16 @@ category: Home Assistant
 gallery:
   - url: /assets/images/dashmark1.jpg
     image_path: /assets/images/dashmark1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "A white dashboard with four seven segment displays and a few LEDs, and a small OLED display. Labels are written in marker: Lounge Air Quality %, Lounge Temp, Upstairs Temp, Extension Temp. The LEDs, one ble and one red, are labelled Hot Water, and hte small OLED displays bedroom and is labelled with Fury Is In The"
+    title: "First iteration of dashboard"
   - url: /assets/images/dash1.jpg
     image_path: /assets/images/dash1.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "The second dashboard, made of dark plywood and labelled with a dymo labeller: Lounge Air Quality %, Lounge Temp, Upstairs Temp, Extension Temp. The LEDs, one ble and one red, are labelled Hot Water, and the small OLED displays bedroom and is labelled with Fury Loc"
+    title: "Second dashboard"
   - url: /assets/images/dash2.jpeg
     image_path: /assets/images/dash2.jpeg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Rear of the dash; an ESP32 on a small breadboard is wired up to the back of the seven segment displays, LEDs, OLED and a buzzer with coloured wires."
+    title: "Rear of sensor board 2"
 
 ---
 
