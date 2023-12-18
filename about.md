@@ -9,6 +9,11 @@ I'm a coastal ecologist specialising in seabirds (particularly large gulls, like
 
 You can find me on mastodon at [@sarahdalgulls@ecoevo.social](https://ecoevo.social/@sarahdalgulls/)
 
+[Instagram](https://instagram.com/zooplanktonbears)
+
+[Linkedin](https://www.linkedin.com/in/sarah-dalrymple-4a826819/)
+
+
 I currently live in the north east of England, working with the RSPB on coastal species conservation. Prior to this I worked at the following:
 * Shop assistant, several times
 * Bar steward, mainly at the excellent Bow Bar in Edinburgh
