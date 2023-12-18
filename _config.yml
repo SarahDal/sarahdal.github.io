@@ -38,14 +38,12 @@ defaults:
 
 search: true
 
-author:
-  name     : "Sarah""
-  avatar   : "/assets/images/bio-photo.jpg"
+footer:
   links:
     - label: "mastodon"
       icon: "fab fa-mastodon"
       url: "https://ecoevo.social/@sarahdalgulls/"
-  - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zooplanktonbears/
 
