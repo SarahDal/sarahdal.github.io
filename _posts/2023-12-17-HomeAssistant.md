@@ -27,7 +27,7 @@ By adding a [Zigbee stick](https://www.home-assistant.io/integrations/zha/){:wid
 
 ## Where is the Cat?
 
-![]("/assets/images/fury.jpg"){:width="700px"} Fury and his geotag
+![](.www/assets/images/fury.jpg){:width="700px"} Fury and his geotag
 
 My blind cat, Fury, loves exploring the garden. He shouldn't be able to get out, as the fence is too high for him to jump, but what if someone leaves the gate open?
 
