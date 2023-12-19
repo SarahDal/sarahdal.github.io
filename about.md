@@ -7,11 +7,7 @@ layout: single
 
 I'm a coastal ecologist specialising in seabirds (particularly large gulls, like Herring and Lesser Black-backed gulls) with an interest in tech, small board computers, coding, drones, and GIS. I've had an online presence since the 1990s, and now I've been enjoying opting out of centralised social media and getting back into rolling my own webpage. or at least trying to.
 
-You can find me on mastodon at [@sarahdalgulls@ecoevo.social](https://ecoevo.social/@sarahdalgulls/)
-
-[Instagram](https://instagram.com/zooplanktonbears)
-
-[Linkedin](https://www.linkedin.com/in/sarah-dalrymple-4a826819/)
+You can find me on mastodon at [@sarahdalgulls@ecoevo.social](https://ecoevo.social/@sarahdalgulls/), [Instagram](https://instagram.com/zooplanktonbears), and [Linkedin](https://www.linkedin.com/in/sarah-dalrymple-4a826819/)
 
 
 I currently live in the north east of England, working with the RSPB on coastal species conservation. Prior to this I worked at the following:
