@@ -8,7 +8,8 @@ twitchId: SarahDal99
 twitchDomain: https://sarahdal.github.io/
 
 ---
-## twitch stream
+## Live garden stream
 
+Streaming from a raspberry pi at the bottom of the garden
 
 {% include twitchStream.html id=page.twitchId domain=page.twitchDomain %}
