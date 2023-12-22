@@ -20,7 +20,7 @@ gallery:
 
 ---
 
-Home Assistant runs on a Raspberry Pi and can control most modern Smart Home devices, plus a whole load more you can make yourself.
+[Home Assistant](https://www.home-assistant.io/) runs on a Raspberry Pi and can control most modern Smart Home devices, plus a whole load more you can make yourself. 
 
 I started off using [ESPHome](https://esphome.io/){:width="700px"} to control ESP32s with simple temperature and humidity monitors. They send their data using MQTT over bluetooth. From there, I hacked an [IKEA VINDRIKTNING](https://style.oversubstance.net/2021/08/diy-use-an-ikea-vindriktning-air-quality-sensor-in-home-assistant-with-esphome/){:width="700px"} air quality monitor; now I can see how the air quality changes when cooking or using the open fire.
 
