@@ -12,7 +12,7 @@ You can find me on mastodon at [@sarahdalgulls@ecoevo.social](https://ecoevo.soc
 
 I currently live in the north east of England, working with the RSPB on coastal species conservation. Prior to this I worked at the following:
 * Shop assistant, several times
-* Bar steward, mainly at the excellent Bow Bar in Edinburgh
+* Bar steward, mainly at the excellent [Bow Bar](https://www.thebowbar.co.uk/awards) in Edinburgh
 * Little Tern Warden at Long Nanny, Northumberland (2003)
 * Digitisation of the Northumberland County Archives Aquisition Ledgers (2003)
 * Biological field assistant, tracking brown bears on the Greek-Albania-North Macedonia border (2004)
