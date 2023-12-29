@@ -43,6 +43,7 @@ footer:
     - label: "mastodon"
       icon: "fab fa-mastodon"
       url: "https://ecoevo.social/@sarahdalgulls/"
+      rel: "me"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zooplanktonbears/"
