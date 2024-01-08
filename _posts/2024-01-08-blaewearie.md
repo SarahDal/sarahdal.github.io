@@ -104,7 +104,7 @@ Andrew, aged 3
 and...  
 Joseph Todd Loord, a Sanitary Engineer aged 24 from Sunderland.  
 
-The outside netty at Blawearie still stands - was he here all the way from Sunderland to dig a new pit?
+The outside [netty](https://www.wateraid.org/uk/blog/jacks-khasi-privy-what-did-you-call-the-loo-growing-up) at Blawearie still stands - was he here all the way from Sunderland to dig a new pit?
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/netty.jpg)
 
