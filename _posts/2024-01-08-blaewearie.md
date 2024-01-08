@@ -96,7 +96,7 @@ On census night in 1891, the little cottage on the moors is quite busy. The enum
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/1891.png)
 
 James, aged 13  
-Margaret, Davison aged 11  
+Margaret Davidson aged 11  
 George, aged 9  
 Robert Cowany, aged 8  
 Mary Alice, aged 5  
