@@ -53,7 +53,7 @@ Andrew his Nephew, 18 (born 1833), a Shepherd's Man
 
 I've not been able to find his wife, Margaret, nor their daughter Isabella - were they away visiting someone else? Interestingly, his daughter Ann has her birthplace listed as "Wilke wood" in Northumberland (I don't know where this is?), while his sons were born on Bewick Moor, and his nephew at Battle Bridge. Battle Bridge is a small farm just north of Edlingham, (which is a completely different village to Eglingham 8 miles away, where Andrew was living (aged 9) in 1841 with his grandparents.) (note also in Northumbrian, the place name ending -gham is pronounced "jum").
 
-By 1861, the address is Bewick Moor Shepherd House. James Rogerson is still head of the household aged 57, and Margaret (49) has reappeared. 
+By 1861, the address is Bewick Moor Shepherd House. James Rogerson is still head of the household aged 57, and Margaret (49) has reappeared, sadly Isabella has not, although I was unable to find a death record for her so she may have gotten married? 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/1861.png)
