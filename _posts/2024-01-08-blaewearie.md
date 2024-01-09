@@ -67,7 +67,9 @@ Peter 16 (born 1845)
 Margaret 6 (born 1855)  
 James 3 (born 1858)  
 
-The two older sons are shepherds. Daughter Ann, aged 25, this time has listed as her place of birth Alwinton, a very remote village 17 miles away in the Cheviots, suggesting Margaret at least was living there when Ann was born in 1836; this is three years before she married James.
+The two older sons are shepherds. Daughter Ann, aged 25, this time has listed as her place of birth Alwinton, a very remote village 17 miles away in the Cheviots, suggesting Margaret at least was living there when Ann was born in 1836; this is three years before she married James. Looking near Alwinton for the "Wilk Wood" listed as her birthplace in the previous census, I found the ruins of two farmhouses - Wilkwood East and West Wilkwood - about 4 miles east of Harbottle, now within the Otterburn Military Ranges but even back then, a fairly bleak and remote location.
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/wilkwood.png)
 
 In 1871 the cottage is finally listed as "Blau - Weary". James and Margaret Rogerson are still heads of the household and James is still a shepherd.
 
