@@ -32,7 +32,6 @@ James Rogerson, a Shepherd born 1806 in Northumberland
 Margaret born 1816 in Scotland 
 Isabella aged 1, born in Northumberland  
 Jane Inglis aged 15, born in Scotland  
-Jane Inglis aged 15, born in Scotland  
 Thomas Binnie aged 20, a Shepherd born in Scotland  
 
 James and Margaret (nee Cowens) were married in Ilderton on 7 May, 1839, about 5 and a half miles to the west. Unfortunately I couldn't research any more on Margaret, but I think she was probably born in Perthshire.
@@ -145,7 +144,7 @@ Violet 7 (born 1904) Eglingham
 Minnie 5 (born 1906) Eglingham  
 Eleanor 10 month (born 1911) Eglingham  
 
-The different locations of birth of the children strongly suggest the Nichols moved around a lot for work, and they'd moved on again by the 1921 census.
+The different locations of birth of the children strongly suggest the Nichols moved around a lot for work, but that the three youngest were born at Blawearie. The family had moved on again by the 1921 census.
 
 In 1921 Robert Rutherford was the head of the household at Bewick Moor, aged 39, born in Bellingham. He worked here as a shepherd for "J Rutherford" and was married to Dorothy, aged 35, born nearby in Old Bewick.
 
@@ -153,7 +152,7 @@ They lived alone and had no children, but on the night of the census were hostin
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/1921.png)
 
-The next record would be the 1939 census, but unfortunately the entry for "Blo Weary" is still redacted. 
+The next record would be the [1939 register](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register/), but unfortunately the entry for "Blo Weary" is still redacted. 
 
 I did found this photograph online (at [this website](https://12thsagittarianoutdoors.com/blawearie-circular-wild-camp-and-the-cateran-hole)) of Blae-Weary in 1938. It looks absolutely lovely.
 
