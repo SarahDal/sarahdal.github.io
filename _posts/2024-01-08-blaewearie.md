@@ -10,7 +10,7 @@ tags: geneology northumberland history
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/Blawearie.jpg)
 
-Up on the desolate Bewick Moor in Northumberland stands a windswept and isolated ruin of the farmhouse, Blawearie. 
+Up on the desolate Bewick Moor in Northumberland stands a windswept and isolated ruin of the shepherd's house, Blawearie. 
   
 Now that it's surrounded by land intensively managed for pheasant and partridge, it feels a little less remote than when I first visited it 20 years ago, but it's still a wonderfully evocative spot. Ancient hill forts and rock carvings lie nearby, as well as the Cateran Hole, a smuggler's cave, lying about a mile north east, and the views sweep across to the Cheviot Hills on the horizon. The nearest village is Old Bewick, about 2 miles down the hill from Bewick Moor.
 
@@ -37,7 +37,7 @@ Thomas Binnie aged 20, a Shepherd born in Scotland
 James and Margaret (nee Cowens) were married in Ilderton on 7 May, 1839, about 5 and a half miles to the west. Unfortunately I couldn't research any more on Margaret, but I think she was probably born in Perthshire.
 Her husband James, however, was born in 1806 in Humbleton to Andrew and Isabel Rogerson, and baptised in Wooler (about 9 miles north of Bewick). He had five brothers and a sister and was the second youngest. In 1841 his parents were living in Eglingham, a short 3 mile walk away.
 
-The next census, in 1851, shows James still shepherding at Berwick Moor with help from his nephew:
+The next census, in 1851, shows James still shepherding at Berwick Moor with help from his nephew, Andrew:
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/1851.png)
 
@@ -50,7 +50,7 @@ Peter, 6 (born 1845)
 James, 4 (born 1847)  
 Andrew his Nephew, 18 (born 1833), a Shepherd's Man  
 
-I've not been able to find his wife, Margaret, nor their daughter Isabella - were they away visiting someone else? Interestingly, his daughter Ann has her birthplace listed as "Wilke wood" in Northumberland (I don't know where this is?), while his sons were born on Bewick Moor, and his nephew at Battle Bridge. Battle Bridge is a small farm just north of Edlingham, (which is a completely different village to Eglingham 8 miles away, where Andrew was living (aged 9) in 1841 with his grandparents.) (note also in Northumbrian, the place name ending -gham is pronounced "jum").
+I eventually found James' wife Margaret and their youngest daughter Isabella visiting Margaret's parents in Rothbury. Interestingly, his daughter Ann has her birthplace listed as "Wilke wood" in Northumberland (I couldn't find this locally), while his sons were born on Bewick Moor, and his nephew at Battle Bridge. Battle Bridge is a small farm just north of Edlingham, (which is a completely different village to Eglingham 8 miles away, where Andrew was living (aged 9) in 1841 with his grandparents.) (note also in Northumbrian, the place name ending -gham is pronounced "jum").
 
 By 1861, the address is Bewick Moor Shepherd House. James Rogerson is still head of the household aged 57, and Margaret (49) has reappeared, sadly Isabella has not, although I was unable to find a death record for her so she may have gotten married? 
 
@@ -68,7 +68,7 @@ James 3 (born 1858)
 
 The two older sons are shepherds. Daughter Ann, aged 25, this time has listed as her place of birth Alwinton, a very remote village 17 miles away in the Cheviots, suggesting Margaret at least was living there when Ann was born in 1836; this is three years before she married James.
 
-Looking near Alwinton for the "Wilk Wood" listed as Ann's birthplace in the previous census, I found the ruins of two farmhouses - Wilkwood East and West Wilkwood - about 4 miles east of Harbottle, now within the Otterburn Military Ranges but even back then, a fairly bleak and remote location. Life at Blawearie would not have been too unfamiliar, I think.
+Looking on the map near Alwinton for the "Wilk Wood" listed as Ann's birthplace in the previous census, I found the ruins of two houses - Wilkwood East and West Wilkwood - about 4 miles east of Harbottle, now within the Otterburn Military Ranges but even back then, a fairly bleak and remote location. Life at Blawearie would not have been too unfamiliar, I think. 
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/wilkwood.png)
 
@@ -158,7 +158,7 @@ I did found this photograph online (at [this website](https://12thsagittarianout
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/blawearie-1938.jpg)
 
-The final history for the farmhouse on Bewick Moor comes from the Newcastle Evening Chronicle, January 1973. The intrepid reporter is tracing the footsteps of a reporter in the 1930s, travelling to "Blaw Weary" - unfortunately I can't find any record of that article, but it might be the source of the photo above - and finds on the moor a ruin abandoned in the 1940s.
+The final history for the sherpherd's house on Bewick Moor comes from the Newcastle Evening Chronicle, January 1973. The intrepid reporter is tracing the footsteps of a reporter in the 1930s, travelling to "Blaw Weary" - unfortunately I can't find any record of that article, but it might be the source of the photo above - and finds on the moor a ruin abandoned in the 1940s.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blae/1.png)  
 
