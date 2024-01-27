@@ -32,6 +32,8 @@ From here, I climbed up Saughy Hill for some typically Northumbrian Views:
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/WholehopeBurnView.jpg)
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/SaughyView2.jpg)
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/SaughyHill.jpg)
 
 And then, because I was also using this walk to practice navigation, I got round the lea of the summit out of the wind and checked against a map to find my way down the other side to a stell on Midhope Burn, near the site of another still:
