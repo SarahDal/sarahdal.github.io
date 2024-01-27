@@ -24,7 +24,7 @@ I was delighted to come across much more intact ruins of the still than I had ex
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/StillApproach.jpg)
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Still3.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/StillView.jpg)
 
 You can still clearly make out the circular area where the "pot" would have sat, boiling away, and there's another small square room joining it. It's easy to imagine the distiller sat out here, tending his pot, or a shepherd stopping by for a couple of drams.
 
