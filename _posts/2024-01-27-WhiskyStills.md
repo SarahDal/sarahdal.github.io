@@ -49,4 +49,5 @@ I followed the burn back down to Batailshiel Haugh, which turned out to be a nic
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/BatailshielHaugh1.jpg)
 
 This was a really great walk, and I even managed to navigate without using a gps and not get horribly lost. I've written up the route on my [OutdoorActive page](https://www.outdooractive.com/en/route/hiking-route/north-east-england/coquetdale-whisky-stills/286115147/), if you are interested.
- 
+
+For a bit more atmosphere, [here's a poem in the Coquetdale accent](https://www.bbc.co.uk/sounds/play/p0674cmw), The Mists o' Barralaa', by James Tait. It is in Northumbrian - listen for the infamous "Northumbrian Burr" as the R's are rolled. [The words are at the bottom of this BBC page](https://www.bbc.co.uk/programmes/articles/4xDyV5CQKLMDPcrnyWMBLj8/an-ear-for-an-aye-listening-to-englands-dialect-poetry).
