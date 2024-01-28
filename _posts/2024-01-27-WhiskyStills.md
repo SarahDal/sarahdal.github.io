@@ -26,7 +26,7 @@ I was delighted to come across much more intact ruins of the still than I had ex
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/StillView.jpg)
 
-You can still clearly make out the circular area where the "pot" would have sat, boiling away, and there's another small square room joining it. It's easy to imagine the distiller sat out here, tending his pot, or a shepherd stopping by for a couple of drams.
+You can still clearly make out the circular area, and an adjoining squarish building; an archeological dig published in 1960  goes into great detail [(and you can download here)]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Phillipson1960.pdf), that this would have been the malting kiln. The grains were heated in warm water here and then spread on the floor and allowed to germinate. Three more buildings, not obvious on the ground now, lay to the north of here where the rest of the distilling process took place. It's easy to imagine the distiller here, tending his pot, or a shepherd stopping by for a dram.
 
 From here, I climbed up Saughy Hill for some typically Northumbrian Views:
 
@@ -40,7 +40,7 @@ And then, because I was also using this walk to practice navigation, I got round
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Midhopestell.jpg)
 
-Unfortunately, I couldn't find any sign of a still along this burn at all, there were some outcrops of rocks but nothing that looked like worked stone. This might have been a more ephemeral still, maybe in a wooden shack?
+Unfortunately, I couldn't find any sign of a still along this burn at all. The paper I linked to earlier, ["Remains of illicit distilleries in Upper Coquetdale"]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Phillipson1960.pdf) suggests that the still here was washed away by a flood caused by a "great waterspout in 1893".
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/MidhopeBurn.jpg)
 
