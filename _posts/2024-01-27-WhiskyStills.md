@@ -41,8 +41,8 @@ And then, because I was also using this walk to practice navigation, I got round
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Midhopestell.jpg)
 
 Unfortunately, I couldn't find any sign of a still along this burn at all. The paper I linked to earlier, ["Remains of illicit distilleries in Upper Coquetdale"]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Phillipson1960.pdf) suggests that the still here was washed away by a flood caused by a "great waterspout in 1893".
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/LowerMidhop.jpg)
+\
+![]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/Midhope2.jpg)
 
 I followed the burn back down to Batailshiel Haugh, which turned out to be a nice little bungalow. Given that we are about 3 miles up the valley from an already incredibly remote valley, this surely must be one of the most isolated houses in England? Although, given the quality of the track to it, I think it must be military accomodation rather than someone's house. What a spot though.
 
