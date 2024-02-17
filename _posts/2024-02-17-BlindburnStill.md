@@ -27,7 +27,7 @@ At the top of the hill is the Border Ridge, where the paved 267-mile [Penine Way
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/PenineWay.jpg)
 
-Just as I was wondering about hopping over to look at a trig pont, I spotted some Cheviot Wild Goats looking dramatic in the mist.
+Just as I was wondering about hopping over to look at a trig point, I spotted some Cheviot Wild Goats looking dramatic in the mist.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/CheviotGoats.jpg)
 
