@@ -31,9 +31,9 @@ Just as I was wondering about hopping over to look at a trig pont, I spotted som
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/CheviotGoats.jpg)
 
-These handsome lads are descended from the [first goats brought over in the Neolithic](https://en.wikipedia.org/wiki/British_Primitive_goat). I read a great story in the Northumbrian magazine 20 years ago about a shepherd up here in the 1950s who noticed the goats descendng the high fells earlier than expected; he decided to bring his sheep in too. The following night heavy snow and a bitterly cold winter followed and he thought he would have lost most of his sheep if he hadn't brought them in. To say thank you to the goats, come spring he bought the biggest billygoat from Morpeth market and released it to join the herd.
+These handsome lads are descended from the [first goats brought over in the Neolithic](https://en.wikipedia.org/wiki/British_Primitive_goat). I read a great story in the Northumbrian magazine 20 years ago about a shepherd up here in the 1950s who noticed the goats descendng the high fells earlier in the Autumn than expected; he decided to bring his sheep in too. The following night heavy snow and a bitterly cold winter followed and he thought he would have lost most of his sheep if he hadn't brought them in. To say thank you to the goats, come spring he bought the biggest billygoat from Morpeth market and released it to join the herd.
 
-Further along the Border Ridge lies Yearning Saddle Refuge Hut, the interior covered with the names, dates and gofundme addresses of Pennnie Way walkers who've stopped by. The soggy visitor book showed I'd just missed a group of nuns walking from Wndy Gyle back to Byrness (At least I think they're nuns, they had quite bad handwriting.)
+Further along the Border Ridge lies Yearning Saddle Refuge Hut, the interior covered with the names, dates and gofundme addresses of Pennnie Way walkers who've stopped by. The soggy visitor book showed I'd just missed a group of nuns walking from Windy Gyle back to Byrness (At least I think they're nuns, they had quite bad handwriting.)
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/YearningSaddleHut.jpg)
 
@@ -51,7 +51,7 @@ From here, I head around the hill Yearning Law and down past an ancient farmstea
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/FarmsteadBuckhamWall.jpg)
 
-Further down the hill it's another nice walk along the Buckham's Wall's Burn back to the car, but I stop 3 miles downstream on the way at the site of the infamous pub, the Slyme-Foot. Here farmers would spend their time gmabling and drinking the moonshine from the illcit stills or smuggled over the border, dishing out orders to their shepherds working out on the hills. On the far bank of the Coquet, it lies at the foot of The Street, an ancient drover's road from Scotland, that led from here to Morebattle near Kelso.
+Further down the hill it's another nice walk along the Buckham's Wall's Burn back to the car, but I stop 3 miles downstream from Blindburn at the site of the infamous pub, the Slyme-Foot. Here farmers would spend their time gmabling and drinking the moonshine from the illcit stills or smuggled over the border, dishing out orders to their shepherds working out on the hills. On the far bank of the Coquet, it lies at the foot of The Street, an ancient drover's road from Scotland, that led from here to Morebattle near Kelso.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/blindburn/SlymefootInn.jpg)
 
