@@ -80,6 +80,8 @@ I first learned that these old stills existed back in the early 2000s when some 
 
 [The Production and Trade of Beer and Whisky in Upper Coquetdale]({{ site.url }}{{ site.baseurl }}/assets/images/whisky/coquetdalewhiskyresearchreport-2.pdf) - a dry 80-odd page report full of historical research comissioned by the National Park.
 
+[The Old Tracks Through The Cheviots](https://www.northern-heritage.co.uk/product/books/archaeology/the-old-tracks-through-the-cheviots-david-jones-with-coquetdale-community)by Davd Jones, a very readable history of this area.
+
 I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together [a selection of photographs and locations for them](https://www.geograph.org.uk/snippet/5569).
 
 
