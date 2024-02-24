@@ -1,9 +1,9 @@
 ---
 layout: single
 author: sarah
-title: Blindburn Still
+title: Rory's Still
 header:
-  teaser: /assets/images/blindburn/BuckhamsWallsBurn.jpg
+  teaser: /assets/images/usway/Rowhope.jpg
 category: Northumberland
 tags: walks northumberland history
 ---
