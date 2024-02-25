@@ -12,9 +12,9 @@ A fine morning to walk out again in Upper Coquetdale and find the last of the ex
 
 [![Rowhope Burn]({{ site.url }}{{ site.baseurl }}/assets/images/usway/Rowhope.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/Rowhope.jpg)
 
-It was still frosty as I walked out from the car park at Rowhope, following a track along the Trows Burn, past Murder Cleuch (Cleuch is the Northumbrian name for these small steep-sided valleys): 
+It was still frosty as I walked out from the car park at Rowhope, following a track along the Trows Burn, past Murder cleugh (cleugh is the Northumbrian name for these small steep-sided valleys, which this burn flows into): 
 
-[![Murder Cleuch]({{ site.url }}{{ site.baseurl }}/assets/images/usway/MurderCleuch.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/MurderCleuch.jpg)
+[![Murder cleugh]({{ site.url }}{{ site.baseurl }}/assets/images/usway/Murdercleugh.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/Murdercleugh.jpg)
 
 Here, the awful murder took place in 1610 of Isabella Sudden, beaten to death by Robert Lumsden "with stones worth 1d struck against her stomach so that she languished and died". The agent of the court tred to arrest Lumsden, but was attacked by Lumsden's friends. Further efforts to arrest him were made, until he was tried in 1634 and sentenced to a month in jail and a fine of 100 marks. 
 
@@ -28,7 +28,7 @@ Following Clennel Street takes me past Uswayford Farm, and the old bunkhouse for
 
 [![Uswayford]({{ site.url }}{{ site.baseurl }}/assets/images/usway/UswayfordFarm.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/UswayfordFarm.jpg)
 
-Then I leave Clennel Street to keep alongside the burn, and it's just another kilometre to the site of Rory's Still, hidden away at the confluence of Inner Hare Cleuch and the Usway. (Also, four cleuchs up from here is another Murder Cleuch.)
+Then I leave Clennel Street to keep alongside the burn, and it's just another kilometre to the site of Rory's Still, hidden away at the confluence of Inner Hare cleugh and the Usway. (Also, four cleughs up from here is another Murder cleugh.)
 
 [![Rory's Still]({{ site.url }}{{ site.baseurl }}/assets/images/usway/RorysStill1.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/RorysStill1.jpg)
 
@@ -48,9 +48,9 @@ At this point, I was going to follow the Salter's Road through the Usway Plantat
 
 [![impassable bridleway']({{ site.url }}{{ site.baseurl }}/assets/images/usway/ImpassableBridleway.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/ImpassableBridleway.jpg)
 
-I eventually went back to the footbridge and with difficulty picked my way up Inner Hare Cleuch, reaching Clennel Street further south and adding a few extra kms to the trip.
+I eventually went back to the footbridge and with difficulty picked my way up Inner Hare cleugh, reaching Clennel Street further south and adding a few extra kms to the trip.
 
-[![Inner Hare Cleuch']({{ site.url }}{{ site.baseurl }}/assets/images/usway/DifficultBurn.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/DifficultBurn.jpg)
+[![Inner Hare cleugh']({{ site.url }}{{ site.baseurl }}/assets/images/usway/DifficultBurn.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/usway/DifficultBurn.jpg)
 
 Heading up to the border ridge along a proper path (rather than making your own way up and getting stuck under a fence/fallen tree like I do) is always a gorgeous walk. I made great pace once I wasn't negotiating deep tussocky bog. To my shock, however, I spotted something unusual - another walker about a mile ahead. For this entire walk, despite being a gloriously sunny, windless day in the middle of a National Park, I saw a total of 6 people. This very typical for walking in Northumberland!
 
