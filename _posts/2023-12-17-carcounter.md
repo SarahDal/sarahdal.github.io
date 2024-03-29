@@ -4,7 +4,7 @@ author: sarah
 title: Arduino Car Counter
 header:
   teaser: /www/assets/images/CC_housing.jpg
-category: Arduino & ESP32
+category: Arduino-ESP32
 ---
 
 While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.
