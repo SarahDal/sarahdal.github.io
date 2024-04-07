@@ -10,13 +10,13 @@ tags: walks northumberland history
 
 I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..
 
-Kielder Forest was planted up between the wars, to provide a strategic timber resource for the nation. In the late 1970s the valley was flooded, to provide water for a predicted increase in demand from the industrial centres On Tyneside, Wearside and Teesside. The demand didn't occur, and since the 1980s the forest and reservoir have supposedly been managed with [recreation and conservation in mind](https://www.visitkielder.com/).
+Kielder Forest was planted up between the wars, to provide a strategic timber resource for the nation. In the late 1970s the valley was flooded, to provide water for a predicted increase in demand from the industrial centres on Tyneside, Wearside and Teesside. The increased demand didn't occur, and since the 1980s the forest and reservoir have supposedly been managed with [recreation and conservation in mind](https://www.visitkielder.com/).
 
 | [![Image]({{ site.url }}{{ site.baseurl }}/assets/images/wildwood/KielderForest.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/wildwood/KielderForest.jpg) | 
 |:--:| 
 | A forest track curves through tall plantation woodland |
 
-Back in 1955, forestry surveyor [Valdemars Blankenburgs](https://wiki.bellingham-heritage.org.uk/index.php/Blankenburgs,_Valdemars) noticed a strand of 8 [Scots Pines](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/scots-pine/) deep in the hills. Scots Pine is only considered "native" in the Scottish Highlands, having vanished elsewhere in Britain about 4,500 years ago.
+Back in 1955, forestry surveyor [Valdemars Blankenburgs](https://wiki.bellingham-heritage.org.uk/index.php/Blankenburgs,_Valdemars) noticed a stand of 8 [Scots Pines](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/scots-pine/) deep in the hills. Scots Pine is only considered "native" in the Scottish Highlands, having vanished elsewhere in Britain by about 4,500 years ago.
 
 I walked from the Kielder Burn Car Park on forestry tracks to have a look at them, along the very lovely (but rainy and blowy) Scaup Burn.
 
@@ -25,7 +25,7 @@ I walked from the Kielder Burn Car Park on forestry tracks to have a look at the
 |:--:| 
 | Scaup Burn, a stoney river curves into view under a break in the clouds. There are a clump of trees to the left of the picture, while on the other bank the ground leads away to forest on the horizon. |
 
-This remote valley is being "rewilded", with planting of native trees, removal of commerical trees, and the reintroduction of water vole. I saw plenty of monitoring stations for mink, and I bet there's long term plans to reintroduce other species too.
+This remote valley is being "rewilded", with planting of native trees, removal of commerical tree species, and the reintroduction of water vole. 
 
 | [![Image]({{ site.url }}{{ site.baseurl }}/assets/images/wildwood/ScaupPond.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/wildwood/ScaupPond.jpg) | 
 |:--:| 
@@ -55,7 +55,7 @@ It's now considered highly likely that these trees are the only naturally growin
 |:--:| 
 | Tall old Scots Pine trees rise out of the broadleaf trees on a steep slope. |
 
-They are surrounded by young Scots Pine trees, taken from the old trees themselves. With two of the 8 having been lost in recent years, the trees are strongly protected, and are the centrepiece of a rewilding and planting project in William's Cleuch and nearby Scaup Burn valley, lead by Northumberland Wildlife Trust, with lots of detail on the [Kielder Wildwood page](https://www.nwt.org.uk/what-we-do/projects/wildwood).
+They are surrounded by young Scots Pine trees, seedlings and cuttings grown from the old trees themselves. With two of the 8 having been lost in recent years, the trees are strongly protected, and are the centrepiece of a rewilding and planting project in William's Cleuch and nearby Scaup Burn valley, lead by Northumberland Wildlife Trust, with lots of detail on the [Kielder Wildwood page](https://www.nwt.org.uk/what-we-do/projects/wildwood).
 
 It was really magical to see the trees and be near them, often when I'm walking I wonder what the landscape here looked like 200, 500, a thousand years earlier. To see something survive from so long ago is very special indeed.
 
