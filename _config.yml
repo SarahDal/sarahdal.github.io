@@ -24,8 +24,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 destination: docs
 
 plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+- jekyll-feed
+- jekyll-include-cache
+- jekyll-leaflet
 
 
 date_format: "%d %b %Y"
