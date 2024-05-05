@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-05-05T17:44:05+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Merrick and the Galloway Hills</title><link href="https://sarahdal.github.io//walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>https://sarahdal.github.io//walks/2024/05/04/Merrick</id><content type="html" xml:base="https://sarahdal.github.io//walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-05-05T18:01:26+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Merrick and the Galloway Hills</title><link href="https://sarahdal.github.io//walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>https://sarahdal.github.io//walks/2024/05/04/Merrick</id><content type="html" xml:base="https://sarahdal.github.io//walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
 
 &lt;p&gt;From the very end of the Glentrool road I parked at Bruce’s Stone car park, then followed the lovely Buchan Burn past the Culsharg Bothy, more of an open shelter maintained by the Forestry comission rather than a fancy &lt;a href=&quot;https://www.mountainbothies.org.uk/&quot;&gt;MBA bothy&lt;/a&gt;, with the door handles and windows broken.&lt;/p&gt;
 
@@ -262,7 +262,1057 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;</content><author><name>sarah</name></author><category term="walks" /><category term="hiking" /><summary type="html">Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.</summary></entry><entry><title type="html">Redesdale Border Walk</title><link href="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html" rel="alternate" type="text/html" title="Redesdale Border Walk" /><published>2024-04-21T00:00:00+01:00</published><updated>2024-04-21T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/04/21/Whitelee</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html">&lt;p&gt;This weekend I took a walk high above Redesdale, an area notorious for lawless border reivers up to the 1600s.&lt;/p&gt;
+&lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
+
+&lt;div id=&quot;leaflet-map-576cb451df1802e5c401b8ef708cd6be&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(() =&gt; {
+// Specify configuration variables, setup any elements and styling
+    var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
+    var esriLeafletCdn = &quot;https://unpkg.com/esri-leaflet/dist/&quot;;
+
+    // Get tag input arguments &amp; inside block object list
+    var tagInputArg = {&quot;zoom&quot; : 13 } ;
+    var blockLeafletItems = [
+    {id: &quot;73d2e089904e82a41bb4f00802c86818&quot;,
+              type: &quot;LeafletGeoJSON&quot;,
+              value: &quot;/assets/geojson/Merrick1.geojson&quot; },
+];
+
+    // Override the map div id if specified, apply default CSS
+    var defaultMapElId = &quot;leaflet-map-576cb451df1802e5c401b8ef708cd6be&quot;;
+   var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
+    var mapEl = document.getElementById(defaultMapElId);
+    if(&apos;divId&apos; in tagInputArg){
+        mapEl.id = tagInputArg[&apos;divId&apos;];
+    }
+    var defaultMapCssEl = document.createElement(&quot;style&quot;);
+    defaultMapCssEl.innerHTML = 
+        &quot;#&quot; + defaultMapElId + &quot;{&quot; + defaultMapElStyle + &quot;}&quot;;
+    document.head.appendChild(defaultMapCssEl);
+
+    var newWindowImgSrcBase64 = &quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wUVFzAHq2j99AAAAV9JREFUSMdjYKAxYCRHk5ubG9+1a9fm/v//H6cadnb2G/fu3atlIceC379/c3z9+jUEn5q/f/8eYWBgYECxQE5OroqA2Y8ePXq0hJWV9Qc3N/caZB8wMjJKff361QpvEAkKCv4nYMGh9+/f26MLamhoyLx9+3b/nz9/VJCC6MiLFy9sWXCE3xlGRsZvWKQu4DOciYnpCzc396HPnz97weRxWRD/8OHDa4TiAt1wfn5+z79//zoxMDDALWAiN/lhM/zevXtH0NUx0dJwsiwgxXCccUCJ4dzc3DP+//+/gZ2d/duLFy9Is+Djx4+rCbn82rVrrxgYGF6RFUR8fHyZbGxsD7AZLiEhUSAiIrJSUlIyjOw4uHnz5gVHR0d1bC7/8+eP5d+/f8P+/PmjS1Ekr1ix4hcp6ploXVwPfQuwJlMmJiYBLS0tIVIMev36NRvRFnz48OHohw8fhkYQjQKCAAChiL6Pj/LM2QAAAABJRU5ErkJggg==&quot;;
+
+// Actual mapping section; Specify a function to be called later that 
+// assembles the correct JS components based on what the user specified in the 
+// tag input arg, the block section of features, etc. Actually creates the map
+// that is visible on the page
+
+    function _getCenter(){
+        var defaultCenter = [0,0];
+        if(&quot;center&quot; in tagInputArg){
+            return tagInputArg.center;
+        } else {
+            return defaultCenter;
+        }
+    }
+
+    function _getZoom(){
+        var defaultZoom = 1;
+        if(&quot;zoom&quot; in tagInputArg){
+            return tagInputArg.zoom
+        } else {
+            return defaultZoom;
+        }
+    }
+
+    function _getProviderBasemap(){
+        var defaultProviderBasemap = &quot;OpenStreetMap.Mapnik&quot;;
+        if(&quot;providerBasemap&quot; in tagInputArg){
+            return tagInputArg.providerBasemap;
+        } else {
+            return defaultProviderBasemap;
+        }
+    }
+
+
+    function _addMarkerToMap(leafletItem, map){
+        var m = leafletItem.value;
+        var result = L.marker([m.latitude, m.longitude]).addTo(map);
+        var potentialPopup = &quot;&quot;;
+        if(&apos;popupContent&apos; in m){
+                potentialPopup += m.popupContent;}
+        if(&apos;href&apos; in m){
+            potentialPopup += &apos;&lt;a href=&quot;&apos; + m.href + &apos;&quot;&gt;&apos; + 
+                &apos;&lt;img src=&quot;&apos; + newWindowImgSrcBase64 + &apos;&quot;&gt;&lt;/img&gt;&lt;/a&gt;&apos;;}
+        if(potentialPopup){
+            result.bindPopup(potentialPopup);}
+        if(!(&apos;center&apos; in tagInputArg)){
+            // If the user didn&apos;t specify a center, infer from marker
+            map.panTo(new L.LatLng(m.latitude, m.longitude));
+        }
+    }
+
+    function _onEachFeature(feature, layer){
+        var potentialPopup = &quot;&quot;
+        if(feature.properties &amp;&amp; feature.properties.popupContent){
+            potentialPopup += feature.properties.popupContent;
+        }
+        if(feature.properties &amp;&amp; feature.properties.href){
+            potentialPopup += 
+                &apos;&lt;a href=&quot;&apos; + feature.properties.href + &apos;&quot;&gt;&apos; + 
+                    &apos;&lt;img src=&quot;&apos; + newWindowImgSrcBase64 + &apos;&quot;&gt;&lt;/img&gt;&lt;/a&gt;&apos;;}
+        if(potentialPopup){
+            layer.bindPopup(potentialPopup);
+        }
+    }
+
+    function _addGeoJSONToMap(leafletItem, map){
+        if(typeof leafletItem.value === &quot;string&quot;){
+            fetch(leafletItem.value).then((resp) =&gt; {
+                return resp.json();
+            }).then((data) =&gt; {
+                leafletItem.value = data;
+                _addGeoJSONObjToMap(leafletItem, map);
+            }).catch((err) =&gt; {
+                console.log(&quot;Encountered err w/ geojson, attempting to fix..&quot;);
+                console.log(err);
+                _addGeoJSONObjToMap(leafletItem, map);
+            });
+        } else {
+            _addGeoJSONObjToMap(leafletItem, map);
+        }
+     }
+
+    function _addGeoJSONObjToMap(leafletItem, map){
+         var geojson = L.geoJSON(leafletItem.value, { 
+            onEachFeature: _onEachFeature 
+        });
+        layers = geojson.getLayers();
+        for(var i=0; i&lt;layers.length; i++){
+            try{
+                var geom = layers[i].feature.geometry;
+                if(!(&apos;center&apos; in tagInputArg)){
+                    // If the user didn&apos;t specify a center, infer from geojson
+                    //console.log(&quot;panning to &quot; + geom.coordinates);
+                    map.panTo(new L.LatLng(geom.coordinates[1],
+                                           geom.coordinates[0]));
+                }
+            } catch(e){}
+        }
+       
+        geojson.addTo(map);
+       
+    }
+
+    function _processLeafletItem(leafletItem, map){
+        switch(leafletItem.type){
+            case &quot;LeafletMarker&quot;:
+                _addMarkerToMap(leafletItem, map);
+                break;
+            case &quot;LeafletGeoJSON&quot;:
+                _addGeoJSONToMap(leafletItem, map);
+                break;
+            case undefined:
+                break; 
+            default:
+                console.log(&quot;Couldn&apos;t add item &quot; + leafletItem.id);
+                break;
+        }
+    }
+
+//The actual section that is called that creates a map
+    function createMap(){
+        console.log(&quot;Creating map 576cb451df1802e5c401b8ef708cd6be with these args:&quot;);
+        console.log(tagInputArg);
+
+        //Initialize Map with the correct input arguments
+        var map = L.map(mapEl.id, 
+            {worldCopyJump: true}).setView(_getCenter(), _getZoom());
+        L.tileLayer.provider(_getProviderBasemap()).addTo(map);
+        if(&quot;esriBasemap&quot; in tagInputArg){
+            L.esri.basemapLayer(tagInputArg.esriBasemap).addTo(map);
+        }
+
+        //process each Leaflet Item passed in between the block tag middle
+        for(var i=0; i&lt;blockLeafletItems.length; i++){
+            var leafletItem = blockLeafletItems[i];
+            console.log(&quot;Adding leaflet item &quot; + leafletItem.id + &quot;:&quot;);
+            console.log(leafletItem);
+            _processLeafletItem(leafletItem, map);
+        }
+    }
+
+// Load the correct JS libraries/CSS by adding to head: 
+// When ready, call createMap() to create the map on the page
+
+    function _createMap(){
+        // helper function to draw the map only when everything is loaded,
+        // safeguards against multiple calls to window.onload
+        var prevOnLoad;
+        if(window.onload){
+            prevOnLoad = window.onload;
+        }
+        window.onload = () =&gt; {
+            createMap();
+            if(prevOnLoad){
+                prevOnLoad();
+            }
+        }
+    }
+
+    var leafletCssId = &quot;leaflet-css-head&quot;;
+    var leafletJsId = &quot;leaflet-js-head&quot;;
+    var esriLeafletJsId = &quot;esri-leaflet-js-head&quot;;
+    var leafletProvidersJsId = &quot;leaflet-providers-js-head&quot;;
+
+    // Add the leaflet CSS first, don&apos;t worry about when it loads
+    var leafletCssEl = document.createElement(&quot;link&quot;);
+    leafletCssEl.id = leafletCssId;
+    leafletCssEl.rel = &quot;stylesheet&quot;;
+    leafletCssEl.href = leafletCdn + &quot;leaflet.css&quot;;
+    if(!document.getElementById(leafletCssEl.id)){
+        document.head.appendChild(leafletCssEl);
+    }
+
+    function addToHeadIfNotLoaded(el) {
+        //Add the el to the head if it doesn&apos;t exist already. If it does,
+        //everything we need is already loaded, so draw the map
+        if(!document.getElementById(el.id)){
+            document.head.appendChild(el);
+        } else {
+            _createMap();
+        }
+    }
+
+    // Load the main leaflet.js code, wait for it to load
+    var leafletJsEl = document.createElement(&quot;script&quot;);
+    leafletJsEl.id = leafletJsId;
+    leafletJsEl.onload = () =&gt; {
+        //After loaded, load the esri-leaflet.js code, wait for it to load
+        var esriEl = document.createElement(&quot;script&quot;);
+        esriEl.id = esriLeafletJsId;
+        esriEl.onload = () =&gt; {
+            //After loaded, add the inline leaflet-providers &lt;script&gt;
+            provEl = document.createElement(&quot;script&quot;);
+            provEl.id = leafletProvidersJsId;
+            provEl.innerHTML = `//Taken from https://github.com/leaflet-extras/leaflet-providers
+(function (root, factory) {
+	if (typeof define === &apos;function&apos; &amp;&amp; define.amd) {
+		// AMD. Register as an anonymous module.
+		define([&apos;leaflet&apos;], factory);
+	} else if (typeof modules === &apos;object&apos; &amp;&amp; module.exports) {
+		// define a Common JS module that relies on &apos;leaflet&apos;
+		module.exports = factory(require(&apos;leaflet&apos;));
+	} else {
+		// Assume Leaflet is loaded into global object L already
+		factory(L);
+	}
+}(this, function (L) {
+	&apos;use strict&apos;;
+
+	L.TileLayer.Provider = L.TileLayer.extend({
+		initialize: function (arg, options) {
+			var providers = L.TileLayer.Provider.providers;
+
+			var parts = arg.split(&apos;.&apos;);
+
+			var providerName = parts[0];
+			var variantName = parts[1];
+
+			if (!providers[providerName]) {
+				throw &apos;No such provider (&apos; + providerName + &apos;)&apos;;
+			}
+
+			var provider = {
+				url: providers[providerName].url,
+				options: providers[providerName].options
+			};
+
+			// overwrite values in provider from variant.
+			if (variantName &amp;&amp; &apos;variants&apos; in providers[providerName]) {
+				if (!(variantName in providers[providerName].variants)) {
+					throw &apos;No such variant of &apos; + providerName + &apos; (&apos; + variantName + &apos;)&apos;;
+				}
+				var variant = providers[providerName].variants[variantName];
+				var variantOptions;
+				if (typeof variant === &apos;string&apos;) {
+					variantOptions = {
+						variant: variant
+					};
+				} else {
+					variantOptions = variant.options;
+				}
+				provider = {
+					url: variant.url || provider.url,
+					options: L.Util.extend({}, provider.options, variantOptions)
+				};
+			}
+
+			// replace attribution placeholders with their values from toplevel provider attribution,
+			// recursively
+			var attributionReplacer = function (attr) {
+				if (attr.indexOf(&apos;{attribution.&apos;) === -1) {
+					return attr;
+				}
+				return attr.replace(/\{attribution.(\w*)\}/g,
+					function (match, attributionName) {
+						return attributionReplacer(providers[attributionName].options.attribution);
+					}
+				);
+			};
+			provider.options.attribution = attributionReplacer(provider.options.attribution);
+
+			// Compute final options combining provider options with any user overrides
+			var layerOpts = L.Util.extend({}, provider.options, options);
+			L.TileLayer.prototype.initialize.call(this, provider.url, layerOpts);
+		}
+	});
+
+	/**
+	 * Definition of providers.
+	 * see http://leafletjs.com/reference.html#tilelayer for options in the options map.
+	 */
+
+	L.TileLayer.Provider.providers = {
+		OpenStreetMap: {
+			url: &apos;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 19,
+				attribution:
+					&apos;&amp;copy; &lt;a href=&quot;https://www.openstreetmap.org/copyright&quot;&gt;OpenStreetMap&lt;/a&gt; contributors&apos;
+			},
+			variants: {
+				Mapnik: {},
+				DE: {
+					url: &apos;https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png&apos;,
+					options: {
+						maxZoom: 18
+					}
+				},
+				CH: {
+					url: &apos;https://tile.osm.ch/switzerland/{z}/{x}/{y}.png&apos;,
+					options: {
+						maxZoom: 18,
+						bounds: [[45, 5], [48, 11]]
+					}
+				},
+				France: {
+					url: &apos;https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png&apos;,
+					options: {
+						maxZoom: 20,
+						attribution: &apos;&amp;copy; Openstreetmap France | {attribution.OpenStreetMap}&apos;
+					}
+				},
+				HOT: {
+					url: &apos;https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png&apos;,
+					options: {
+						attribution:
+							&apos;{attribution.OpenStreetMap}, &apos; +
+							&apos;Tiles style by &lt;a href=&quot;https://www.hotosm.org/&quot; target=&quot;_blank&quot;&gt;Humanitarian OpenStreetMap Team&lt;/a&gt; &apos; +
+							&apos;hosted by &lt;a href=&quot;https://openstreetmap.fr/&quot; target=&quot;_blank&quot;&gt;OpenStreetMap France&lt;/a&gt;&apos;
+					}
+				},
+				BZH: {
+					url: &apos;https://tile.openstreetmap.bzh/br/{z}/{x}/{y}.png&apos;,
+					options: {
+						attribution: &apos;{attribution.OpenStreetMap}, Tiles courtesy of &lt;a href=&quot;http://www.openstreetmap.bzh/&quot; target=&quot;_blank&quot;&gt;Breton OpenStreetMap Team&lt;/a&gt;&apos;,
+						bounds: [[46.2, -5.5], [50, 0.7]]
+					}
+				}
+			}
+		},
+		OpenSeaMap: {
+			url: &apos;https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png&apos;,
+			options: {
+				attribution: &apos;Map data: &amp;copy; &lt;a href=&quot;http://www.openseamap.org&quot;&gt;OpenSeaMap&lt;/a&gt; contributors&apos;
+			}
+		},
+		OpenPtMap: {
+			url: &apos;http://openptmap.org/tiles/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 17,
+				attribution: &apos;Map data: &amp;copy; &lt;a href=&quot;http://www.openptmap.org&quot;&gt;OpenPtMap&lt;/a&gt; contributors&apos;
+			}
+		},
+		OpenTopoMap: {
+			url: &apos;https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 17,
+				attribution: &apos;Map data: {attribution.OpenStreetMap}, &lt;a href=&quot;http://viewfinderpanoramas.org&quot;&gt;SRTM&lt;/a&gt; | Map style: &amp;copy; &lt;a href=&quot;https://opentopomap.org&quot;&gt;OpenTopoMap&lt;/a&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA&lt;/a&gt;)&apos;
+			}
+		},
+		OpenRailwayMap: {
+			url: &apos;https://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 19,
+				attribution: &apos;Map data: {attribution.OpenStreetMap} | Map style: &amp;copy; &lt;a href=&quot;https://www.OpenRailwayMap.org&quot;&gt;OpenRailwayMap&lt;/a&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA&lt;/a&gt;)&apos;
+			}
+		},
+		OpenFireMap: {
+			url: &apos;http://openfiremap.org/hytiles/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 19,
+				attribution: &apos;Map data: {attribution.OpenStreetMap} | Map style: &amp;copy; &lt;a href=&quot;http://www.openfiremap.org&quot;&gt;OpenFireMap&lt;/a&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA&lt;/a&gt;)&apos;
+			}
+		},
+		SafeCast: {
+			url: &apos;https://s3.amazonaws.com/te512.safecast.org/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 16,
+				attribution: &apos;Map data: {attribution.OpenStreetMap} | Map style: &amp;copy; &lt;a href=&quot;https://blog.safecast.org/about/&quot;&gt;SafeCast&lt;/a&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC-BY-SA&lt;/a&gt;)&apos;
+			}
+		},
+		Thunderforest: {
+			url: &apos;https://{s}.tile.thunderforest.com/{variant}/{z}/{x}/{y}.png?apikey={apikey}&apos;,
+			options: {
+				attribution:
+					&apos;&amp;copy; &lt;a href=&quot;http://www.thunderforest.com/&quot;&gt;Thunderforest&lt;/a&gt;, {attribution.OpenStreetMap}&apos;,
+				variant: &apos;cycle&apos;,
+				apikey: &apos;&lt;insert your api key here&gt;&apos;,
+				maxZoom: 22
+			},
+			variants: {
+				OpenCycleMap: &apos;cycle&apos;,
+				Transport: {
+					options: {
+						variant: &apos;transport&apos;
+					}
+				},
+				TransportDark: {
+					options: {
+						variant: &apos;transport-dark&apos;
+					}
+				},
+				SpinalMap: {
+					options: {
+						variant: &apos;spinal-map&apos;
+					}
+				},
+				Landscape: &apos;landscape&apos;,
+				Outdoors: &apos;outdoors&apos;,
+				Pioneer: &apos;pioneer&apos;
+			}
+		},
+		OpenMapSurfer: {
+			url: &apos;https://maps.heigit.org/openmapsurfer/tiles/{variant}/webmercator/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 19,
+				variant: &apos;roads&apos;,
+				attribution: &apos;Imagery from &lt;a href=&quot;http://giscience.uni-hd.de/&quot;&gt;GIScience Research Group @ University of Heidelberg&lt;/a&gt; | Map data &apos;
+			},
+			variants: {
+				Roads: {
+					options: {
+						variant: &apos;roads&apos;,
+						attribution: &apos;{attribution.OpenMapSurfer}{attribution.OpenStreetMap}&apos;
+					}
+				},
+				Hybrid: {
+					options: {
+						variant: &apos;hybrid&apos;,
+						attribution: &apos;{attribution.OpenMapSurfer}{attribution.OpenStreetMap}&apos;
+					}
+				},
+				AdminBounds: {
+					options: {
+						variant: &apos;adminb&apos;,
+						maxZoom: 18,
+						attribution: &apos;{attribution.OpenMapSurfer}{attribution.OpenStreetMap}&apos;
+					}
+				},
+				ContourLines: {
+					options: {
+						variant: &apos;asterc&apos;,
+						maxZoom: 18,
+						minZoom: 13,
+						attribution: &apos;{attribution.OpenMapSurfer} &lt;a href=&quot;https://lpdaac.usgs.gov/products/aster_policies&quot;&gt;ASTER GDEM&lt;/a&gt;&apos;
+					}
+				},
+				Hillshade: {
+					options: {
+						variant: &apos;asterh&apos;,
+						maxZoom: 18,
+						attribution: &apos;{attribution.OpenMapSurfer} &lt;a href=&quot;https://lpdaac.usgs.gov/products/aster_policies&quot;&gt;ASTER GDEM&lt;/a&gt;, &lt;a href=&quot;http://srtm.csi.cgiar.org/&quot;&gt;SRTM&lt;/a&gt;&apos;
+					}
+				},
+				ElementsAtRisk: {
+					options: {
+						variant: &apos;elements_at_risk&apos;,
+						attribution: &apos;{attribution.OpenMapSurfer}{attribution.OpenStreetMap}&apos;
+					}
+				}
+			}
+		},
+		Hydda: {
+			url: &apos;https://{s}.tile.openstreetmap.se/hydda/{variant}/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 18,
+				variant: &apos;full&apos;,
+				attribution: &apos;Tiles courtesy of &lt;a href=&quot;http://openstreetmap.se/&quot; target=&quot;_blank&quot;&gt;OpenStreetMap Sweden&lt;/a&gt; &amp;mdash; Map data {attribution.OpenStreetMap}&apos;
+			},
+			variants: {
+				Full: &apos;full&apos;,
+				Base: &apos;base&apos;,
+				RoadsAndLabels: &apos;roads_and_labels&apos;
+			}
+		},
+		MapBox: {
+			url: &apos;https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}{r}.png?access_token={accessToken}&apos;,
+			options: {
+				attribution:
+					&apos;&lt;a href=&quot;https://www.mapbox.com/about/maps/&quot; target=&quot;_blank&quot;&gt;&amp;copy; Mapbox&lt;/a&gt; &apos; +
+					&apos;{attribution.OpenStreetMap} &apos; +
+					&apos;&lt;a href=&quot;https://www.mapbox.com/map-feedback/&quot; target=&quot;_blank&quot;&gt;Improve this map&lt;/a&gt;&apos;,
+				subdomains: &apos;abcd&apos;,
+				id: &apos;mapbox.streets&apos;,
+				accessToken: &apos;&lt;insert your access token here&gt;&apos;,
+			}
+		},
+		Stamen: {
+			url: &apos;https://stamen-tiles-{s}.a.ssl.fastly.net/{variant}/{z}/{x}/{y}{r}.{ext}&apos;,
+			options: {
+				attribution:
+					&apos;Map tiles by &lt;a href=&quot;http://stamen.com&quot;&gt;Stamen Design&lt;/a&gt;, &apos; +
+					&apos;&lt;a href=&quot;http://creativecommons.org/licenses/by/3.0&quot;&gt;CC BY 3.0&lt;/a&gt; &amp;mdash; &apos; +
+					&apos;Map data {attribution.OpenStreetMap}&apos;,
+				subdomains: &apos;abcd&apos;,
+				minZoom: 0,
+				maxZoom: 20,
+				variant: &apos;toner&apos;,
+				ext: &apos;png&apos;
+			},
+			variants: {
+				Toner: &apos;toner&apos;,
+				TonerBackground: &apos;toner-background&apos;,
+				TonerHybrid: &apos;toner-hybrid&apos;,
+				TonerLines: &apos;toner-lines&apos;,
+				TonerLabels: &apos;toner-labels&apos;,
+				TonerLite: &apos;toner-lite&apos;,
+				Watercolor: {
+					url: &apos;https://stamen-tiles-{s}.a.ssl.fastly.net/{variant}/{z}/{x}/{y}.{ext}&apos;,
+					options: {
+						variant: &apos;watercolor&apos;,
+						ext: &apos;jpg&apos;,
+						minZoom: 1,
+						maxZoom: 16
+					}
+				},
+				Terrain: {
+					options: {
+						variant: &apos;terrain&apos;,
+						minZoom: 0,
+						maxZoom: 18
+					}
+				},
+				TerrainBackground: {
+					options: {
+						variant: &apos;terrain-background&apos;,
+						minZoom: 0,
+						maxZoom: 18
+					}
+				},
+				TopOSMRelief: {
+					url: &apos;https://stamen-tiles-{s}.a.ssl.fastly.net/{variant}/{z}/{x}/{y}.{ext}&apos;,
+					options: {
+						variant: &apos;toposm-color-relief&apos;,
+						ext: &apos;jpg&apos;,
+						bounds: [[22, -132], [51, -56]]
+					}
+				},
+				TopOSMFeatures: {
+					options: {
+						variant: &apos;toposm-features&apos;,
+						bounds: [[22, -132], [51, -56]],
+						opacity: 0.9
+					}
+				}
+			}
+		},
+		Esri: {
+			url: &apos;https://server.arcgisonline.com/ArcGIS/rest/services/{variant}/MapServer/tile/{z}/{y}/{x}&apos;,
+			options: {
+				variant: &apos;World_Street_Map&apos;,
+				attribution: &apos;Tiles &amp;copy; Esri&apos;
+			},
+			variants: {
+				WorldStreetMap: {
+					options: {
+						attribution:
+							&apos;{attribution.Esri} &amp;mdash; &apos; +
+							&apos;Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012&apos;
+					}
+				},
+				DeLorme: {
+					options: {
+						variant: &apos;Specialty/DeLorme_World_Base_Map&apos;,
+						minZoom: 1,
+						maxZoom: 11,
+						attribution: &apos;{attribution.Esri} &amp;mdash; Copyright: &amp;copy;2012 DeLorme&apos;
+					}
+				},
+				WorldTopoMap: {
+					options: {
+						variant: &apos;World_Topo_Map&apos;,
+						attribution:
+							&apos;{attribution.Esri} &amp;mdash; &apos; +
+							&apos;Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community&apos;
+					}
+				},
+				WorldImagery: {
+					options: {
+						variant: &apos;World_Imagery&apos;,
+						attribution:
+							&apos;{attribution.Esri} &amp;mdash; &apos; +
+							&apos;Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community&apos;
+					}
+				},
+				WorldTerrain: {
+					options: {
+						variant: &apos;World_Terrain_Base&apos;,
+						maxZoom: 13,
+						attribution:
+							&apos;{attribution.Esri} &amp;mdash; &apos; +
+							&apos;Source: USGS, Esri, TANA, DeLorme, and NPS&apos;
+					}
+				},
+				WorldShadedRelief: {
+					options: {
+						variant: &apos;World_Shaded_Relief&apos;,
+						maxZoom: 13,
+						attribution: &apos;{attribution.Esri} &amp;mdash; Source: Esri&apos;
+					}
+				},
+				WorldPhysical: {
+					options: {
+						variant: &apos;World_Physical_Map&apos;,
+						maxZoom: 8,
+						attribution: &apos;{attribution.Esri} &amp;mdash; Source: US National Park Service&apos;
+					}
+				},
+				OceanBasemap: {
+					options: {
+						variant: &apos;Ocean_Basemap&apos;,
+						maxZoom: 13,
+						attribution: &apos;{attribution.Esri} &amp;mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri&apos;
+					}
+				},
+				NatGeoWorldMap: {
+					options: {
+						variant: &apos;NatGeo_World_Map&apos;,
+						maxZoom: 16,
+						attribution: &apos;{attribution.Esri} &amp;mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC&apos;
+					}
+				},
+				WorldGrayCanvas: {
+					options: {
+						variant: &apos;Canvas/World_Light_Gray_Base&apos;,
+						maxZoom: 16,
+						attribution: &apos;{attribution.Esri} &amp;mdash; Esri, DeLorme, NAVTEQ&apos;
+					}
+				}
+			}
+		},
+		OpenWeatherMap: {
+			url: &apos;http://{s}.tile.openweathermap.org/map/{variant}/{z}/{x}/{y}.png?appid={apiKey}&apos;,
+			options: {
+				maxZoom: 19,
+				attribution: &apos;Map data &amp;copy; &lt;a href=&quot;http://openweathermap.org&quot;&gt;OpenWeatherMap&lt;/a&gt;&apos;,
+				apiKey:&apos;&lt;insert your api key here&gt;&apos;,
+				opacity: 0.5
+			},
+			variants: {
+				Clouds: &apos;clouds&apos;,
+				CloudsClassic: &apos;clouds_cls&apos;,
+				Precipitation: &apos;precipitation&apos;,
+				PrecipitationClassic: &apos;precipitation_cls&apos;,
+				Rain: &apos;rain&apos;,
+				RainClassic: &apos;rain_cls&apos;,
+				Pressure: &apos;pressure&apos;,
+				PressureContour: &apos;pressure_cntr&apos;,
+				Wind: &apos;wind&apos;,
+				Temperature: &apos;temp&apos;,
+				Snow: &apos;snow&apos;
+			}
+		},
+		HERE: {
+			/*
+			 * HERE maps, formerly Nokia maps.
+			 * These basemaps are free, but you need an API key. Please sign up at
+			 * https://developer.here.com/plans
+			 */
+			url:
+				&apos;https://{s}.{base}.maps.api.here.com/maptile/2.1/&apos; +
+				&apos;{type}/{mapID}/{variant}/{z}/{x}/{y}/{size}/{format}?&apos; +
+				&apos;app_id={app_id}&amp;app_code={app_code}&amp;lg={language}&apos;,
+			options: {
+				attribution:
+					&apos;Map &amp;copy; 1987-&apos; + new Date().getFullYear() + &apos; &lt;a href=&quot;http://developer.here.com&quot;&gt;HERE&lt;/a&gt;&apos;,
+				subdomains: &apos;1234&apos;,
+				mapID: &apos;newest&apos;,
+				&apos;app_id&apos;: &apos;&lt;insert your app_id here&gt;&apos;,
+				&apos;app_code&apos;: &apos;&lt;insert your app_code here&gt;&apos;,
+				base: &apos;base&apos;,
+				variant: &apos;normal.day&apos;,
+				maxZoom: 20,
+				type: &apos;maptile&apos;,
+				language: &apos;eng&apos;,
+				format: &apos;png8&apos;,
+				size: &apos;256&apos;
+			},
+			variants: {
+				normalDay: &apos;normal.day&apos;,
+				normalDayCustom: &apos;normal.day.custom&apos;,
+				normalDayGrey: &apos;normal.day.grey&apos;,
+				normalDayMobile: &apos;normal.day.mobile&apos;,
+				normalDayGreyMobile: &apos;normal.day.grey.mobile&apos;,
+				normalDayTransit: &apos;normal.day.transit&apos;,
+				normalDayTransitMobile: &apos;normal.day.transit.mobile&apos;,
+				normalNight: &apos;normal.night&apos;,
+				normalNightMobile: &apos;normal.night.mobile&apos;,
+				normalNightGrey: &apos;normal.night.grey&apos;,
+				normalNightGreyMobile: &apos;normal.night.grey.mobile&apos;,
+				normalNightTransit: &apos;normal.night.transit&apos;,
+				normalNightTransitMobile: &apos;normal.night.transit.mobile&apos;,
+				reducedDay: &apos;reduced.day&apos;,
+				reducedNight: &apos;reduced.night&apos;,
+				basicMap: {
+					options: {
+						type: &apos;basetile&apos;
+					}
+				},
+				mapLabels: {
+					options: {
+						type: &apos;labeltile&apos;,
+						format: &apos;png&apos;
+					}
+				},
+				trafficFlow: {
+					options: {
+						base: &apos;traffic&apos;,
+						type: &apos;flowtile&apos;
+					}
+				},
+				carnavDayGrey: &apos;carnav.day.grey&apos;,
+				hybridDay: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;hybrid.day&apos;
+					}
+				},
+				hybridDayMobile: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;hybrid.day.mobile&apos;
+					}
+				},
+				hybridDayTransit: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;hybrid.day.transit&apos;
+					}
+				},
+				hybridDayGrey: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;hybrid.grey.day&apos;
+					}
+				},
+				pedestrianDay: &apos;pedestrian.day&apos;,
+				pedestrianNight: &apos;pedestrian.night&apos;,
+				satelliteDay: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;satellite.day&apos;
+					}
+				},
+				terrainDay: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;terrain.day&apos;
+					}
+				},
+				terrainDayMobile: {
+					options: {
+						base: &apos;aerial&apos;,
+						variant: &apos;terrain.day.mobile&apos;
+					}
+				}
+			}
+		},
+		FreeMapSK: {
+			url: &apos;http://t{s}.freemap.sk/T/{z}/{x}/{y}.jpeg&apos;,
+			options: {
+				minZoom: 8,
+				maxZoom: 16,
+				subdomains: &apos;1234&apos;,
+				bounds: [[47.204642, 15.996093], [49.830896, 22.576904]],
+				attribution:
+					&apos;{attribution.OpenStreetMap}, vizualization CC-By-SA 2.0 &lt;a href=&quot;http://freemap.sk&quot;&gt;Freemap.sk&lt;/a&gt;&apos;
+			}
+		},
+		MtbMap: {
+			url: &apos;http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png&apos;,
+			options: {
+				attribution:
+					&apos;{attribution.OpenStreetMap} &amp;amp; USGS&apos;
+			}
+		},
+		CartoDB: {
+			url: &apos;https://{s}.basemaps.cartocdn.com/{variant}/{z}/{x}/{y}{r}.png&apos;,
+			options: {
+				attribution: &apos;{attribution.OpenStreetMap} &amp;copy; &lt;a href=&quot;https://carto.com/attributions&quot;&gt;CARTO&lt;/a&gt;&apos;,
+				subdomains: &apos;abcd&apos;,
+				maxZoom: 19,
+				variant: &apos;light_all&apos;
+			},
+			variants: {
+				Positron: &apos;light_all&apos;,
+				PositronNoLabels: &apos;light_nolabels&apos;,
+				PositronOnlyLabels: &apos;light_only_labels&apos;,
+				DarkMatter: &apos;dark_all&apos;,
+				DarkMatterNoLabels: &apos;dark_nolabels&apos;,
+				DarkMatterOnlyLabels: &apos;dark_only_labels&apos;,
+				Voyager: &apos;rastertiles/voyager&apos;,
+				VoyagerNoLabels: &apos;rastertiles/voyager_nolabels&apos;,
+				VoyagerOnlyLabels: &apos;rastertiles/voyager_only_labels&apos;,
+				VoyagerLabelsUnder: &apos;rastertiles/voyager_labels_under&apos;
+			}
+		},
+		HikeBike: {
+			url: &apos;https://tiles.wmflabs.org/{variant}/{z}/{x}/{y}.png&apos;,
+			options: {
+				maxZoom: 19,
+				attribution: &apos;{attribution.OpenStreetMap}&apos;,
+				variant: &apos;hikebike&apos;
+			},
+			variants: {
+				HikeBike: {},
+				HillShading: {
+					options: {
+						maxZoom: 15,
+						variant: &apos;hillshading&apos;
+					}
+				}
+			}
+		},
+		BasemapAT: {
+			url: &apos;https://maps{s}.wien.gv.at/basemap/{variant}/normal/google3857/{z}/{y}/{x}.{format}&apos;,
+			options: {
+				maxZoom: 19,
+				attribution: &apos;Datenquelle: &lt;a href=&quot;https://www.basemap.at&quot;&gt;basemap.at&lt;/a&gt;&apos;,
+				subdomains: [&apos;&apos;, &apos;1&apos;, &apos;2&apos;, &apos;3&apos;, &apos;4&apos;],
+				format: &apos;png&apos;,
+				bounds: [[46.358770, 8.782379], [49.037872, 17.189532]],
+				variant: &apos;geolandbasemap&apos;
+			},
+			variants: {
+				basemap: {
+					options: {
+						maxZoom: 20, // currently only in Vienna
+						variant: &apos;geolandbasemap&apos;
+					}
+				},
+				grau: &apos;bmapgrau&apos;,
+				overlay: &apos;bmapoverlay&apos;,
+				highdpi: {
+					options: {
+						variant: &apos;bmaphidpi&apos;,
+						format: &apos;jpeg&apos;
+					}
+				},
+				orthofoto: {
+					options: {
+						maxZoom: 20, // currently only in Vienna
+						variant: &apos;bmaporthofoto30cm&apos;,
+						format: &apos;jpeg&apos;
+					}
+				}
+			}
+		},
+		nlmaps: {
+			url: &apos;https://geodata.nationaalgeoregister.nl/tiles/service/wmts/{variant}/EPSG:3857/{z}/{x}/{y}.png&apos;,
+			options: {
+				minZoom: 6,
+				maxZoom: 19,
+				bounds: [[50.5, 3.25], [54, 7.6]],
+				attribution: &apos;Kaartgegevens &amp;copy; &lt;a href=&quot;kadaster.nl&quot;&gt;Kadaster&lt;/a&gt;&apos;
+			},
+			variants: {
+				&apos;standaard&apos;: &apos;brtachtergrondkaart&apos;,
+				&apos;pastel&apos;: &apos;brtachtergrondkaartpastel&apos;,
+				&apos;grijs&apos;: &apos;brtachtergrondkaartgrijs&apos;,
+				&apos;luchtfoto&apos;: {
+					&apos;url&apos;: &apos;https://geodata.nationaalgeoregister.nl/luchtfoto/rgb/wmts/1.0.0/2016_ortho25/EPSG:3857/{z}/{x}/{y}.png&apos;,
+				}
+			}
+		},
+		NASAGIBS: {
+			url: &apos;https://map1.vis.earthdata.nasa.gov/wmts-webmerc/{variant}/default/{time}/{tilematrixset}{maxZoom}/{z}/{y}/{x}.{format}&apos;,
+			options: {
+				attribution:
+					&apos;Imagery provided by services from the Global Imagery Browse Services (GIBS), operated by the NASA/GSFC/Earth Science Data and Information System &apos; +
+					&apos;(&lt;a href=&quot;https://earthdata.nasa.gov&quot;&gt;ESDIS&lt;/a&gt;) with funding provided by NASA/HQ.&apos;,
+				bounds: [[-85.0511287776, -179.999999975], [85.0511287776, 179.999999975]],
+				minZoom: 1,
+				maxZoom: 9,
+				format: &apos;jpg&apos;,
+				time: &apos;&apos;,
+				tilematrixset: &apos;GoogleMapsCompatible_Level&apos;
+			},
+			variants: {
+				ModisTerraTrueColorCR: &apos;MODIS_Terra_CorrectedReflectance_TrueColor&apos;,
+				ModisTerraBands367CR: &apos;MODIS_Terra_CorrectedReflectance_Bands367&apos;,
+				ViirsEarthAtNight2012: {
+					options: {
+						variant: &apos;VIIRS_CityLights_2012&apos;,
+						maxZoom: 8
+					}
+				},
+				ModisTerraLSTDay: {
+					options: {
+						variant: &apos;MODIS_Terra_Land_Surface_Temp_Day&apos;,
+						format: &apos;png&apos;,
+						maxZoom: 7,
+						opacity: 0.75
+					}
+				},
+				ModisTerraSnowCover: {
+					options: {
+						variant: &apos;MODIS_Terra_Snow_Cover&apos;,
+						format: &apos;png&apos;,
+						maxZoom: 8,
+						opacity: 0.75
+					}
+				},
+				ModisTerraAOD: {
+					options: {
+						variant: &apos;MODIS_Terra_Aerosol&apos;,
+						format: &apos;png&apos;,
+						maxZoom: 6,
+						opacity: 0.75
+					}
+				},
+				ModisTerraChlorophyll: {
+					options: {
+						variant: &apos;MODIS_Terra_Chlorophyll_A&apos;,
+						format: &apos;png&apos;,
+						maxZoom: 7,
+						opacity: 0.75
+					}
+				}
+			}
+		},
+		NLS: {
+			// NLS maps are copyright National library of Scotland.
+			// http://maps.nls.uk/projects/api/index.html
+			// Please contact NLS for anything other than non-commercial low volume usage
+			//
+			// Map sources: Ordnance Survey 1:1m to 1:63K, 1920s-1940s
+			//   z0-9  - 1:1m
+			//  z10-11 - quarter inch (1:253440)
+			//  z12-18 - one inch (1:63360)
+			url: &apos;https://nls-{s}.tileserver.com/nls/{z}/{x}/{y}.jpg&apos;,
+			options: {
+				attribution: &apos;&lt;a href=&quot;http://geo.nls.uk/maps/&quot;&gt;National Library of Scotland Historic Maps&lt;/a&gt;&apos;,
+				bounds: [[49.6, -12], [61.7, 3]],
+				minZoom: 1,
+				maxZoom: 18,
+				subdomains: &apos;0123&apos;,
+			}
+		},
+		JusticeMap: {
+			// Justice Map (http://www.justicemap.org/)
+			// Visualize race and income data for your community, county and country.
+			// Includes tools for data journalists, bloggers and community activists.
+			url: &apos;http://www.justicemap.org/tile/{size}/{variant}/{z}/{x}/{y}.png&apos;,
+			options: {
+				attribution: &apos;&lt;a href=&quot;http://www.justicemap.org/terms.php&quot;&gt;Justice Map&lt;/a&gt;&apos;,
+				// one of &apos;county&apos;, &apos;tract&apos;, &apos;block&apos;
+				size: &apos;county&apos;,
+				// Bounds for USA, including Alaska and Hawaii
+				bounds: [[14, -180], [72, -56]]
+			},
+			variants: {
+				income: &apos;income&apos;,
+				americanIndian: &apos;indian&apos;,
+				asian: &apos;asian&apos;,
+				black: &apos;black&apos;,
+				hispanic: &apos;hispanic&apos;,
+				multi: &apos;multi&apos;,
+				nonWhite: &apos;nonwhite&apos;,
+				white: &apos;white&apos;,
+				plurality: &apos;plural&apos;
+			}
+		},
+		Wikimedia: {
+			url: &apos;https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.png&apos;,
+			options: {
+				attribution: &apos;&lt;a href=&quot;https://wikimediafoundation.org/wiki/Maps_Terms_of_Use&quot;&gt;Wikimedia&lt;/a&gt;&apos;,
+				minZoom: 1,
+				maxZoom: 19
+			}
+		},
+		GeoportailFrance: {
+			url: &apos;https://wxs.ign.fr/{apikey}/geoportail/wmts?REQUEST=GetTile&amp;SERVICE=WMTS&amp;VERSION=1.0.0&amp;STYLE={style}&amp;TILEMATRIXSET=PM&amp;FORMAT={format}&amp;LAYER={variant}&amp;TILEMATRIX={z}&amp;TILEROW={y}&amp;TILECOL={x}&apos;,
+			options: {
+				attribution: &apos;&lt;a target=&quot;_blank&quot; href=&quot;https://www.geoportail.gouv.fr/&quot;&gt;Geoportail France&lt;/a&gt;&apos;,
+				bounds: [[-75, -180], [81, 180]],
+				minZoom: 2,
+				maxZoom: 18,
+				// Get your own geoportail apikey here : http://professionnels.ign.fr/ign/contrats/
+				// NB : &apos;choisirgeoportail&apos; is a demonstration key that comes with no guarantee
+				apikey: &apos;choisirgeoportail&apos;,
+				format: &apos;image/jpeg&apos;,
+				style : &apos;normal&apos;,
+				variant: &apos;GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD&apos;
+			},
+			variants: {
+				parcels: {
+					options : {
+						variant: &apos;CADASTRALPARCELS.PARCELS&apos;,
+						maxZoom: 20,
+						style : &apos;bdparcellaire&apos;,
+						format: &apos;image/png&apos;
+					}
+				},
+				ignMaps: &apos;GEOGRAPHICALGRIDSYSTEMS.MAPS&apos;,
+				maps: &apos;GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD&apos;,
+				orthos: {
+					options: {
+						maxZoom: 19,
+						variant: &apos;ORTHOIMAGERY.ORTHOPHOTOS&apos;
+					}
+				}
+			}
+		},
+		OneMapSG: {
+			url: &apos;https://maps-{s}.onemap.sg/v3/{variant}/{z}/{x}/{y}.png&apos;,
+			options: {
+				variant: &apos;Default&apos;,
+				minZoom: 11,
+				maxZoom: 18,
+				bounds: [[1.56073, 104.11475], [1.16, 103.502]],
+				attribution: &apos;&lt;img src=&quot;https://docs.onemap.sg/maps/images/oneMap64-01.png&quot; style=&quot;height:20px;width:20px;&quot;/&gt; New OneMap | Map data &amp;copy; contributors, &lt;a href=&quot;http://SLA.gov.sg&quot;&gt;Singapore Land Authority&lt;/a&gt;&apos;
+			},
+			variants: {
+				Default: &apos;Default&apos;,
+				Night: &apos;Night&apos;,
+				Original: &apos;Original&apos;,
+				Grey: &apos;Grey&apos;,
+				LandLot: &apos;LandLot&apos;
+			}
+		}
+	};
+
+	L.tileLayer.provider = function (provider, options) {
+		return new L.TileLayer.Provider(provider, options);
+	};
+
+	return L;
+}));
+`;
+            if(!document.getElementById(provEl.id)){
+                 document.head.appendChild(provEl);        
+            }
+            _createMap();
+            }
+        esriEl.src = esriLeafletCdn + &quot;esri-leaflet.js&quot;;
+        addToHeadIfNotLoaded(esriEl);
+        };
+    leafletJsEl.src = leafletCdn + &quot;leaflet.js&quot;;
+    addToHeadIfNotLoaded(leafletJsEl);
+})();
+&lt;/script&gt;</content><author><name>sarah</name></author><category term="walks" /><category term="hiking" /><summary type="html">Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.</summary></entry><entry><title type="html">Redesdale Border Walk</title><link href="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html" rel="alternate" type="text/html" title="Redesdale Border Walk" /><published>2024-04-21T00:00:00+01:00</published><updated>2024-04-21T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/04/21/Whitelee</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html">&lt;p&gt;This weekend I took a walk high above Redesdale, an area notorious for lawless border reivers up to the 1600s.&lt;/p&gt;
 
 &lt;p&gt;My walk took me up through the Northern part of the Redesdale forest, past &lt;a href=&quot;https://www.mountainbothies.org.uk/bothies/northern-england-borders/spithope/&quot;&gt;Spithope Bothy&lt;/a&gt;. This simple stone shelter, surrounded by a large walled area, was probably once a place for Drovers to rest up with their cattle safely after traversing over the border; it lies on a bridleway (now covered by forest) that leads straight across the border to meet a path down into Scotland.&lt;/p&gt;
 
