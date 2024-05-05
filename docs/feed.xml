@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-05-05T18:33:16+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Merrick and the Galloway Hills</title><link href="https://sarahdal.github.io//walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>https://sarahdal.github.io//walks/2024/05/04/Merrick</id><content type="html" xml:base="https://sarahdal.github.io//walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-05-05T18:36:45+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Merrick and the Galloway Hills</title><link href="https://sarahdal.github.io//walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>https://sarahdal.github.io//walks/2024/05/04/Merrick</id><content type="html" xml:base="https://sarahdal.github.io//walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
 
 &lt;p&gt;From the very end of the Glentrool road I parked at Bruce’s Stone car park, then followed the lovely Buchan Burn past the Culsharg Bothy, more of an open shelter maintained by the Forestry comission rather than a fancy &lt;a href=&quot;https://www.mountainbothies.org.uk/&quot;&gt;MBA bothy&lt;/a&gt;, with the door handles and windows broken.&lt;/p&gt;
 
@@ -264,7 +264,7 @@
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-64c8379f2a74a253cbe0540b9aedda0c&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-ecf79aabb8f0f2bcfabd73d9873709b1&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -275,16 +275,16 @@
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;45e8c4604462ee97296e0e1560d6bb6c&quot;,
+    {id: &quot;5ffb2219dbaab9bfd5ce1e46013abe97&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;c3a347fa39ea9c8f52531dab84fc3157&quot;,
+    {id: &quot;fab8e47c2d3b1a57db143279be0a5458&quot;,
               type: &quot;LeafletGeoJSON&quot;,
-              value: &quot;/assets/geojson/Merrick1.geojson&quot; },
+              value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-64c8379f2a74a253cbe0540b9aedda0c&quot;;
+    var defaultMapElId = &quot;leaflet-map-ecf79aabb8f0f2bcfabd73d9873709b1&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -417,7 +417,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 64c8379f2a74a253cbe0540b9aedda0c with these args:&quot;);
+        console.log(&quot;Creating map ecf79aabb8f0f2bcfabd73d9873709b1 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
