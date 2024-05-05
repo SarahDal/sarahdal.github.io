@@ -1,0 +1,365 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Arduino Car Counter - Sarah Dalrymple</title>
+<meta name="description" content="While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Sarah Dalrymple">
+<meta property="og:title" content="Arduino Car Counter">
+<meta property="og:url" content="https://sarahdal.github.io//arduino-esp32/2023/12/17/carcounter.html">
+
+
+  <meta property="og:description" content="While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.">
+
+
+
+  <meta property="og:image" content="https://sarahdal.github.io//www/assets/images/CC_housing.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2023-12-17T00:00:00+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://sarahdal.github.io//arduino-esp32/2023/12/17/carcounter.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://sarahdal.github.io//"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Sarah Dalrymple Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/Kilda3.jpg" alt="Sarah Dalrymple"></a>
+        
+        <a class="site-title" href="/">
+          Sarah Dalrymple
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/picam/">Live Stream</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Arduino Car Counter">
+    <meta itemprop="description" content="While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.">
+    <meta itemprop="datePublished" content="2023-12-17T00:00:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Arduino Car Counter
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2023-12-17T00:00:00+00:00">17 Dec 2023</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>While talking about electronics at work, my colleague mentioned a car counter he’d bought for a large sum of money that never really worked. I had the idea that I could build one myself, from Arduino, and thought I’d give it a try.</p>
+
+<p>In 2019 when I did this project, internet searching found the following projects that I used as inspiration:</p>
+
+<ul>
+  <li><a href="https://www.dbpharrison.com/projects/interactivefloor/arduinopeoplecounter1/">Arudino people counting, using PIR (passive infra-red)</a></li>
+  <li><a href="https://hackaday.io/project/4567-traffic-counter-road-tube">Kris Temmermen’s car counter on Hackaday</a></li>
+  <li>Plus a couple more that are now gone and only available on internet archive: <a href="https://web.archive.org/web/20141222170015/https://wiki.makercave.org/wiki/Arduino_Vehicle_Traffic_Counter">makercave</a>, and <a href="http://www.old.tomorrow-lab.com/lab16">tomorrow-lab</a> which doesn’t have all the files any more. All of these sites were incredibly useful, both for ideas, inspiration and code help.</li>
+</ul>
+
+<p>The plan was to use a pressure sensor to record when there is a change in pressure inside a sealed rubber tube, such as when a car drives over it. Simple! I wanted to make it as low-power as possible, so it would run for a good while before needing batteries changed. It’s to be deployed in a rural location, counting cars coming in and out of a car park.</p>
+
+<p><a href="https://github.com/SarahDal/ArduinoCC">You can find the arduino code and details of the project in this repo</a>.</p>
+
+<h2 id="main-kit">Main Kit:</h2>
+
+<ul>
+  <li>Arduino Pro Mini 328 - 5V/16MHz</li>
+  <li>MPX5100DP Pressure Sensor</li>
+  <li>RV 3028 RTC Breakout</li>
+  <li>SparkFun Level Shifting microSD Breakout</li>
+  <li>4mm internal diameter rubber fuel hose rubber hose, 4mm T connector, 4mm double headed bulkhead connector</li>
+  <li>Weather-proof housing</li>
+  <li>A power source</li>
+  <li>Connectors and soldering iron</li>
+</ul>
+
+<p>The car counter uses Arduino Pro Mini, a great, compact, low power arduino. However, it doesn’t have a USB socket, so power needs to go straight to a pin, carefully, and it needs an FTDI board to convert USB to TTL, or something similar, so it can be programmed. It also has offset A4 (SDA) and A5 (SCL) pins. This is a pain when using a breadboard because they don’t line up with any holes. The trick is to solder them to A2 and A3 respectively, turning those pins into SDA and SCL.</p>
+<ul>
+  <li>The RV3028 RTC is a great low power clock module. It’s I2C; it connects to the SCL/SDA.</li>
+  <li>The microSD card breakouthas SPI connections, CD, DO, SCK, CS and VCC and GND.</li>
+  <li>The Pressure sensor, the NXP MPX5100DP connects to 5v, GND and an analogue data pin - I used A0.</li>
+</ul>
+
+<p>Cars run over a sealed rubber tube on the ground, which is connected to a NXP MPX5100DP pressure sensor. The rubber hosing was sealed at one end (I used the T-connector in the end of the hose, and a short length joining the two arms to the T, making it sealed) laid across the entrance to the car park and fixed in place with saddle clips, which were screwed into rawl plugs I drilled in the road. Drill a hole in your housing and use the bulkhead connector to get the tube inside and connected to the pressure sensor - see image below for how I did it, using a short length of 4mm plastic tube I had lying around to go from the bulkhead to the pressure sensor once inside the housing:</p>
+
+<p><img src="https://sarahdal.github.io///assets/images/CC_housing.jpg" alt="" /></p>
+
+<h2 id="connecting-it-up">Connecting it up:</h2>
+
+<p>You can connect up the Clock (RV 3028) and the microSD card breakout as normal. The pressure sensor - MPX5100DP - has 6 pins. Pin 1 is notched, and connects to any pin. Pin 2 is ground and pin 3 is VCC. (NXP, who make the pressure sensor, have a surprisingly active and helpful <a href="https://community.nxp.com/">online forum</a>).</p>
+
+<p>The pressure sensor works by measuring the pressure in one of the ports, and comparing it to the pressure in the other port. The difference is returned as a voltage between 0 and 5. This can then be converted to Kpa or mb but we don’t really need to know that, so we’ll just use the raw values the pressure sensor returns to us.</p>
+
+<h2 id="code">Code</h2>
+
+<p>I made two code files, one for calibration and one to run. <a href="https://github.com/SarahDal/ArduinoCC">You can find them on my github</a>. As cars are all pretty much the same weight (“heavy”) when compared to a human or an animal, this let me see what that was, so I could set the pressure level at which to record a car.</p>
+
+<p>The second code waited until the reading from the pressure sensor reached above a certain amount (worked out from the above) above the average of the past twenty readings. Changes in air pressure and temperature could affect the pressure in the tube, so an average is used instead. It measures a data spike, and it waits 400ms between readings. It writes this “hit” to the SD card with date and time.</p>
+
+<h2 id="housing">Housing</h2>
+
+<p>Using a pelicase clone and a bulkhead connector, I was able to house everything in a nice waterproof unit. I added solar power with an energiser and a small solar panel.</p>
+
+<h2 id="testing-and-calibrating">Testing and Calibrating</h2>
+
+<p>With the first code running, I drove a car, a pickup truck and finally I jumped on it a bit, then looked at the results graphed. This showed that the average time between each axle of the vehicles was 0.345s, and anything above 60 was probably going to be a car.</p>
+
+<p>I regularly checked the results and tinkered the calibration to get it right. Obviously, the number of vehicles counted needed dividing by 4 (Two hits for each car, and each car enters and leaves the car park).</p>
+
+<h2 id="power-consumption">Power Consumption</h2>
+
+<p>I didn’t have a way of measuring low power, but I calculated the power consumption from the components as using 193mA when triggered, and 11.3mA when at rest. I had it running for 147 hours off 1900mAh batteries (12mA average), but there weren’t many cars to trigger it. There are loads of ways to further reduce power consumption of an Arduino pro mini (see <a href="https://www.gammon.com.au/power">https://www.gammon.com.au/power</a>), but this was low enough for me to power it with a small 12V battery or a few lithium cells.</p>
+
+<h2 id="future-ideas">Future Ideas</h2>
+
+<p>This was simple to set up, and for under £100 I was able to not only accurately count the numbers of visitor’s cars to the reserve, but the different numbers on each day and even time of day.</p>
+
+<p>The first obvious improvement would be to implement a sleep function to save battery. And now it’s a few years on, I would absolutely use ESP32 for this project, and have it send the data somewhere rather than (or as well as) save to SD card.</p>
+
+<p><img src="https://sarahdal.github.io///assets/images/CC_arduino.jpg" alt="" width="800px" /> Connecting up SDA and SCL to pins A2 and A3</p>
+
+<p><img src="https://sarahdal.github.io///assets/images/CC_housing.jpg" alt="" width="800px" /> Counter tech in the box, powered by batteries and with an on/off switch</p>
+
+<p><img src="https://sarahdal.github.io///assets/images/CC_graph_annotated.JPG" alt="" width="800px" /> Example of calibration graph</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-12-17T00:00:00+00:00">17 Dec 2023</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/home%20assistant/2023/12/17/HomeAssistant.html" class="pagination--pager" title="Home Assistant
+">Previous</a>
+    
+    
+      <a href="/home%20assistant/2023/12/18/cat-fed.html" class="pagination--pager" title="Has the cat been fed?
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://ecoevo.social/@sarahdalgulls/" rel="nofollow noopener noreferrer"><i class="fab fa-mastodon" aria-hidden="true"></i> mastodon</a></li>
+        
+      
+        
+          <li><a href="https://www.instagram.com/zooplanktonbears/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 Sarah Dalrymple. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
