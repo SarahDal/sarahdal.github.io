@@ -21,9 +21,11 @@ repository: SarahDal/www
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-leaflet
 
 date_format: "%d %b %Y"
 
