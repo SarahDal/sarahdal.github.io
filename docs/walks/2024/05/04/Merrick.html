@@ -450,7 +450,7 @@
 
 <p>Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.</p>
 
-<div id="leaflet-map-27ad964c04b4909aaabc08893ed14621" class="leaflet-map"></div>
+<div id="leaflet-map-1dd8f86a64fefec16ddcbffc1289c1d4" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -458,20 +458,19 @@
 
     // Get tag input arguments & inside block object list
     var tagInputArg = { "center" : [55.12, -4.45],
-                 "zoom" : 13,
-                 "divId" : "mapDiv",
+                 "zoom" : 11,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-    {id: "3b7dfdab9c1e0f190184f4578b813cbd",
+    {id: "00cd326574bdabfa312f491f0ad92562",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick1.geojson" },
-    {id: "d64dcb279c2af38f51041886b89c99cb",
+    {id: "3687ba0531a4627bf6f04371d8dcdf92",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick2.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-27ad964c04b4909aaabc08893ed14621";
+    var defaultMapElId = "leaflet-map-1dd8f86a64fefec16ddcbffc1289c1d4";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -604,7 +603,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 27ad964c04b4909aaabc08893ed14621 with these args:");
+        console.log("Creating map 1dd8f86a64fefec16ddcbffc1289c1d4 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
