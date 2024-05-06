@@ -61,7 +61,7 @@ var store = [{
       },{
         "title": "Williams Cleuch Pines",
         "excerpt":"I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees.. Kielder Forest was planted up between the wars, to provide a strategic timber resource for the nation. In the late 1970s the valley was flooded, to provide water for a...","categories": ["Northumberland"],
-        "tags": ["walks","northumberland","history"],
+        "tags": ["walks","northumberland","history","hiking"],
         "url": "/northumberland/2024/04/07/WilliamsCleuchPines.html",
         "teaser": "/assets/images/image.jpg"
       },{

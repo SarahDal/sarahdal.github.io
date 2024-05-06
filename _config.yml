@@ -29,6 +29,7 @@ plugins:
 - jekyll-leaflet
 
 
+
 date_format: "%d %b %Y"
 
 
@@ -73,5 +74,29 @@ footer:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+maplibre:
+  width:  600
+  height: 400
+  zoom:   10
+  pmtiles: true
+  style: false
+  # if style is not set to an URL (Mapbox, MapTiler, OpenMapTiles), the following values are used
+  sprite: /assets/maps/osm-liberty-sprites/osm-liberty
+  glyphs: /assets/maps/fonts/{fontstack}/{range}.pbf
+  layers: /assets/maps/OSM-Liberty-layers.json
+  sources:
+    openmaptiles: 
+      type: vector
+      url: pmtiles:///assets/maps/maptiler-osm-2020-02-10-v3.11-belgium_brussels.pmtiles
+      attribution: © <a href='https://openstreetmap.org'>OpenStreetMap contributors</a>
+    natural_earth_shaded_relief:
+      attribution: Made with <a href='https://www.naturalearthdata.com/'>Natural Earth</a> data
+      maxzoom: 6
+      type: raster
+      url: pmtiles:///assets/maps/natural_earth_2_shaded_relief.raster.pmtiles
+      # uncomment tileSize and tiles for cloud CDN tiles
+      # tileSize: 256
+      # tiles:
+      #   - "https://klokantech.github.io/naturalearthtiles/tiles/natural_earth_2_shaded_relief.raster/{z}/{x}/{y}.png"
 
 

@@ -5,8 +5,18 @@ title: Williams Cleuch Pines
 header:
   teaser: /assets/images/image.jpg
 category: Northumberland
-tags: walks northumberland history
+tags: walks northumberland history hiking
+location:
+    geojson: '{
+        "type": "Feature",
+        "properties": {"popupContent": "Williams Cleuch Pines"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [55.26, -2.53]
+        }
+    }'
 ---
+
 
 I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..
 
@@ -81,3 +91,10 @@ At Kielderhead, I thought I could follow a bridleway but it crossed over the bur
 | Inside, old shelves balanced on top of crates and bricks line the opposite wall. There's old paint pots, trusty tins, an ancient bottle of washing up liquid and, shoved behind a shelf, a laminated sheet of text on which is titled "Welcome to Kielder Head" |
 
 This route followed the recommended walk in the ["Walk to the Wildwood" Leaflet](https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf), and was really great despite the weather.
+
+{% leaflet_map { "center" : [55.266328, -2.536829],
+                 "zoom" : 12,
+                 "providerBasemap": "OpenTopoMap" } %}
+    {% leaflet_geojson "/assets/geojson/WilliamCleuch.geojson" %}
+{% endleaflet_map %}
+| Map of route taken |
