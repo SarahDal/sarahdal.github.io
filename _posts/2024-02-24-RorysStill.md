@@ -6,6 +6,16 @@ header:
   teaser: /assets/images/usway/Rowhope.jpg
 category: Northumberland
 tags: walks northumberland history
+location:
+    geojson: '{
+        "type": "Feature",
+        "properties": {"popupContent": "Redesdale Border Walk"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [55.43, -2.418]
+        }
+    }'
+---
 ---
 
 A fine morning to walk out again in Upper Coquetdale and find the last of the extant illicit stills, this time Rory's Still by the Usway Burn. 
@@ -84,4 +94,18 @@ I first learned that these old stills existed back in the early 2000s when some 
 
 I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together [a selection of photographs and locations for them](https://www.geograph.org.uk/snippet/5569).
 
-
+{% leaflet_map { "center" : [55.405, -2.204],
+                 "zoom" : 11,
+                 "providerBasemap": "OpenTopoMap" } %}
+     {% leaflet_marker { "latitude" : 55.413560,
+                       "longitude" : -2.284758,
+                       "popupContent" : "Blindburn Still"} %}	
+     {% leaflet_marker { "latitude" : 55.379630,
+                       "longitude" : -2.168993,
+                       "popupContent" : "Wholehope Still"} %}	
+     {% leaflet_marker { "latitude" : 55.4304,
+                       "longitude" : -2.1864,
+                       "popupContent" : "Rory's Still"} %}	   
+    {% leaflet_geojson "/assets/geojson/Usway.geojson" %}
+{% endleaflet_map %}
+| Map of today's walk, plus locations of the three extant whisky stills in Coquetdale: Blindburn, Wholehope and Rory's Still |
