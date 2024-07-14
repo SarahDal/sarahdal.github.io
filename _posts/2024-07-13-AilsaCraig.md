@@ -18,13 +18,15 @@ location:
 ---
 ---
 
-Nesting in colonies of tens of thousands, rocky cliffs and islands around the UK hold over half of the world's population of Northern Gannet (Morus bassanus), with the world's largest colony being Bass Rock in the Firth of Forth (75,000 pairs) and the colony on Saint Kilda (60,000 pairs).
+Nesting in colonies of tens of thousands of pairs, the rocky cliffs and islands around the UK hold over half of the world's population of Northern Gannet (*Morus bassanus*), with the world's largest colony being Bass Rock in the Firth of Forth (75,000 pairs) and the colony on Saint Kilda (60,000 pairs).
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240713_091304.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240713_091304.jpg) | 
 |:--:| 
 | A Gannet stands on a granite rock. A large white bird with a yellow hue on the head, long blue-grey bill, and striking blue eyes. Sadly this one has a broken wing - which is why I could get close enough for a pic |
 
 Traditionally these huge colonies are counted by aerial photography, and only really need a detailed count about once a decade. With these birds being impacted extremely badly by HPAI in 2022 and 2023, new counts are now being undertaken by drone, which is a lot easier (in theory) and cheaper than paying for dedicated photography from an aircraft. I've never carried out drone photography of cliff nesters so was asked if I'd like to help out with the count at Ailsa Craig, a lump of volcanic rock 16km (10 miles) off the coast of Ayrshire in South West Scotland.
+
+(Note - I was too busy paying attention to the drone flying to actually take many pictures of birds, so this post is really about the scenery)
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/FromGirvan.jpg)]({{ site.url }}pics/media/large/AilsaCraig/FromGirvan.jpg) | 
 |:--:| 
@@ -40,15 +42,14 @@ Ailsa Craig is famed for being the source of the finest granite for making Curli
 |:--:| 
 | Ailsa Craig viewed on approach from the boat, the lighthouse and assorted buildings around it can be seen above a rocky beach. Behind them the more grassy, but still steep, southern slopes of the rock rise above them. |
 
-The boat trip is about an hour out of Girvan, and includes a circuit of the island so we could see the dramatic cliffs rising out of the water, covered in nesting seabirds - Gannets are the most obvious, but colonies of guillemots and razorbills, kittiwakes, and fulmar, and on some of the steep grassy slopes, puffins ambling about between their burrows. Tysties (black guillemots) were on the water, although I couldn't spot any on the cliffs.
+The boat trip is about an hour out of Girvan, and includes a circuit of the island so we could see the dramatic cliffs rising out of the water, covered in nesting seabirds - Gannets are the most obvious, but colonies of guillemots, razorbills, kittiwakes, fulmar, and, on some of the steep grassy slopes, puffins ambling about between their burrows. Tysties (black guillemots) were on the water, although I couldn't spot any on the cliffs.
 
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_131633.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_131633.jpg) | 
 |:--:| 
 | A closer view of Ailsa Craig in the sun, cliffs white with seabirds tower about 200m over the sea, capped with a grassy dome. |
 
-
-Dozens of Manx shearwaters flew past the boat as well, presumably these nest on the island now, especially after rats were eradicated in the early 90s, but breeding has yet to be proven. You can read about the first succesful rat eradication in the UK in this [2001 article](https://web.archive.org/web/20220120073100/https://www.ayrshire-birding.org.uk/2001/01/ailsa_craig_before_and_after_the_eradication_of_rats_in_1991/) by Bernie Zofrillo, who led the eradication project.
+Dozens of Manx shearwaters flew past the boat as well, presumably these nest on the island now, especially after rats were eradicated in the early 90s, but breeding has yet to be proven. You can read about the first succesful rat eradication in the UK in this [2001 article](https://web.archive.org/web/20220120073100/https://www.ayrshire-birding.org.uk/2001/01/ailsa_craig_before_and_after_the_eradication_of_rats_in_1991/) by Bernie Zofrillo, who led the eradication project in the 1990s.
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_140850.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_140850.jpg) | 
 |:--:| 
@@ -73,7 +74,7 @@ Once on the island, we pitched our tents by the old gas works. This was where co
 | A ruined single story cottage with a window either side of the door. The roof has long collapsed. This was the "tennant's cottage".|
 
 
-In the sunshine, we walked from the lighthouse clockwise along the track left by this winter's rock extraction, we passed the south foghorn, on top of a concrete dome and with compressed air cannisters rusting alongside. Huge boulders litter the shore line, we walked as far as "Trammins" and flew the drone to take photographs of the gannets nesting on the 200m high cliffs towering above.
+In the afternoon sunshine, we walked from the lighthouse clockwise along the track left by this winter's rock extraction, we passed the south foghorn, on top of a concrete dome and with compressed air cannisters rusting alongside. Huge boulders litter the shore line, we walked as far as "Trammins" and flew the drone to take photographs of the gannets nesting on the 200m high cliffs towering above.
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_143557.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_143557.jpg) | 
 |:--:| 
@@ -82,18 +83,19 @@ In the sunshine, we walked from the lighthouse clockwise along the track left by
 |:--:| 
 | Granite cliffs tower above a rocky grass slope. Large white birds - gannets - wheel in the blue sky above. |
 
-I slept very well in my tent, and we were up at 6 but had to wait for the low cloud to shift and the tide to go out a little before walking anti-clockwise this time, following a trackway that carried the piped gas to power the north foghorn. In places it bridged inlets, these were rusted away so we dropped to the beach then climbed back up the other side.
+After a succesful flight, we returned for a peaceful evening of birding and an early night. I slept very well in my tent, and we were up at 6 but had to wait for the low cloud to shift and the tide to go out a little before walking anti-clockwise this time, following a trackway that carried the piped gas to power the north foghorn. In places it bridged inlets, these were rusted away so we dropped to the beach then climbed back up the other side.
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240713_083558.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240713_083558.jpg) | 
 |:--:| 
 | A narrow concrete walkway crosses the rocky beach. Where there are narrow inlets in the steep rock, it is bridged with rotten wooden and partiually missing slats across rusted metal framework.  |
+
+We also stopped at the remains of the old North Quarry, and puzzled a bit at vast piles of stone with cylinders cut out, and the stone cylinders themselves, before it clicked that these were where they used to cut out the basic curling stone shape before shipping them off the island, presumably easier to do so and ship off here before larger boats and trucks made taking whole boulders off the easiest method.
+
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_160127.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_160127.jpg) | 
 |:--:| 
 | A pile of granite rocks, smooth and grey, but many of them are cylindrical shaped. Each cylinder is about 30 cm in diameter and a little taller lengthwise. There's also some rusted bits of old machinery.  |
 
-We also stopped at the remains of the old North Quarry, and puzzled a bit at vast piles of stone with cylinders cut out, and the stone cylinders themselves, before it clicked that these were where they used to cut out the basic curling stone shape before shipping them off the island, presumably easier to do so and ship off here before larger boats and trucks made taking whole boulders off the easiest method.
-
-Tempted to take a "raw" curling stone back with us but a little heavy for our backpack. We walked on, past the northern foghorn, and then through a very low colony of Auks, until we were underneath the main Gannetry on the vast cliffs, and were able to photograph them again with the drone.
+Tempted to take a "raw" curling stone back with us but a little heavy for our backpacks, we walked on, past the northern foghorn.
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_161001.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_161001.jpg) | 
 |:--:| 
@@ -105,7 +107,9 @@ We passed a dry seacave, and had a look inside - nothign but bones of seals and 
 |:--:| 
 | Neatly carved into the granite of the cave, in a serif hand, is "MARCH 15TH / ALEXR THOMSON / 1886 / AILSA CRAIG / GIRVAN. Underneath is possibly a carved image of something, but it cannot be made out. |
 
-We carried out the drone survey, and then returned back. The south-west point of Ailsa Craig holds a deep seacave that makes walking a loop of the island impossible, so we walked back the way we came, passing a simple wooden structure that looked like a very old watcher's hide?
+Our walk took us close to a very low colony of Auks (no pics - we were concentrating on getting past them as quickly as possible to minimise disturbance). This colony could not have existed when rats were on the island. Elsewhere steep cliffs protect these birds from losing their eggs and chicks to predation, but here on the ground there's no defence. Wonderful to see, therefore, a growth in the colony thanks to the lack of danger.
+
+Soon we were underneath the main Gannetry on the vast cliffs, and carried out the drone survey. The south-west point of Ailsa Craig holds a deep seacave that makes walking a loop of the island impossible, so once complete we walked back the way we came, passing a simple wooden structure that looked like a very old watcher's hide?
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240713_102830.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240713_102830.jpg) | 
 |:--:| 
@@ -114,7 +118,7 @@ We carried out the drone survey, and then returned back. The south-west point of
 |:--:| 
 | Splattered with guano, bits of rotting wood and stacked up stones are the remains of some sort of simple structure here. Above auks - guillemots, puffins and razorbills - swirl in the sky. Looking across the sea behind, the isle of Arran can be seen on the horizon. |
 
-We returned and found we still had a good few hours before the boat. I climbed the incredibly steep and loose path through thick bracken, reaching the Castle (A 16th century tower). And alongside it, a tanked spring, one of four on the island. (the main source of water for our trip was me knocking at the lighthouse and asking if we could have a bottle of water when we realised we hadn't brought enough)
+We returned and found we still had a good few hours before the boat. I climbed the incredibly steep and loose path through thick bracken, reaching the castle, a stone 16th century tower. Just above it, as I carried on up the slope, was a tanked spring, one of four on the island. (the main source of water for our trip was me knocking at the lighthouse and asking if we could have a bottle of water when we realised we hadn't brought enough)
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240713_112520.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240713_112520.jpg) | 
 |:--:| 
@@ -123,7 +127,7 @@ We returned and found we still had a good few hours before the boat. I climbed t
 |:--:| 
 | Just above the castle is a concrete basin in the dense ferns on the slope. It's fed by a spring, this is Castle Spring (obvs) |
 
-Through the bracken, I could follow the path a little further, but then lost it int he bracken on the rocky slope. I didn't feel like going any further, so went back to the castle for a sandwich and a chat with a kayaker who had just arrived.
+Through the bracken, I could follow the path a little further, but then lost it in the bracken on the rocky slope. I didn't feel like going any further, so went back to the castle for a sandwich and a chat with a kayaker who had just arrived.
 
 After returning down the hill, I explored the buildings more, and chatted with daytrippers (birders) who'd been dropped off. The old Quarry Master's Cottage was used by the local ringing group until the roof collapsed, which is a real shame, but I imagine the costs of maintaining and repairing buildings out here is pretty significant.
 
@@ -134,5 +138,8 @@ After returning down the hill, I explored the buildings more, and chatted with d
 |:--:| 
 | Inside the small white building. The roof has collapsed and daylight can be seen on the bare stone wall where the plaster has fallen off. Next to it is a fireplace, still with lamps and candleholders on the manelpiece. A coat is hung on the wall, and a chair with a floral pattern sites at a table on which is a table cloth and various unidentifiable things, jars, a bottle, a wooden puffin, books. The collapsed ceiling covers the rest of the floor and bracken grows up at the back of the room. |
 
-What a great trip out! I feel very lucky to have been allowed to camp on the island and have the time to explore it fully. You can get a trip out from the port of Girvan in Ayrshire, it's about an hour to the island, you get 2 hours ashore, and then a trip around the island and back again. Very much worthwhile.
+What a great trip out! I feel very lucky to have been allowed to camp on the island and have the time to explore it fully. You can get a trip out from the port of Girvan in Ayrshire, it's about an hour to the island, you get 2 hours ashore, and then a trip around the island and back again. Very much worthwhile. And they might let you cuddle a lobster on the boat back.
 
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/lobste_me.jpg)]({{ site.url }}pics/media/large/AilsaCraig/lobste_me.jpg) | 
+|:--:| 
+| Me, grinning, on a boat, holding a large blue lobster. Two older women stand behind me. |
