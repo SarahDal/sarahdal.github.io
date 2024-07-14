@@ -26,17 +26,32 @@ Ailsa Craig is famed for being the source of the finest granite for making Curli
 
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg) | 
 |:--:| 
-| this is a test |
-
-| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg){: width="250" } | 
-|:--:| 
-| this is a test 2 |
+| Rocky Ailsa Craig in the sun, cliffs white with seabirds with patches of green vegetation. Gannets swirl in the blue sky above. |
 
 The boat trip is about an hour out of Girvan, and includes a circuit of the island so we could see the dramatic cliffs rising out of the water, covered in nesting seabirds - Gannets are the most obvious, but colonies of guillemots and razorbills, kittiwakes, and fulmar, and on some of the steep grassy slopes, puffins ambling about between their burrows. Tysties (black guillemots) were on the water, although I couldn't spot any on the cliffs.
 
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_131633.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_131633.jpg) | 
+|:--:| 
+| A closer view of Ailsa Craig in the sun, cliffs white with seabirds tower about 200m over the sea, capped with a grassy dome. |
+
+
 Dozens of Manx shearwaters flew past the boat as well, presumably these nest on the island now, especially after rats were eradicated in the early 90s, but breeding has yet to be proven. You can read about the first succesful rat eradication in the UK in this [2001 article](https://web.archive.org/web/20220120073100/https://www.ayrshire-birding.org.uk/2001/01/ailsa_craig_before_and_after_the_eradication_of_rats_in_1991/) by Bernie Zofrillo, who led the eradication project.
 
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_140850.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_140850.jpg) | 
+|:--:| 
+| Under a blue sky, a brick building with a collapsed curved roof stands in a grassy rocky area, surrounded by dry stone walls. Behind it, the steep slopes of the island with rocky outcrops. Two tents are pitched by the building. |
+
 Once on the island, we pitched our tents by the old gas works. This was where coal gas was generated to power the lighthouse and foghorns until 1911, when the lamp was switched to parafin. The flat part of the island is covered in remains from both the lighthouse and quarrying infrastructure, with a 3-foot gauge rail for the lighthouse still in place, and plenty of tracks and evidence of quarrying. The lighthouse is still operational, and being painted by three workmen when we were on the island.
+
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_153733.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_153733.jpg) | 
+|:--:| 
+| A small concrete hut with brocken windows and a green door. A rusted rail line runs past it, small plants growing from the rabbit-cropped grass that surround it. This held an engine that hauled trucks up the rails from the pier. |
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_153802.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_153802.jpg) | 
+|:--:| 
+| Looking through a window frame into the hut, which houses a large rusty engine with a drive wheel and exhaust pipe. On the windowledge someone has placed a radio-casette player from circa 1986. |
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/lighthouserails.jpg)]({{ site.url }}pics/media/large/AilsaCraig/lighthouserails.jpg) | 
+|:--:| 
+| Rusted overgrown rails curve away to a single story building with empty windows and doorframes and peeling white paint, the lighthouse cottages that are now seperate from the operational lighthouse behind. |
 
 In the sunshine, we walked from the lighthouse clockwise along the track left by this winter's rock extraction, we passed the south foghorn, on top of a concrete dome and with compressed air cannisters rusting alongside. Huge boulders litter the shore line, we walked as far as "Trammins" and flew the drone to take photographs of the gannets nesting on the 200m high cliffs towering above.
 
