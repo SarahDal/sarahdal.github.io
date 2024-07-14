@@ -27,3 +27,7 @@ Ailsa Craig is famed for being the source of the finest granite for making Curli
 | [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg) | 
 |:--:| 
 | this is a test |
+
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg){: width="250" } | 
+|:--:| 
+| this is a test 2 |
