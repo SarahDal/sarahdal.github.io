@@ -24,6 +24,6 @@ Traditionally these huge colonies are counted by aerial photography, and only re
 
 Ailsa Craig is famed for being the source of the finest granite for making Curling Stones. A local company holds the sole licence to quarry here, and takes granite off the island about once a decade, most recently just this winter and youtuber Ruth Aisling made a [fantastically informative video about the whole process](https://youtu.be/lTjOoeR0iFY) so you can watch that rather than me try to explain.
 
-| [![Image]({{ site.url }}/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}/media/large/AilsaCraig/20240712_132238.jpg) | 
+| [![Image]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg)]({{ site.url }}pics/media/large/AilsaCraig/20240712_132238.jpg) | 
 |:--:| 
 | this is a test |
