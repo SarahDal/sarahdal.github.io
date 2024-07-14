@@ -78,7 +78,7 @@ var store = [{
         "teaser": "/assets/images/images/Merrick/Neive.jpg"
       },{
         "title": "Ailsa Craig",
-        "excerpt":"Nesting in colonies of tens of thousands, rocky cliffs and islands around the UK hold over half of the world’s population of Northern Gannet (Morus bassanus), with the world’s largest colony being Bass Rock in the Firth of Forth (75,000 pairs) and the colony on Saint Kilda (60,000 pairs). Traditionally...","categories": ["UAV"],
+        "excerpt":"Nesting in colonies of tens of thousands, rocky cliffs and islands around the UK hold over half of the world’s population of Northern Gannet (Morus bassanus), with the world’s largest colony being Bass Rock in the Firth of Forth (75,000 pairs) and the colony on Saint Kilda (60,000 pairs). A...","categories": ["UAV"],
         "tags": ["Birding","UAV","history"],
         "url": "/uav/2024/07/13/AilsaCraig.html",
         "teaser": "/assets/images/image.jpg"
