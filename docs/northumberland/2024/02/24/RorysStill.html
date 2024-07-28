@@ -118,7 +118,7 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/picam/">Live Stream</a>
+              <a href="/pics/">pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -258,7 +258,7 @@
 
 <p>I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together <a href="https://www.geograph.org.uk/snippet/5569">a selection of photographs and locations for them</a>.</p>
 
-<div id="leaflet-map-025fdfc9907edbe651f875d4c213fe17" class="leaflet-map"></div>
+<div id="leaflet-map-30c56a682845b9c0d2b96cd3437b3e35" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -269,28 +269,28 @@
                  "zoom" : 11,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-     {id: "37e92e1ebe781e88b92d6d61832c8dfd",
+     {id: "dc94577ddd96e61687e6207d7e5dbef3",
               type: "LeafletMarker",
               value: { "latitude" : 55.413560,
                        "longitude" : -2.284758,
                        "popupContent" : "Blindburn Still"} },	
-     {id: "a5d92e37f40fc3ef91a4a905f30e8213",
+     {id: "801cbcc6c05a5a9af6bce411a3509fe3",
               type: "LeafletMarker",
               value: { "latitude" : 55.379630,
                        "longitude" : -2.168993,
                        "popupContent" : "Wholehope Still"} },	
-     {id: "bd8aea84589fa8fc09d7f7d638816b51",
+     {id: "c7310ed56a0c814226758baef9e87368",
               type: "LeafletMarker",
               value: { "latitude" : 55.4304,
                        "longitude" : -2.1864,
                        "popupContent" : "Rory's Still"} },	   
-    {id: "14c6292c047baa7e8e2299b1afadbb9f",
+    {id: "dc27036b5bc5f0078246aaee7f343e92",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Usway.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-025fdfc9907edbe651f875d4c213fe17";
+    var defaultMapElId = "leaflet-map-30c56a682845b9c0d2b96cd3437b3e35";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -423,7 +423,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 025fdfc9907edbe651f875d4c213fe17 with these args:");
+        console.log("Creating map 30c56a682845b9c0d2b96cd3437b3e35 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

@@ -5,6 +5,6 @@ main:
     url: /year-archive/
   - title: "Categories"
     url: /categories/
-  - title: "Live Stream"
-    url: /picam/
+  - title: "pics"
+    url: /pics/
 
