@@ -82,4 +82,10 @@ var store = [{
         "tags": ["Birding","UAV","history"],
         "url": "/uav/2024/07/13/AilsaCraig.html",
         "teaser": "/assets/images/image.jpg"
+      },{
+        "title": "Walk Resources",
+        "excerpt":"I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes? For walks north of the border, walkhighlands is a well-known source, and I also look up routes on OutdoorActive...","categories": ["Northumberland"],
+        "tags": ["walks"],
+        "url": "/northumberland/2024/09/14/WalkResources.html",
+        "teaser": "/assets/images/image.jpg"
       }]
