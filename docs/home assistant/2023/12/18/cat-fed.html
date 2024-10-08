@@ -18,7 +18,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Sarah Dalrymple">
 <meta property="og:title" content="Has the cat been fed?">
-<meta property="og:url" content="https://sarahdal.github.io//home%20assistant/2023/12/18/cat-fed.html">
+<meta property="og:url" content="http://localhost:4000/home%20assistant/2023/12/18/cat-fed.html">
 
 
   <meta property="og:description" content="If, like me, you have a cat, you will be aware that they’re very good at persuading you that they’ve not had breakfast yet, even though you could swear you just fed them 10 minutes ago. To limit overfeeding, I use Home Assistant to log when mine’s been fed, and I have a physical button near his bowl or one on my phone to press every time I feed him, to keep track.">
@@ -36,7 +36,7 @@
 
 
 
-<link rel="canonical" href="https://sarahdal.github.io//home%20assistant/2023/12/18/cat-fed.html">
+<link rel="canonical" href="http://localhost:4000/home%20assistant/2023/12/18/cat-fed.html">
 
 
 
@@ -47,7 +47,7 @@
     
       "@type": "Person",
       "name": null,
-      "url": "https://sarahdal.github.io//"
+      "url": "http://localhost:4000/"
     
   }
 </script>
@@ -181,47 +181,47 @@
         <p>If, like me, you have a cat, you will be aware that they’re very good at persuading you that they’ve not had breakfast yet, even though you could swear you just fed them 10 minutes ago. To limit overfeeding, I use Home Assistant to log when mine’s been fed, and I have a physical button near his bowl or one on my phone to press every time I feed him, to keep track.</p>
 
 <p>This is Fury, my 9 year old rescue with no eyes and no teeth.
-<img src="https://sarahdal.github.io///assets/images/fury.jpg" alt="Fury, a black cat with no eyes, sitting on the sofa in the sunshine, which is illuminating his fur. He looks very handsome." /></p>
+<img src="http://localhost:4000//assets/images/fury.jpg" alt="Fury, a black cat with no eyes, sitting on the sofa in the sunshine, which is illuminating his fur. He looks very handsome." /></p>
 
 <h2 id="how-to">How to</h2>
 
 <p>First up, create a helper in Home Assistant. A helper is a small variable, and in this case I’m going to make it a button that can be pressed. From Settings - Helpers - Create Helper:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/helper.png" alt="Create Helper" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/helper.png" alt="Create Helper" /></p>
 
 <p>I call it cat_fed and give it a cat face icon:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/create_button.png" alt="Make the button" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/create_button.png" alt="Make the button" /></p>
 
 <p>This then lets us add a “cat fed” button to the dash. I created a new dash called “Cat” to store all Fury-related information, then Edit Dash - Add Card - Button and select “Cat_fed” as the Entity, set tap action to “Toggle”. You can give the button a name and icon, and if you toggle “Show state?” it will display the time of last press underneath the button:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/button-card.png" alt=".." /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/button-card.png" alt=".." /></p>
 
 <p>Now we have a button that will log every time it’s pressed. The first thing I did was to add a Logbook Card to the Cat dashboard, which will show a log of previous presses. Add this from the “Add Card” as usual:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/logbook.png" alt="logbook" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/logbook.png" alt="logbook" /></p>
 
 <p>Something else that would be useful would be a counter of how many times the cat has been fed today. Create a new helper like before, this time create a counter and call it something like “Cat fed today”. Give it a nice icon and leave the rest as is.</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/counter.png" alt="counter" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/counter.png" alt="counter" /></p>
 
 <p>Next, we make an automation so that when the button is pressed, the counter increments. This is really simple: go to Settings - automations - create new automation. The trigger is “State” and the entity is cat_fed (the button we made at the start); conditions can be left blank, and the Action is to “Call service - counter increment”. Next, select the Target; this will be the entity we made with the helper, the counter “Cat fed today”.</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/counter_inc.png" alt="counter" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/counter_inc.png" alt="counter" /></p>
 
 <p>Back on Cat Dashboard, if you add card by entity and type in “cat fed” you should see a few options - one with the robot icon will be a toggle to turn the cat fed counter on and off. Another will be for “Cat Fed Today” and should show the number of times the cat fed button has been pressed.</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/counter_dash1.png" alt="counter" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/counter_dash1.png" alt="counter" /></p>
 
 <p>BUT this will keep counting day in, day out. To get it to reset each day at midnight we need one final automation: When the time is equal to 12:00AM, call a service “Counter: reset” on Cat Fed Today.</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/reset.png" alt="counter reset" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/reset.png" alt="counter reset" /></p>
 
 <p>Now the counter will reset at midnight. I also added another button to manually reset the count, in case I want to start counting from zero for some reason.</p>
 
 <p>So here’s the final result of what the Cat Dashboard looks like in my Home Assistant:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/HomeAsst/dash.png" alt="cat dash" /></p>
+<p><img src="http://localhost:4000//assets/images/HomeAsst/dash.png" alt="cat dash" /></p>
 
 <p>Now we can do other clever things, such as display the cat fed counter on big display above his food bowl to remind me that he’s already had breakfast. You can add the button as a widget on your phone, or use a physical zigbee button to trigger the “Cat_fed” button.</p>
 
