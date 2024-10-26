@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-08T19:02:09+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-08T19:04:52+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
 
 &lt;p&gt;For walks north of the border, &lt;a href=&quot;https://www.walkhighlands.co.uk/&quot;&gt;walkhighlands&lt;/a&gt; is a well-known source, and I also look up routes on &lt;a href=&quot;https://www.outdooractive.com/en/member/sarah-dal/134917862/&quot;&gt;OutdoorActive&lt;/a&gt; and &lt;a href=&quot;https://osmaps.com/&quot;&gt;OSMaps&lt;/a&gt;. But the vast majority of the walks on these sites are less than 15km, or are long linear multi-day routes. I want walks 15km to 30km, but quite often when I make my own route, halfway round I’ll find it’s difficult bog, ankle-snapping tussocks and holes, or impassable forestry brash. I’ve been trying hard to find good sources for good walks, so I thought I’d share some of the ones I’ve found.&lt;/p&gt;
 
@@ -854,7 +854,7 @@ out center;
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-f6acb79596f3077cbc322997cfe424ee&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-420f651c4700a123e593a9fb9712e9b0&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -865,16 +865,16 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;cb69ced8fa98621d6047eff7ce310bcb&quot;,
+    {id: &quot;3335cd0691d337af7095a2ebf6dddd28&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;e25caa430a27b04938d542df88cb5750&quot;,
+    {id: &quot;cc2a725d1d23bccfbeb0771bb0dbb382&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-f6acb79596f3077cbc322997cfe424ee&quot;;
+    var defaultMapElId = &quot;leaflet-map-420f651c4700a123e593a9fb9712e9b0&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1007,7 +1007,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map f6acb79596f3077cbc322997cfe424ee with these args:&quot;);
+        console.log(&quot;Creating map 420f651c4700a123e593a9fb9712e9b0 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2158,7 +2158,7 @@ out center;
 
 &lt;p&gt;From here, I only took one more wrong turn and had to climb a fence before getting back onto the road.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-d089552d8f04b1bbca09631e04fc3c0e&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-06f3f8b3397d6dbe10fe19627e4d3b2f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2169,39 +2169,39 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;f7bdea02c079cea302c5dfedea507d64&quot;,
+     {id: &quot;a87a70e785368d40822efb7b7cccc6cb&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3568,
                        &quot;longitude&quot; : -2.4720,
                        &quot;popupContent&quot; : &quot;Site of the Redeswire Fray&quot;} },	
-     {id: &quot;8a077fb3914e22a2da3eca0bfb56ce06&quot;,
+     {id: &quot;6f94280ec71eb212aa7dbbcb15de1a0f&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3444,
                        &quot;longitude&quot; : -2.3668,
                        &quot;popupContent&quot; : &quot;Spithope Bothy&quot;} },	
-     {id: &quot;76db9a40a75d1dde72b49c2736baf096&quot;,
+     {id: &quot;c6dd4be7bb501015ab497bfcd24014a3&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3373,
                        &quot;longitude&quot; : -2.4891,
                        &quot;popupContent&quot; : &quot;Carter Pike Cairn&quot;} },	
-     {id: &quot;64593e53951d923557cb90bc619238a5&quot;,
+     {id: &quot;02a750453c056bfc1aa56deb58c12b95&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3197,
                        &quot;longitude&quot; : -2.40057,
                        &quot;popupContent&quot; : &quot;Catcleugh Reservoir Dam&quot;} },
-     {id: &quot;e3f65cc570540f8da2821577865e3f49&quot;,
+     {id: &quot;d37086f27fa5e79d70bd1fa7b7766b69&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3250,
                        &quot;longitude&quot; : -2.50321,
                        &quot;popupContent&quot; : &quot;Bateinghope Burn Ruins&quot;} },
 					   
-    {id: &quot;3db2bbf9c902ea660de77b21b5fd6ff9&quot;,
+    {id: &quot;5deb616ef3299a82ce6bbbbf10ce18b5&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Whitelee.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-d089552d8f04b1bbca09631e04fc3c0e&quot;;
+    var defaultMapElId = &quot;leaflet-map-06f3f8b3397d6dbe10fe19627e4d3b2f&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2334,7 +2334,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map d089552d8f04b1bbca09631e04fc3c0e with these args:&quot;);
+        console.log(&quot;Creating map 06f3f8b3397d6dbe10fe19627e4d3b2f with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3410,7 +3410,7 @@ out center;
 
 &lt;p&gt;This route followed the recommended walk in the &lt;a href=&quot;https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf&quot;&gt;“Walk to the Wildwood” Leaflet&lt;/a&gt;, and was really great despite the weather.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-80e28cac3bd10078fe93f930c2eb3d8f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-cc0e050a61a5db30d264e4d853243daf&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3421,13 +3421,13 @@ out center;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;f94accfc76c3fdfff2942f9f66ffc4ef&quot;,
+    {id: &quot;c23d6bdc5abf43030054d1e2e447a90e&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/WilliamCleuch.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-80e28cac3bd10078fe93f930c2eb3d8f&quot;;
+    var defaultMapElId = &quot;leaflet-map-cc0e050a61a5db30d264e4d853243daf&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3560,7 +3560,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 80e28cac3bd10078fe93f930c2eb3d8f with these args:&quot;);
+        console.log(&quot;Creating map cc0e050a61a5db30d264e4d853243daf with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4623,7 +4623,7 @@ out center;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-dfab53affba359c67d11aa3c3f0f6d44&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-b3406052f19691ad8f469d2e6335d040&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4634,22 +4634,22 @@ out center;
                  &quot;zoom&quot; : 14,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;c9378e2b948c8b8d0d416df565b1a395&quot;,
+     {id: &quot;a9acadb59777dd161a7d9b1ba75dc35c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.380212,
                        &quot;longitude&quot; :  -1.7995428,
                        &quot;popupContent&quot; : &quot;Rock Shelter&quot;} },	
-     {id: &quot;fd9372c56eeac498e0463e6d7c01a46f&quot;,
+     {id: &quot;71a5741a12b8baaa7fd2cf1e5a23bb7c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.377526,
                        &quot;longitude&quot; :  -1.8058687,
                        &quot;popupContent&quot; : &quot;Corby&apos;s Letch Waterfall and Bridge&quot;} },						   
-     {id: &quot;732d560b146dda1533ad34a1cbec2b4c&quot;,
+     {id: &quot;cc410ea4d4e272768a7541d8bc3d1755&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.390803,
                        &quot;longitude&quot; :   -1.7974214,
                        &quot;popupContent&quot; : &quot;Lemmington Woods Carved Rock&quot;} },	
-     {id: &quot;67a1cb595b360a01a577deb5385a9710&quot;,
+     {id: &quot;ff7cbffd63e5706547ae4aaa042427c4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.393073,
                        &quot;longitude&quot; :   -1.7955351,
@@ -4657,7 +4657,7 @@ out center;
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-dfab53affba359c67d11aa3c3f0f6d44&quot;;
+    var defaultMapElId = &quot;leaflet-map-b3406052f19691ad8f469d2e6335d040&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4790,7 +4790,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map dfab53affba359c67d11aa3c3f0f6d44 with these args:&quot;);
+        console.log(&quot;Creating map b3406052f19691ad8f469d2e6335d040 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5778,7 +5778,7 @@ out center;
 
 &lt;p&gt;I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together &lt;a href=&quot;https://www.geograph.org.uk/snippet/5569&quot;&gt;a selection of photographs and locations for them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-2e64ca56012324ef50825a3259476540&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-30f1d1227b19a61e3b54664a42b4a20f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5789,28 +5789,28 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;209d5c9ec1de4f2e0fe7a1e8c69b9161&quot;,
+     {id: &quot;3da35fdb406ca306e7de6842568aad5f&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.413560,
                        &quot;longitude&quot; : -2.284758,
                        &quot;popupContent&quot; : &quot;Blindburn Still&quot;} },	
-     {id: &quot;07cb26106560461616f106e4e221eea7&quot;,
+     {id: &quot;e1a9bf09d27e5773403a3e8a70beeb5b&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.379630,
                        &quot;longitude&quot; : -2.168993,
                        &quot;popupContent&quot; : &quot;Wholehope Still&quot;} },	
-     {id: &quot;71a19efc4033a4356ec0cc99a91083e3&quot;,
+     {id: &quot;c3c14a85d5dcb4eb0736fc8e4fa90313&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.4304,
                        &quot;longitude&quot; : -2.1864,
                        &quot;popupContent&quot; : &quot;Rory&apos;s Still&quot;} },	   
-    {id: &quot;09b1e50eb8b42287735fc591554a07e5&quot;,
+    {id: &quot;77a292f0bac78f4aad0d7a8da90e20d6&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Usway.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-2e64ca56012324ef50825a3259476540&quot;;
+    var defaultMapElId = &quot;leaflet-map-30f1d1227b19a61e3b54664a42b4a20f&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5943,7 +5943,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 2e64ca56012324ef50825a3259476540 with these args:&quot;);
+        console.log(&quot;Creating map 30f1d1227b19a61e3b54664a42b4a20f with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
