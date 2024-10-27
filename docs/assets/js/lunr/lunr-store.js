@@ -96,7 +96,7 @@ var store = [{
         "teaser": "/assets/images/image.jpg"
       },{
         "title": "Automatic Counting of Gulls from Drone Images",
-        "excerpt":"A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds...","categories": ["UAV"],
+        "excerpt":"A big part of my career has involved counting seabirds. The UK and Ireland, a bunch of islands on the edge of the Atlantic and just south of the Arctic, have some of the most important seabird colonies in the world, with about 8 million birds of 25 different species...","categories": ["UAV"],
         "tags": ["UAV","GIS"],
         "url": "/uav/2024/10/27/ML.html",
         "teaser": "/assets/images/image.jpg"
