@@ -1,0 +1,358 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Automatic Counting of Gulls from Drone Images - Sarah Dalrymple</title>
+<meta name="description" content="A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Sarah Dalrymple">
+<meta property="og:title" content="Automatic Counting of Gulls from Drone Images">
+<meta property="og:url" content="https://sarahdal.github.io//uav/2024/10/27/ML.html">
+
+
+  <meta property="og:description" content="A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.">
+
+
+
+  <meta property="og:image" content="https://sarahdal.github.io//assets/images/image.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2024-10-27T00:00:00+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://sarahdal.github.io//uav/2024/10/27/ML.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://sarahdal.github.io//"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Sarah Dalrymple Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link href="/assets/maps/maplibre-gl.css" rel="stylesheet">
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/Kilda3.jpg" alt="Sarah Dalrymple"></a>
+        
+        <a class="site-title" href="/">
+          Sarah Dalrymple
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">pics</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Automatic Counting of Gulls from Drone Images">
+    <meta itemprop="description" content="A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.">
+    <meta itemprop="datePublished" content="2024-10-27T00:00:00+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Automatic Counting of Gulls from Drone Images
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2024-10-27T00:00:00+01:00">27 Oct 2024</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.</p>
+
+<p>Traditional counts involve heading into seabird colonies to count their nests (we no longer just count the legs and divide by two). Although accurate, it’s hugely disturbing to the birds, and for more remote islands, can be very difficult and expensive to organise and access. Images taken from drones are an obvious way to make seabird censusing a lot easier and cheaper.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="https://sarahdal.github.io///assets/images/ML/gullcolony.jpg"><img src="https://sarahdal.github.io///assets/images/ML/gullcolony.jpg" alt="Image" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">a view of the gull colony at South Walney on a summer’s evening. the grassy ground is dotted with hundreds of gulls, and another hundred are in the sky. On the horizon is the silhouette of Piel Castle.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I first started trying to use drone imagery to count a gull colony at South Walney in 2016. Even back then I was sure there must be a way to automatically count thousands of gulls in an orthomosaic; as Machine Learning has developed it’s become possible, but every time I had a look at papers that had done this, it involved programming and maths that was far beyond me. My dream was some sort of simple GUI where a site manager could drop in a drone photo, and get the total number of gulls as the output.</p>
+
+<p>Now finally I think we are almost there, with a QGIS plugin Deepness plus free accounts on a couple of commercial machine learning websites, following an incredibly simple tutorial:</p>
+
+<ul>
+  <li><a href="https://github.com/PUTvision/qgis-plugin-deepness/tree/master">the Deepness plugin for QGIS</a></li>
+  <li><a href="https://github.com/PUTvision/qgis-plugin-deepness/blob/master/tutorials/detection/Deploy_object_detection_model_with_Deepness_without_a_single_line_of_code.pdf">Tutorial “Deploy object detection mode with Deepness without a single line of code”</a></li>
+</ul>
+
+<p>The tutorial uses <a href="http://www.roboflow.com">Roboflow</a> to easily train a dataset (and the images for the dataset itself can be prepared using Deepness in QGIS), then [Ultralytics](http://https://www.ultralytics.com/] to develop the model, which can be trained using the processing power in <a href="https://colab.research.google.com/">Google CoLab</a>.</p>
+
+<p>All of these have “free” tiers that are suitable for relatively small amounts of data, but I did have to slip a tenner to google to get more power to train the datsets.</p>
+
+<p>Using this method, I split some aerial imagery of gulls from a saltmarsh using the Deepness Plugin, in to smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. From there I could followed the rest of the tutorial, and ran the resulting ONNX file back in Deepness in QGIS:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="https://sarahdal.github.io///assets/images/ML/example1.png"><img src="https://sarahdal.github.io///assets/images/ML/example1.png" alt="Image" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">aerial view of gulls sitting on green saltmarsh</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="https://sarahdal.github.io///assets/images/ML/example.jpg"><img src="https://sarahdal.github.io///assets/images/ML/example.jpg" alt="Image" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center">different aerial view of gulls sitting on green saltmarsh; now they have black bounding boxes as I’ve tagged them for the dataset</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="https://sarahdal.github.io///assets/images/ML/example2.png"><img src="https://sarahdal.github.io///assets/images/ML/example2.png" alt="Image" /></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: center">a much wider aerial view of the saltmarsh, a diamond of green with a muddy brown creek cutting through the centre. This is a stitched orthomosaic of several hundred drone images, covering an area of about 2ha. Hundreds of small red squares show where the ML has detected a gull.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had spent about 90 minutes manually marking on all gulls for a total of 597 birds.</p>
+
+<p>The results weren’t great on the first run, as the model returned 870 registrations, with 20% of these being something that was not a bird, or the wrong type of bird - a flock of two dozen shelducks, for example, or a piece of driftwood. But it also returned around 100 gulls that I’d missed when manually checking the image.</p>
+
+<p>The solution here is to train it on more data, as I hadn’t included anything in the training data that wasn’t green saltmarsh, while the area I ran the model on did have areas of bare sand and mud containg pale, gull-sized rocks. Further refining of the training dataset will greatly improve this, and hopefully get us a model with a very high accuracy rate.</p>
+
+<p>Once I have gotten the model to this accuracy, it should be very simple to share it and show anyone who is used to QGIS, how to run the model in the deepness plugin. Now instead of spending hours manually counting gulls in the aerial imagery it can be easily done in a few minutes with QGIS, with very little technical knowledge required.</p>
+
+<p>For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and money.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2024-10-27T00:00:00+01:00">27 Oct 2024</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/northumberland/2024/09/14/WalkResources.html" class="pagination--pager" title="Walk Resources
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://ecoevo.social/@sarahdalgulls/" rel="nofollow noopener noreferrer"><i class="fab fa-mastodon" aria-hidden="true"></i> mastodon</a></li>
+        
+      
+        
+          <li><a href="https://www.instagram.com/zooplanktonbears/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 Sarah Dalrymple. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>

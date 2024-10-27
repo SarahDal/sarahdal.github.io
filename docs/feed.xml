@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-26T20:53:31+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-27T20:42:52+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Automatic Counting of Gulls from Drone Images</title><link href="https://sarahdal.github.io//uav/2024/10/27/ML.html" rel="alternate" type="text/html" title="Automatic Counting of Gulls from Drone Images" /><published>2024-10-27T00:00:00+01:00</published><updated>2024-10-27T00:00:00+01:00</updated><id>https://sarahdal.github.io//uav/2024/10/27/ML</id><content type="html" xml:base="https://sarahdal.github.io//uav/2024/10/27/ML.html">&lt;p&gt;A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.&lt;/p&gt;
+
+&lt;p&gt;Traditional counts involve heading into seabird colonies to count their nests (we no longer just count the legs and divide by two). Although accurate, it’s hugely disturbing to the birds, and for more remote islands, can be very difficult and expensive to organise and access. Images taken from drones are an obvious way to make seabird censusing a lot easier and cheaper.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/gullcolony.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/gullcolony.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;a view of the gull colony at South Walney on a summer’s evening. the grassy ground is dotted with hundreds of gulls, and another hundred are in the sky. On the horizon is the silhouette of Piel Castle.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I first started trying to use drone imagery to count a gull colony at South Walney in 2016. Even back then I was sure there must be a way to automatically count thousands of gulls in an orthomosaic; as Machine Learning has developed it’s become possible, but every time I had a look at papers that had done this, it involved programming and maths that was far beyond me. My dream was some sort of simple GUI where a site manager could drop in a drone photo, and get the total number of gulls as the output.&lt;/p&gt;
+
+&lt;p&gt;Now finally I think we are almost there, with a QGIS plugin Deepness plus free accounts on a couple of commercial machine learning websites, following an incredibly simple tutorial:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/PUTvision/qgis-plugin-deepness/tree/master&quot;&gt;the Deepness plugin for QGIS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/PUTvision/qgis-plugin-deepness/blob/master/tutorials/detection/Deploy_object_detection_model_with_Deepness_without_a_single_line_of_code.pdf&quot;&gt;Tutorial “Deploy object detection mode with Deepness without a single line of code”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The tutorial uses &lt;a href=&quot;http://www.roboflow.com&quot;&gt;Roboflow&lt;/a&gt; to easily train a dataset (and the images for the dataset itself can be prepared using Deepness in QGIS), then [Ultralytics](http://https://www.ultralytics.com/] to develop the model, which can be trained using the processing power in &lt;a href=&quot;https://colab.research.google.com/&quot;&gt;Google CoLab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;All of these have “free” tiers that are suitable for relatively small amounts of data, but I did have to slip a tenner to google to get more power to train the datsets.&lt;/p&gt;
+
+&lt;p&gt;Using this method, I split some aerial imagery of gulls from a saltmarsh using the Deepness Plugin, in to smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. From there I could followed the rest of the tutorial, and ran the resulting ONNX file back in Deepness in QGIS:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example1.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;aerial view of gulls sitting on green saltmarsh&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;different aerial view of gulls sitting on green saltmarsh; now they have black bounding boxes as I’ve tagged them for the dataset&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example2.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example2.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;a much wider aerial view of the saltmarsh, a diamond of green with a muddy brown creek cutting through the centre. This is a stitched orthomosaic of several hundred drone images, covering an area of about 2ha. Hundreds of small red squares show where the ML has detected a gull.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had spent about 90 minutes manually marking on all gulls for a total of 597 birds.&lt;/p&gt;
+
+&lt;p&gt;The results weren’t great on the first run, as the model returned 870 registrations, with 20% of these being something that was not a bird, or the wrong type of bird - a flock of two dozen shelducks, for example, or a piece of driftwood. But it also returned around 100 gulls that I’d missed when manually checking the image.&lt;/p&gt;
+
+&lt;p&gt;The solution here is to train it on more data, as I hadn’t included anything in the training data that wasn’t green saltmarsh, while the area I ran the model on did have areas of bare sand and mud containg pale, gull-sized rocks. Further refining of the training dataset will greatly improve this, and hopefully get us a model with a very high accuracy rate.&lt;/p&gt;
+
+&lt;p&gt;Once I have gotten the model to this accuracy, it should be very simple to share it and show anyone who is used to QGIS, how to run the model in the deepness plugin. Now instead of spending hours manually counting gulls in the aerial imagery it can be easily done in a few minutes with QGIS, with very little technical knowledge required.&lt;/p&gt;
+
+&lt;p&gt;For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and money.&lt;/p&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="UAV" /><category term="GIS" /><summary type="html">A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.</summary></entry><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
 
 &lt;p&gt;For walks north of the border, &lt;a href=&quot;https://www.walkhighlands.co.uk/&quot;&gt;walkhighlands&lt;/a&gt; is a well-known source, and I also look up routes on &lt;a href=&quot;https://www.outdooractive.com/en/member/sarah-dal/134917862/&quot;&gt;OutdoorActive&lt;/a&gt; and &lt;a href=&quot;https://osmaps.com/&quot;&gt;OSMaps&lt;/a&gt;. But the vast majority of the walks on these sites are less than 15km, or are long linear multi-day routes. I want walks 15km to 30km, but quite often when I make my own route, halfway round I’ll find it’s difficult bog, ankle-snapping tussocks and holes, or impassable forestry brash. I’ve been trying hard to find good sources for good walks, so I thought I’d share some of the ones I’ve found.&lt;/p&gt;
 
@@ -854,7 +925,7 @@ out center;
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-b4d50e9deabd36922986493fdbee1081&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-084a5c2b143bf509fc1a0a81fa25e21d&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -865,16 +936,16 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;114887bbb27221891ab5730640ec174f&quot;,
+    {id: &quot;ce5e20220efe1fd5501f075cd592978c&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;3db0895c4c0b914b018db9652a3cdcfe&quot;,
+    {id: &quot;e29bb45837352bd1515ffa5196c735d9&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-b4d50e9deabd36922986493fdbee1081&quot;;
+    var defaultMapElId = &quot;leaflet-map-084a5c2b143bf509fc1a0a81fa25e21d&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1007,7 +1078,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map b4d50e9deabd36922986493fdbee1081 with these args:&quot;);
+        console.log(&quot;Creating map 084a5c2b143bf509fc1a0a81fa25e21d with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2158,7 +2229,7 @@ out center;
 
 &lt;p&gt;From here, I only took one more wrong turn and had to climb a fence before getting back onto the road.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-d40af45b450fca0f6f9014ea60a5987f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-ad3eb3f7bfae3e4425814eb84c744c00&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2169,39 +2240,39 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;657ff7d0f26813afa1e436a36f965058&quot;,
+     {id: &quot;6e1bdf4518f47fb1f20cc508801f0d77&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3568,
                        &quot;longitude&quot; : -2.4720,
                        &quot;popupContent&quot; : &quot;Site of the Redeswire Fray&quot;} },	
-     {id: &quot;fa78e5d5feb41715d336847def69a86c&quot;,
+     {id: &quot;e3ab20df2a7bdb6a6b66d211a698b3d9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3444,
                        &quot;longitude&quot; : -2.3668,
                        &quot;popupContent&quot; : &quot;Spithope Bothy&quot;} },	
-     {id: &quot;ae1d0d496a0c414b4258183c8153be2a&quot;,
+     {id: &quot;40f680c26c60408362e92c30bd1cdc80&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3373,
                        &quot;longitude&quot; : -2.4891,
                        &quot;popupContent&quot; : &quot;Carter Pike Cairn&quot;} },	
-     {id: &quot;931d0b8611dd3761a34864d2467cd745&quot;,
+     {id: &quot;ee7613c13bbc25a3e521a76661ae5d7c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3197,
                        &quot;longitude&quot; : -2.40057,
                        &quot;popupContent&quot; : &quot;Catcleugh Reservoir Dam&quot;} },
-     {id: &quot;31bfcff1b676b0909b0525a5af20cdc3&quot;,
+     {id: &quot;1807205cc1e7ebc032759fd1dce9835c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3250,
                        &quot;longitude&quot; : -2.50321,
                        &quot;popupContent&quot; : &quot;Bateinghope Burn Ruins&quot;} },
 					   
-    {id: &quot;5824a8bb7bde84b55c1b2b6cca4ec612&quot;,
+    {id: &quot;268e499e77a6fc5290ea1b0a14cf1bd3&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Whitelee.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-d40af45b450fca0f6f9014ea60a5987f&quot;;
+    var defaultMapElId = &quot;leaflet-map-ad3eb3f7bfae3e4425814eb84c744c00&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2334,7 +2405,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map d40af45b450fca0f6f9014ea60a5987f with these args:&quot;);
+        console.log(&quot;Creating map ad3eb3f7bfae3e4425814eb84c744c00 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3410,7 +3481,7 @@ out center;
 
 &lt;p&gt;This route followed the recommended walk in the &lt;a href=&quot;https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf&quot;&gt;“Walk to the Wildwood” Leaflet&lt;/a&gt;, and was really great despite the weather.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-9c8fbe91c43c0a94a77fc3f891e33562&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-2745829650b6fd8d2f9a0652444e72cc&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3421,13 +3492,13 @@ out center;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;3076fd8d704747e71f1cd0495d39965d&quot;,
+    {id: &quot;3a320a36ee035d684388de8bf9cbdc41&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/WilliamCleuch.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-9c8fbe91c43c0a94a77fc3f891e33562&quot;;
+    var defaultMapElId = &quot;leaflet-map-2745829650b6fd8d2f9a0652444e72cc&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3560,7 +3631,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 9c8fbe91c43c0a94a77fc3f891e33562 with these args:&quot;);
+        console.log(&quot;Creating map 2745829650b6fd8d2f9a0652444e72cc with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4623,7 +4694,7 @@ out center;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-a3fdb4728c135eca1d99c33ecb0fa2b8&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-b62839aa4e795b4ed0afd76fe113a369&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4634,22 +4705,22 @@ out center;
                  &quot;zoom&quot; : 14,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;edac87b2487ccb85371222ed36d472c3&quot;,
+     {id: &quot;1afb5912c35add719e9775610805a6cf&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.380212,
                        &quot;longitude&quot; :  -1.7995428,
                        &quot;popupContent&quot; : &quot;Rock Shelter&quot;} },	
-     {id: &quot;05bd9a62a5e47ee9acdbdb5f4c84d165&quot;,
+     {id: &quot;d9808184f1f029a46e16c88132b3a3d2&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.377526,
                        &quot;longitude&quot; :  -1.8058687,
                        &quot;popupContent&quot; : &quot;Corby&apos;s Letch Waterfall and Bridge&quot;} },						   
-     {id: &quot;b789a82c825cbb14bc73761660967625&quot;,
+     {id: &quot;3f97541dd17811e6a4e27ec94159bef9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.390803,
                        &quot;longitude&quot; :   -1.7974214,
                        &quot;popupContent&quot; : &quot;Lemmington Woods Carved Rock&quot;} },	
-     {id: &quot;7774fb66f84b9d0669fe8bf260808151&quot;,
+     {id: &quot;12bea32cbc730f33922a766e7af8d023&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.393073,
                        &quot;longitude&quot; :   -1.7955351,
@@ -4657,7 +4728,7 @@ out center;
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-a3fdb4728c135eca1d99c33ecb0fa2b8&quot;;
+    var defaultMapElId = &quot;leaflet-map-b62839aa4e795b4ed0afd76fe113a369&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4790,7 +4861,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map a3fdb4728c135eca1d99c33ecb0fa2b8 with these args:&quot;);
+        console.log(&quot;Creating map b62839aa4e795b4ed0afd76fe113a369 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5778,7 +5849,7 @@ out center;
 
 &lt;p&gt;I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together &lt;a href=&quot;https://www.geograph.org.uk/snippet/5569&quot;&gt;a selection of photographs and locations for them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-c362a0715c55874376d0213f253caf57&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-468153887ccaf8036ddc36df67e2245c&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5789,28 +5860,28 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;285ef08c67b43a3d3bd683af98c61574&quot;,
+     {id: &quot;8a9b4ea375c3d8f8a3588717505fe717&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.413560,
                        &quot;longitude&quot; : -2.284758,
                        &quot;popupContent&quot; : &quot;Blindburn Still&quot;} },	
-     {id: &quot;f83a570e6ef6fdbf0d37fea889bb6d07&quot;,
+     {id: &quot;f2c69083100281b456ede1fb14f807e4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.379630,
                        &quot;longitude&quot; : -2.168993,
                        &quot;popupContent&quot; : &quot;Wholehope Still&quot;} },	
-     {id: &quot;e1715032300d4e5df1c92f394e3830c6&quot;,
+     {id: &quot;d335d15c291dd65c4c8446736e2f428a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.4304,
                        &quot;longitude&quot; : -2.1864,
                        &quot;popupContent&quot; : &quot;Rory&apos;s Still&quot;} },	   
-    {id: &quot;43b87e53d2d69c94167718aea8046e00&quot;,
+    {id: &quot;1059f2f2528acce37d76197efb45c570&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Usway.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-c362a0715c55874376d0213f253caf57&quot;;
+    var defaultMapElId = &quot;leaflet-map-468153887ccaf8036ddc36df67e2245c&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5943,7 +6014,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map c362a0715c55874376d0213f253caf57 with these args:&quot;);
+        console.log(&quot;Creating map 468153887ccaf8036ddc36df67e2245c with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6895,44 +6966,4 @@ out center;
 
 &lt;p&gt;Further down the hill it’s another nice walk along the Buckham’s Wall’s Burn back to the car, but I stop 3 miles downstream from Blindburn at the site of the infamous pub, the Slyme-Foot. Here farmers would spend their time gmabling and drinking the moonshine from the illcit stills or smuggled over the border, dishing out orders to their shepherds working out on the hills. On the far bank of the Coquet, it lies at the foot of The Street, an ancient drover’s road from Scotland, that led from here to Morebattle near Kelso.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/blindburn/SlymefootInn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/blindburn/SlymefootInn.jpg&quot; alt=&quot;The river Coquet flows past a flat area flanked by steeply rising hills&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Coquetdale Whisky</title><link href="https://sarahdal.github.io//northumberland/2024/01/27/WhiskyStills.html" rel="alternate" type="text/html" title="Coquetdale Whisky" /><published>2024-01-27T00:00:00+00:00</published><updated>2024-01-27T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2024/01/27/WhiskyStills</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/01/27/WhiskyStills.html">&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/LowerMidhope.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In upper Coquetdale in the remotest part of Northumberland, evidence still remains of illicit whisky-distilling in the 1700s, supplying illegal drinking dens. Cut off from excise men by the sheer remoteness of the area, shepherds and farmers, as well as cattle-drovers and smugglers heading down from Scotland, drank at unlicenced houses at Slyme-foot and Chew Green along the River Coquet, high in the Cheviot hills. These inns were supplied by illicit stills hidden deep in even more remote tiny valleys, and amazingly there’s still evidence of them  on the ground.&lt;/p&gt;
-
-&lt;p&gt;The Northumberland National Park comissioned a report into them, which is still &lt;a href=&quot;https://www.northumberlandnationalpark.org.uk/wp-content/uploads/2017/05/coquetdalewhiskyresearchreport-2.pdf&quot;&gt;availble here&lt;/a&gt;, that goes into great depth on the history of whisky (and beer) in this area. Otherwise, I couldn’t find much online other than &lt;a href=&quot;https://www.geograph.org.uk/photo/2541447&quot;&gt;a few pictures on Geograph&lt;/a&gt; so I thought I’d head out for a look.&lt;/p&gt;
-
-&lt;p&gt;This area is wonderfully desolate and remote, and after following the Wholehope Burn for about 4km,&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was delighted to come across much more intact ruins of the still than I had expected:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/StillApproach.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/StillView.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can still clearly make out the circular area, and an adjoining squarish building; an archeological dig published in 1960  goes into great detail &lt;a href=&quot;https://sarahdal.github.io///assets/images/whisky/Phillipson1960.pdf&quot;&gt;(and you can download here)&lt;/a&gt;, that this would have been the malting kiln. The grains were heated in warm water here and then spread on the floor and allowed to germinate. Three more buildings, not obvious on the ground now, lay to the north of here where the rest of the distilling process took place. It’s easy to imagine the distiller here, tending his pot, or a shepherd stopping by for a dram.&lt;/p&gt;
-
-&lt;p&gt;From here, I climbed up Saughy Hill for some typically Northumbrian Views:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/WholehopeBurnView.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/SaughyView2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/SaughyHill.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And then, because I was also using this walk to practice navigation, I got round the lea of the summit out of the wind and checked against a map to find my way down the other side to a stell on Midhope Burn, near the site of another still:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/Midhopestell.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, I couldn’t find any sign of a still along this burn at all. The paper I linked to earlier, &lt;a href=&quot;https://sarahdal.github.io///assets/images/whisky/Phillipson1960.pdf&quot;&gt;“Remains of illicit distilleries in Upper Coquetdale”&lt;/a&gt; suggests that the still here was washed away by a flood caused by a “great waterspout in 1893”.
-&lt;br /&gt;
-&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/Midhope2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I followed the burn back down to Batailshiel Haugh, which turned out to be a nice little bungalow. Given that we are about 3 miles up the valley from an already incredibly remote valley, this surely must be one of the most isolated houses in England? Although, given the quality of the track to it, I think it must be military accomodation rather than someone’s house. What a spot though.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/whisky/BatailshielHaugh1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This was a really great walk, and I even managed to navigate without using a gps and not get horribly lost. I’ve written up the route on my &lt;a href=&quot;https://www.outdooractive.com/en/route/hiking-route/north-east-england/coquetdale-whisky-stills/286115147/&quot;&gt;OutdoorActive page&lt;/a&gt;, if you are interested.&lt;/p&gt;
-
-&lt;p&gt;For a bit more atmosphere, &lt;a href=&quot;https://www.bbc.co.uk/sounds/play/p0674cmw&quot;&gt;here’s a poem in the Coquetdale accent&lt;/a&gt;, The Mists o’ Barralaa’, by &lt;a href=&quot;https://jamestaitmusic.com/pages/about-james&quot;&gt;James Tait&lt;/a&gt;. It is in Northumbrian - listen for the infamous “Northumbrian Burr” as the R’s are rolled. &lt;a href=&quot;https://www.bbc.co.uk/programmes/articles/4xDyV5CQKLMDPcrnyWMBLj8/an-ear-for-an-aye-listening-to-englands-dialect-poetry&quot;&gt;The words are at the bottom of this BBC page&lt;/a&gt;.&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/blindburn/SlymefootInn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/blindburn/SlymefootInn.jpg&quot; alt=&quot;The river Coquet flows past a flat area flanked by steeply rising hills&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry></feed>
