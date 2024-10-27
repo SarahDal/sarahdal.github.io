@@ -210,7 +210,7 @@
 
 <p>All of these have “free” tiers that are suitable for relatively small amounts of data, but I did have to slip a tenner to google to get more power to train the datsets.</p>
 
-<p>Using this method, I split some aerial imagery of gulls from a saltmarsh using the Deepness Plugin, in to smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. From there I could followed the rest of the tutorial, and ran the resulting ONNX file back in Deepness in QGIS:</p>
+<p>Using this method, I split some aerial imagery of gulls from a saltmarsh, using the Deepness Plugin, into smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. I followed the rest of the tutorial very easily, and ran the resulting ONNX file back in Deepness in QGIS:</p>
 
 <table>
   <thead>
@@ -243,15 +243,28 @@
   </tbody>
 </table>
 
-<p>I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had spent about 90 minutes manually marking on all gulls for a total of 597 birds.</p>
+<p>I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had previously spent about 90 minutes manually marking on all gulls for a total of 597 birds.</p>
 
 <p>The results weren’t great on the first run, as the model returned 870 registrations, with 20% of these being something that was not a bird, or the wrong type of bird - a flock of two dozen shelducks, for example, or a piece of driftwood. But it also returned around 100 gulls that I’d missed when manually checking the image.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="https://sarahdal.github.io///assets/images/ML/shelduck.png"><img src="https://sarahdal.github.io///assets/images/ML/shelduck.png" alt="Image" /></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">aerial view of two shelducks swimming in the water, with concentric ripples spreading out from them. They have been detected with a red bounding box by the model.</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>The solution here is to train it on more data, as I hadn’t included anything in the training data that wasn’t green saltmarsh, while the area I ran the model on did have areas of bare sand and mud containg pale, gull-sized rocks. Further refining of the training dataset will greatly improve this, and hopefully get us a model with a very high accuracy rate.</p>
 
 <p>Once I have gotten the model to this accuracy, it should be very simple to share it and show anyone who is used to QGIS, how to run the model in the deepness plugin. Now instead of spending hours manually counting gulls in the aerial imagery it can be easily done in a few minutes with QGIS, with very little technical knowledge required.</p>
 
-<p>For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and money.</p>
+<p>For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and cost.</p>
 
 
         

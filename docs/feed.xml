@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-27T20:47:41+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Automatic Counting of Gulls from Drone Images</title><link href="https://sarahdal.github.io//uav/2024/10/27/ML.html" rel="alternate" type="text/html" title="Automatic Counting of Gulls from Drone Images" /><published>2024-10-27T00:00:00+01:00</published><updated>2024-10-27T00:00:00+01:00</updated><id>https://sarahdal.github.io//uav/2024/10/27/ML</id><content type="html" xml:base="https://sarahdal.github.io//uav/2024/10/27/ML.html">&lt;p&gt;A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-10-27T20:55:33+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Automatic Counting of Gulls from Drone Images</title><link href="https://sarahdal.github.io//uav/2024/10/27/ML.html" rel="alternate" type="text/html" title="Automatic Counting of Gulls from Drone Images" /><published>2024-10-27T00:00:00+01:00</published><updated>2024-10-27T00:00:00+01:00</updated><id>https://sarahdal.github.io//uav/2024/10/27/ML</id><content type="html" xml:base="https://sarahdal.github.io//uav/2024/10/27/ML.html">&lt;p&gt;A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.&lt;/p&gt;
 
 &lt;p&gt;Traditional counts involve heading into seabird colonies to count their nests (we no longer just count the legs and divide by two). Although accurate, it’s hugely disturbing to the birds, and for more remote islands, can be very difficult and expensive to organise and access. Images taken from drones are an obvious way to make seabird censusing a lot easier and cheaper.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;All of these have “free” tiers that are suitable for relatively small amounts of data, but I did have to slip a tenner to google to get more power to train the datsets.&lt;/p&gt;
 
-&lt;p&gt;Using this method, I split some aerial imagery of gulls from a saltmarsh using the Deepness Plugin, in to smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. From there I could followed the rest of the tutorial, and ran the resulting ONNX file back in Deepness in QGIS:&lt;/p&gt;
+&lt;p&gt;Using this method, I split some aerial imagery of gulls from a saltmarsh, using the Deepness Plugin, into smaller squares. These were loaded into Roboflow, where I spent a good hour going through and tagging a few hundred birds. I followed the rest of the tutorial very easily, and ran the resulting ONNX file back in Deepness in QGIS:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -61,15 +61,28 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had spent about 90 minutes manually marking on all gulls for a total of 597 birds.&lt;/p&gt;
+&lt;p&gt;I ran the model on all ten 2-hectare areas of a large, sparse gull colony in North West England that we had mapped in the summer. On these images, I had previously spent about 90 minutes manually marking on all gulls for a total of 597 birds.&lt;/p&gt;
 
 &lt;p&gt;The results weren’t great on the first run, as the model returned 870 registrations, with 20% of these being something that was not a bird, or the wrong type of bird - a flock of two dozen shelducks, for example, or a piece of driftwood. But it also returned around 100 gulls that I’d missed when manually checking the image.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/shelduck.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/shelduck.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;aerial view of two shelducks swimming in the water, with concentric ripples spreading out from them. They have been detected with a red bounding box by the model.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;The solution here is to train it on more data, as I hadn’t included anything in the training data that wasn’t green saltmarsh, while the area I ran the model on did have areas of bare sand and mud containg pale, gull-sized rocks. Further refining of the training dataset will greatly improve this, and hopefully get us a model with a very high accuracy rate.&lt;/p&gt;
 
 &lt;p&gt;Once I have gotten the model to this accuracy, it should be very simple to share it and show anyone who is used to QGIS, how to run the model in the deepness plugin. Now instead of spending hours manually counting gulls in the aerial imagery it can be easily done in a few minutes with QGIS, with very little technical knowledge required.&lt;/p&gt;
 
-&lt;p&gt;For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and money.&lt;/p&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="UAV" /><category term="GIS" /><summary type="html">A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.</summary></entry><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
+&lt;p&gt;For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and cost.&lt;/p&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="UAV" /><category term="GIS" /><summary type="html">A big part of my career has involved counting seabirds. The UK, made up of a bunch of islands on the edge of the Atlantic and just south of the Arctic, has some of the most important seabird colonies in the world, and we host about 26 species of seabirds in total. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with our wider oceanic ecosystem they rely on.</summary></entry><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
 
 &lt;p&gt;For walks north of the border, &lt;a href=&quot;https://www.walkhighlands.co.uk/&quot;&gt;walkhighlands&lt;/a&gt; is a well-known source, and I also look up routes on &lt;a href=&quot;https://www.outdooractive.com/en/member/sarah-dal/134917862/&quot;&gt;OutdoorActive&lt;/a&gt; and &lt;a href=&quot;https://osmaps.com/&quot;&gt;OSMaps&lt;/a&gt;. But the vast majority of the walks on these sites are less than 15km, or are long linear multi-day routes. I want walks 15km to 30km, but quite often when I make my own route, halfway round I’ll find it’s difficult bog, ankle-snapping tussocks and holes, or impassable forestry brash. I’ve been trying hard to find good sources for good walks, so I thought I’d share some of the ones I’ve found.&lt;/p&gt;
 
@@ -925,7 +938,7 @@ out center;
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-ba7416308508e56a22ab2677989c3202&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-6694820fb801dfcb483727fbe83326c8&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -936,16 +949,16 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;9b2418864eea31e0194c973d095e0447&quot;,
+    {id: &quot;0c65766dac2a4f770552977fd64ce3c0&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;2b3f302e022d42e01eec722cc9c412b7&quot;,
+    {id: &quot;7c3cd236ad0063caee8ccec26a49066d&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-ba7416308508e56a22ab2677989c3202&quot;;
+    var defaultMapElId = &quot;leaflet-map-6694820fb801dfcb483727fbe83326c8&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1078,7 +1091,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map ba7416308508e56a22ab2677989c3202 with these args:&quot;);
+        console.log(&quot;Creating map 6694820fb801dfcb483727fbe83326c8 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2229,7 +2242,7 @@ out center;
 
 &lt;p&gt;From here, I only took one more wrong turn and had to climb a fence before getting back onto the road.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-c3159502a3f8370e5b462aa206fd533f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-6d827fe2a95f76ab4f8251a6669f6fa2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2240,39 +2253,39 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;ffbe12f4d2df6baee5079a894c8c4d25&quot;,
+     {id: &quot;29bf1fed15f584eed5e57267dbc9edd5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3568,
                        &quot;longitude&quot; : -2.4720,
                        &quot;popupContent&quot; : &quot;Site of the Redeswire Fray&quot;} },	
-     {id: &quot;37ae9df2d08f77311013e06a37affca0&quot;,
+     {id: &quot;53ef75bc90070702b8757e3c0f20d561&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3444,
                        &quot;longitude&quot; : -2.3668,
                        &quot;popupContent&quot; : &quot;Spithope Bothy&quot;} },	
-     {id: &quot;00166ddc16ddf734f186d0b162d3335e&quot;,
+     {id: &quot;ab9aac04ef25b1e43f2c44cd6efe330e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3373,
                        &quot;longitude&quot; : -2.4891,
                        &quot;popupContent&quot; : &quot;Carter Pike Cairn&quot;} },	
-     {id: &quot;cae4cc0968ae27f1fc30d1bfb3aa1e63&quot;,
+     {id: &quot;4f55c43e0b84aa0604f721e29af18af4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3197,
                        &quot;longitude&quot; : -2.40057,
                        &quot;popupContent&quot; : &quot;Catcleugh Reservoir Dam&quot;} },
-     {id: &quot;a1ac6235cfe2c3a351671eeeb1cdeb24&quot;,
+     {id: &quot;66c3e4ce8b2d2062044ed1e34befe454&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3250,
                        &quot;longitude&quot; : -2.50321,
                        &quot;popupContent&quot; : &quot;Bateinghope Burn Ruins&quot;} },
 					   
-    {id: &quot;e5e54128a3af495b8aa6bbadaa191594&quot;,
+    {id: &quot;3802c0f256db11f58e223d265dff8f22&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Whitelee.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-c3159502a3f8370e5b462aa206fd533f&quot;;
+    var defaultMapElId = &quot;leaflet-map-6d827fe2a95f76ab4f8251a6669f6fa2&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2405,7 +2418,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map c3159502a3f8370e5b462aa206fd533f with these args:&quot;);
+        console.log(&quot;Creating map 6d827fe2a95f76ab4f8251a6669f6fa2 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3481,7 +3494,7 @@ out center;
 
 &lt;p&gt;This route followed the recommended walk in the &lt;a href=&quot;https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf&quot;&gt;“Walk to the Wildwood” Leaflet&lt;/a&gt;, and was really great despite the weather.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-65dcd448933d2634d7190163edf3c797&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-4f4351104c1423671c7d74bd4d7ef123&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3492,13 +3505,13 @@ out center;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;9bcd0e5895d73b698c2b6f5d487362ed&quot;,
+    {id: &quot;77e7dd4f5fb42fefba61d7cb33b5c023&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/WilliamCleuch.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-65dcd448933d2634d7190163edf3c797&quot;;
+    var defaultMapElId = &quot;leaflet-map-4f4351104c1423671c7d74bd4d7ef123&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3631,7 +3644,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 65dcd448933d2634d7190163edf3c797 with these args:&quot;);
+        console.log(&quot;Creating map 4f4351104c1423671c7d74bd4d7ef123 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4694,7 +4707,7 @@ out center;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-6335b2b3d797def36d5a6c2107b1f5ee&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-120e8c5d562e9b5fb3517f38f57f51af&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4705,22 +4718,22 @@ out center;
                  &quot;zoom&quot; : 14,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;031ea4d9c9f3ecb8d80e6002e6c19377&quot;,
+     {id: &quot;4aa64ecb542a46a83ea227c61ff16329&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.380212,
                        &quot;longitude&quot; :  -1.7995428,
                        &quot;popupContent&quot; : &quot;Rock Shelter&quot;} },	
-     {id: &quot;ff2c7174a14d1e7e29381c64b62e4cec&quot;,
+     {id: &quot;a364c51f3052e395c1b621fa25aecf1d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.377526,
                        &quot;longitude&quot; :  -1.8058687,
                        &quot;popupContent&quot; : &quot;Corby&apos;s Letch Waterfall and Bridge&quot;} },						   
-     {id: &quot;e72f696c2c7825a143f1d36802b86978&quot;,
+     {id: &quot;05a682bc89cf02a0bc8441938f2968ac&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.390803,
                        &quot;longitude&quot; :   -1.7974214,
                        &quot;popupContent&quot; : &quot;Lemmington Woods Carved Rock&quot;} },	
-     {id: &quot;f82e11ac06b12e627250817abb7ab667&quot;,
+     {id: &quot;4e5794ba46761e5f9ca7823f0deb7d7d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.393073,
                        &quot;longitude&quot; :   -1.7955351,
@@ -4728,7 +4741,7 @@ out center;
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-6335b2b3d797def36d5a6c2107b1f5ee&quot;;
+    var defaultMapElId = &quot;leaflet-map-120e8c5d562e9b5fb3517f38f57f51af&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4861,7 +4874,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 6335b2b3d797def36d5a6c2107b1f5ee with these args:&quot;);
+        console.log(&quot;Creating map 120e8c5d562e9b5fb3517f38f57f51af with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5849,7 +5862,7 @@ out center;
 
 &lt;p&gt;I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together &lt;a href=&quot;https://www.geograph.org.uk/snippet/5569&quot;&gt;a selection of photographs and locations for them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-520fd094ebfbeb1c08f9176bb8fef117&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-be2c28e4b3e27dc5298924f2fd6fe867&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5860,28 +5873,28 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;bea83bf11cd11bd5b6a4361ddb06cdee&quot;,
+     {id: &quot;f979db2916137c7f1ab52b9a4be18535&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.413560,
                        &quot;longitude&quot; : -2.284758,
                        &quot;popupContent&quot; : &quot;Blindburn Still&quot;} },	
-     {id: &quot;69af362a035059fda5f5a06cec46446b&quot;,
+     {id: &quot;20d915c49108b62788c8a2295d3e6018&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.379630,
                        &quot;longitude&quot; : -2.168993,
                        &quot;popupContent&quot; : &quot;Wholehope Still&quot;} },	
-     {id: &quot;300d115bab5ac77910e234ce6f82c03c&quot;,
+     {id: &quot;82103cf6424d197e2573043ce865349b&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.4304,
                        &quot;longitude&quot; : -2.1864,
                        &quot;popupContent&quot; : &quot;Rory&apos;s Still&quot;} },	   
-    {id: &quot;32bb915ec7ce952979916622e829cd94&quot;,
+    {id: &quot;9431e834bcc1d1bf6d54b6f8a768c97e&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Usway.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-520fd094ebfbeb1c08f9176bb8fef117&quot;;
+    var defaultMapElId = &quot;leaflet-map-be2c28e4b3e27dc5298924f2fd6fe867&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6014,7 +6027,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 520fd094ebfbeb1c08f9176bb8fef117 with these args:&quot;);
+        console.log(&quot;Creating map be2c28e4b3e27dc5298924f2fd6fe867 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
