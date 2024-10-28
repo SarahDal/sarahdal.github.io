@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_Walks_2 = function(feature, resolution){
+var style_Walks_3 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
