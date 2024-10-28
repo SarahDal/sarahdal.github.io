@@ -47,9 +47,9 @@ var lyr_Walks_2 = new ol.layer.Vector({
 
 lyr_OpenTopo_0.setVisible(true);lyr_OpenStreetMap_1.setVisible(true);lyr_Walks_2.setVisible(true);
 var layersList = [lyr_OpenTopo_0,lyr_OpenStreetMap_1,lyr_Walks_2];
-lyr_Walks_2.set('fieldAliases', {'fid': 'fid', 'FileName': 'Walk Name', 'Length': 'Length (km)', 'Notes': 'Notes', });
-lyr_Walks_2.set('fieldImages', {'fid': 'TextEdit', 'FileName': 'TextEdit', 'Length': 'TextEdit', 'Notes': 'TextEdit', });
-lyr_Walks_2.set('fieldLabels', {'fid': 'hidden field', 'FileName': 'header label - always visible', 'Length': 'inline label - always visible', 'Notes': 'inline label - always visible', });
+lyr_Walks_2.set('fieldAliases', {'fid': 'fid', 'FileName': 'Walk Name', 'Length': 'Length (km)', 'Notes': 'Notes', 'link': 'link', });
+lyr_Walks_2.set('fieldImages', {'fid': 'TextEdit', 'FileName': 'TextEdit', 'Length': 'TextEdit', 'Notes': 'TextEdit', 'link': 'TextEdit', });
+lyr_Walks_2.set('fieldLabels', {'fid': 'hidden field', 'FileName': 'header label - always visible', 'Length': 'inline label - always visible', 'Notes': 'inline label - always visible', 'link': 'no label', });
 lyr_Walks_2.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
