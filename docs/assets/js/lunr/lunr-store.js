@@ -100,4 +100,10 @@ var store = [{
         "tags": ["UAV","GIS"],
         "url": "/uav/2024/10/27/ML.html",
         "teaser": "/assets/images/image.jpg"
+      },{
+        "title": "Shepherd's Cairn Walk",
+        "excerpt":"Alnham and Shepherd’s Cairn An early start to walk up to the Shepherd’s Cairn, near Alnham. This marks the site where two shepherds, Jock Scott and Willie Middlemas, sadly perished while trying to drive their tractor home from Alnham to Ewartly Shank. A view over a drystone wall of rolling...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2024/12/14/Alnham.html",
+        "teaser": "/assets/images/Alnham/Morning.jpg"
       }]
