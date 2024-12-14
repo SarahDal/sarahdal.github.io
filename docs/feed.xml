@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2024-12-14T15:19:57+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Shepherd’s Cairn Walk</title><link href="https://sarahdal.github.io//northumberland/2024/12/14/Alnham.html" rel="alternate" type="text/html" title="Shepherd’s Cairn Walk" /><published>2024-12-14T00:00:00+00:00</published><updated>2024-12-14T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2024/12/14/Alnham</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/12/14/Alnham.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-14T15:56:52+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Shepherd’s Cairn Walk</title><link href="http://localhost:4000/northumberland/2024/12/14/Alnham.html" rel="alternate" type="text/html" title="Shepherd’s Cairn Walk" /><published>2024-12-14T00:00:00+00:00</published><updated>2024-12-14T00:00:00+00:00</updated><id>http://localhost:4000/northumberland/2024/12/14/Alnham</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/12/14/Alnham.html">&lt;hr /&gt;
 
 &lt;p&gt;Alnham and Shepherd’s Cairn&lt;/p&gt;
 
@@ -7,7 +7,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/Morning.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/Morning.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/Morning.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/Morning.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -22,7 +22,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/WhiteGate.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/WhiteGate.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/WhiteGate.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/WhiteGate.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -37,7 +37,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/Mem2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/Mem2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/Mem2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/Mem2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -54,7 +54,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/Mem1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/Mem1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/Mem1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/Mem1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -68,12 +68,12 @@
 
 &lt;p&gt;This incident led to the National Park Voluntary Rangers creating what is now the Northumberland National Park Mountain Rescue service. &lt;a href=&quot;https://www.grough.co.uk/magazine/2007/11/17/cairn-marks-rescue-teams-tragic-beginnings#&quot;&gt;The memorial stone was raised in 2007.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Walking down from the memorial, I met the modern road between Alnham and Ewartly Shank (which didn’t exist in 1962). A footpath led a bit away from it, towards Pidon’s Leap. A large rocky outcrop surrounded by dead bracken sat above a cleugh, with a lovely little waterfall at the bottom. Pigdon was apaprently a reiver who lept across the gorge with a stolen sheep to escape his pursuers.&lt;/p&gt;
+&lt;p&gt;Walking down from the memorial, I met the modern road between Alnham and Ewartly Shank (which didn’t exist in 1962). A footpath led a bit away from it, towards Pidon’s Leap. A large rocky outcrop surrounded by dead bracken sat above a cleugh, with a lovely little waterfall at the bottom. Pigdon was supposedly a sheep rustler who lept across the gorge with a stolen sheep to escape his pursuers.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/pigdon.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/pigdon.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/pigdon.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/pigdon.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -88,7 +88,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/TodStones.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/TodStones.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/TodStones.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/TodStones.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -103,7 +103,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/Hazletonrig.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/Hazletonrig.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/Hazletonrig.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/Hazletonrig.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -116,7 +116,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Alnham/stone.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Alnham/stone.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Alnham/stone.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Alnham/stone.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -128,7 +128,7 @@
 
 &lt;p&gt;A nice morning’s walk, even with the extra faffing around electric fence. The route tried to follow &lt;a href=&quot;https://www.northumberlandnationalpark.org.uk/walk/the-shepherds-cairn-walk/&quot;&gt;this national park leaflet&lt;/a&gt; if the electric fences hadn’t been in the way.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-dc34590a9b33a778c2bacd5ac0ba0654&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-79a4cf1852e3516201711b2bf6a4bb72&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -139,33 +139,33 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;0fbd958a8bd4ffb3843d362a1a02c4f1&quot;,
+          {id: &quot;2725ec5ca9cf81fe99fd9fa7f22b90d4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.408166,
                        &quot;longitude&quot; : -2.053505,
                        &quot;popupContent&quot; : &quot;The Shepherd&apos;s Cairn&quot;} },	
-          {id: &quot;e106482b92b49b08c2c78412678e7d88&quot;,
+          {id: &quot;764a427724222f35a249dab31297e261&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.415367,
                        &quot;longitude&quot; : -2.063080,
                        &quot;popupContent&quot; : &quot;Ewartly Shank&quot;} },	
-          {id: &quot;6aa43d5bb219dc4f627735946ede7cb2&quot;,
+          {id: &quot;db7ed9565f51a133987431534ce1b5a4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.391669,
                        &quot;longitude&quot; : -2.009231,
                        &quot;popupContent&quot; : &quot;Alnham&quot;} },	   
-          {id: &quot;772e450f09f15ac8e1684f41ee3127cb&quot;,
+          {id: &quot;2cf4db05e3423acc940d9da05b826355&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.385408,
                        &quot;longitude&quot; : -2.057522,
                        &quot;popupContent&quot; : &quot;Boundary Stone&quot;} },                       
-    {id: &quot;33430018f90bfce638f614e57e1a0cf9&quot;,
+    {id: &quot;9f511dfc8e67cfa4a24d1a740f832cc7&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Alnham.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-dc34590a9b33a778c2bacd5ac0ba0654&quot;;
+    var defaultMapElId = &quot;leaflet-map-79a4cf1852e3516201711b2bf6a4bb72&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -298,7 +298,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map dc34590a9b33a778c2bacd5ac0ba0654 with these args:&quot;);
+        console.log(&quot;Creating map 79a4cf1852e3516201711b2bf6a4bb72 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1206,14 +1206,14 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Automatic Counting of Gulls from Drone Images</title><link href="https://sarahdal.github.io//uav/2024/10/27/ML.html" rel="alternate" type="text/html" title="Automatic Counting of Gulls from Drone Images" /><published>2024-10-27T00:00:00+01:00</published><updated>2024-10-27T00:00:00+01:00</updated><id>https://sarahdal.github.io//uav/2024/10/27/ML</id><content type="html" xml:base="https://sarahdal.github.io//uav/2024/10/27/ML.html">&lt;p&gt;A big part of my career has involved counting seabirds. The UK and Ireland, a bunch of islands on the edge of the Atlantic and just south of the Arctic, have some of the most important seabird colonies in the world, with about &lt;a href=&quot;https://www.bto.org/our-science/focal-areas/our-seabirds&quot;&gt;8 million birds of 25 different species breeding here&lt;/a&gt;. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with the wider oceanic ecosystem they rely on.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Automatic Counting of Gulls from Drone Images</title><link href="http://localhost:4000/uav/2024/10/27/ML.html" rel="alternate" type="text/html" title="Automatic Counting of Gulls from Drone Images" /><published>2024-10-27T00:00:00+01:00</published><updated>2024-10-27T00:00:00+01:00</updated><id>http://localhost:4000/uav/2024/10/27/ML</id><content type="html" xml:base="http://localhost:4000/uav/2024/10/27/ML.html">&lt;p&gt;A big part of my career has involved counting seabirds. The UK and Ireland, a bunch of islands on the edge of the Atlantic and just south of the Arctic, have some of the most important seabird colonies in the world, with about &lt;a href=&quot;https://www.bto.org/our-science/focal-areas/our-seabirds&quot;&gt;8 million birds of 25 different species breeding here&lt;/a&gt;. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with the wider oceanic ecosystem they rely on.&lt;/p&gt;
 
 &lt;p&gt;Traditional counts involve heading into seabird colonies to count their nests (we no longer just count the legs and divide by two). Although accurate, it’s hugely disturbing to the birds, and for more remote islands, can be very difficult and expensive to organise and access. Images taken from drones are an obvious way to make seabird censusing a lot easier and cheaper.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/gullcolony.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/gullcolony.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/ML/gullcolony.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/ML/gullcolony.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1241,7 +1241,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example1.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/ML/example1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/ML/example1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1251,7 +1251,7 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/ML/example.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/ML/example.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1259,7 +1259,7 @@
       &lt;td style=&quot;text-align: center&quot;&gt;different aerial view of gulls sitting on green saltmarsh; now they have black bounding boxes as I’ve tagged them for the dataset&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/example2.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/example2.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/ML/example2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/ML/example2.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1276,7 +1276,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/ML/shelduck.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/ML/shelduck.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/ML/shelduck.png&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/ML/shelduck.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1290,7 +1290,7 @@
 
 &lt;p&gt;Once I have gotten the model to this accuracy, it should be very simple to share it and show anyone who is used to QGIS, how to run the model in the deepness plugin. Now instead of spending hours manually counting gulls in the aerial imagery it can be easily done in a few minutes with QGIS, with very little technical knowledge required.&lt;/p&gt;
 
-&lt;p&gt;For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and cost.&lt;/p&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="UAV" /><category term="GIS" /><summary type="html">A big part of my career has involved counting seabirds. The UK and Ireland, a bunch of islands on the edge of the Atlantic and just south of the Arctic, have some of the most important seabird colonies in the world, with about 8 million birds of 25 different species breeding here. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with the wider oceanic ecosystem they rely on.</summary></entry><entry><title type="html">Walk Resources</title><link href="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
+&lt;p&gt;For this colony, the traditional count took a team of about a dozen people two days to cover all the area, and because of this, was only censused once every 5 years at best. Now, potentially, the drone flight could be done by one person in an afternoon, and then counted by ML in about half an hour - a vast improvement in time and cost.&lt;/p&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="UAV" /><category term="GIS" /><summary type="html">A big part of my career has involved counting seabirds. The UK and Ireland, a bunch of islands on the edge of the Atlantic and just south of the Arctic, have some of the most important seabird colonies in the world, with about 8 million birds of 25 different species breeding here. Keeping track of them is hugely important so we know what’s going on both with the birds themselves, and with the wider oceanic ecosystem they rely on.</summary></entry><entry><title type="html">Walk Resources</title><link href="http://localhost:4000/northumberland/2024/09/14/WalkResources.html" rel="alternate" type="text/html" title="Walk Resources" /><published>2024-09-14T00:00:00+01:00</published><updated>2024-09-14T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2024/09/14/WalkResources</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/09/14/WalkResources.html">&lt;p&gt;I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?&lt;/p&gt;
 
 &lt;p&gt;For walks north of the border, &lt;a href=&quot;https://www.walkhighlands.co.uk/&quot;&gt;walkhighlands&lt;/a&gt; is a well-known source, and I also look up routes on &lt;a href=&quot;https://www.outdooractive.com/en/member/sarah-dal/134917862/&quot;&gt;OutdoorActive&lt;/a&gt; and &lt;a href=&quot;https://osmaps.com/&quot;&gt;OSMaps&lt;/a&gt;. But the vast majority of the walks on these sites are less than 15km, or are long linear multi-day routes. I want walks 15km to 30km, but quite often when I make my own route, halfway round I’ll find it’s difficult bog, ankle-snapping tussocks and holes, or impassable forestry brash. I’ve been trying hard to find good sources for good walks, so I thought I’d share some of the ones I’ve found.&lt;/p&gt;
 
@@ -1309,7 +1309,7 @@ The website was last updated in 2022, and unfortunately looks like it’s been h
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/walks/books.jpg&quot; alt=&quot;&quot; width=&quot;700px&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/walks/books.jpg&quot; alt=&quot;&quot; width=&quot;700px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1327,7 +1327,7 @@ The website was last updated in 2022, and unfortunately looks like it’s been h
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/walks/squad.jpg&quot; alt=&quot;&quot; width=&quot;700px&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/walks/squad.jpg&quot; alt=&quot;&quot; width=&quot;700px&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1344,10 +1344,10 @@ The website was last updated in 2022, and unfortunately looks like it’s been h
 &lt;p&gt;A little known but great app for walking in the UK is &lt;a href=&quot;https://www.topo-gps.com/&quot;&gt;Topo GPS&lt;/a&gt;, where you can purchase the OS tiles you actually need (79p for a 8km x 8km square), rather than shelling out for a subscription, and keep them on your device (a bit like the old ViewRanger app, if you used that). You can easily upload a gpx, and then ask it to purchase and download the tiles you need. I don’t find it very easy to plan routes on it, so I use OutdoorActive or OSMaps, and then transfer the gpx across.&lt;/p&gt;
 
 &lt;h2 id=&quot;here&quot;&gt;here&lt;/h2&gt;
-&lt;p&gt;I am going to try and describe the (good) walks I do better, and provide the gpx files. I just need to go on some walks again now..&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><summary type="html">I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?</summary></entry><entry><title type="html">Postboxes</title><link href="https://sarahdal.github.io//gis/2024/08/07/PostBoxes.html" rel="alternate" type="text/html" title="Postboxes" /><published>2024-08-07T00:00:00+01:00</published><updated>2024-08-07T00:00:00+01:00</updated><id>https://sarahdal.github.io//gis/2024/08/07/PostBoxes</id><content type="html" xml:base="https://sarahdal.github.io//gis/2024/08/07/PostBoxes.html">&lt;table&gt;
+&lt;p&gt;I am going to try and describe the (good) walks I do better, and provide the gpx files. I just need to go on some walks again now..&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><summary type="html">I quite enjoy long walks in less-well travelled places. I live in Northumberland so that second one is quite easy, but what about the first - finding decent length walking routes?</summary></entry><entry><title type="html">Postboxes</title><link href="http://localhost:4000/gis/2024/08/07/PostBoxes.html" rel="alternate" type="text/html" title="Postboxes" /><published>2024-08-07T00:00:00+01:00</published><updated>2024-08-07T00:00:00+01:00</updated><id>http://localhost:4000/gis/2024/08/07/PostBoxes</id><content type="html" xml:base="http://localhost:4000/gis/2024/08/07/PostBoxes.html">&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/postbox.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/postbox.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/postbox.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/postbox.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1376,7 +1376,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/csv.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/csv.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/csv.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/csv.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1391,7 +1391,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/postboxes1.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/postboxes1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/postboxes1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/postboxes1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1424,12 +1424,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/FieldCalc.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/FieldCalc.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/FieldCalc.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/FieldCalc.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/distances1.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/distances1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/distances1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/distances1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
@@ -1442,12 +1442,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/Colonsay1.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Colonsay1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/Colonsay1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Colonsay1.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/Smw8tBJDuEoNWpq99&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/colonsay_google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/Smw8tBJDuEoNWpq99&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/colonsay_google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1462,12 +1462,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/Lundy.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Lundy.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/Lundy.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Lundy.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/1339472&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/LundyPost.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/1339472&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/LundyPost.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1482,12 +1482,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/Altnaharra.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Altnaharra.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/Altnaharra.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Altnaharra.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/y8891JY2Ws7zqBgS7&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Altnaharra_google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/y8891JY2Ws7zqBgS7&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Altnaharra_google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;A google streetview image of a small red postbox on a post, by a chestnut paling fence infront of a windowless white one-story building, probably an old telephone exchange. There’s a tree behind the postbox.&lt;/td&gt;
@@ -1500,12 +1500,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/Garrison.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Garrison.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/Garrison.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Garrison.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/KF6HgpYT9H5kjHG8A&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Garrison-google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/KF6HgpYT9H5kjHG8A&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Garrison-google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;A street under a grey sky, with a yellow painted building and a road lined with parked cars. Between the cars is a small postbox on a pole.&lt;/td&gt;
@@ -1518,12 +1518,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/SmallIsles.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/SmallIsles.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/SmallIsles.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/SmallIsles.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/o9d5otXfA5jAaCbL9&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/Eigg-google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://maps.app.goo.gl/o9d5otXfA5jAaCbL9&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/Eigg-google.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Google streetview of a white L-shaped single story building on a small road with a car park next to it. People are milling abour; white houses dot the gentle slope rising in the distance. THe sea behind it and the sky above are glorious blue in the sunshine.&lt;/td&gt;
@@ -1536,7 +1536,7 @@ out center;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/LundyStamps.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/LundyStamps.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/LundyStamps.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/LundyStamps.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;An orange 33p Lundy stamp and a green Lundy 5p stamp affixed to the bottom left corner of a white enveleope. Both have woodcuts of puffins on them.&lt;/td&gt;
@@ -1549,12 +1549,12 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io//assets/images/postbox/SmallIsles.png&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/SmallIsles.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000/assets/images/postbox/SmallIsles.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/SmallIsles.png&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/5085054&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/CannaPO.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/5085054&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/CannaPO.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1564,7 +1564,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/7183797&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io//assets/images/postbox/RumPO.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.geograph.org.uk/photo/7183797&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/postbox/RumPO.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1572,14 +1572,14 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Rum’s Post Office and post box in this photo taken in 2022 by &lt;a href=&quot;https://www.geograph.org.uk/profile/15498&quot;&gt;M J Richardson&lt;/a&gt;. A large wooden single story building is the islands’ community hall, to the left is a small annex that houses the post office. Some picnic benches are on the grass out front and at the edge of the building near some wheely bins is a small postbox.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="GIS" /><category term="GIS" /><summary type="html">a red “Type A” pillar postbox</summary></entry><entry><title type="html">Ailsa Craig</title><link href="https://sarahdal.github.io//uav/2024/07/13/AilsaCraig.html" rel="alternate" type="text/html" title="Ailsa Craig" /><published>2024-07-13T00:00:00+01:00</published><updated>2024-07-13T00:00:00+01:00</updated><id>https://sarahdal.github.io//uav/2024/07/13/AilsaCraig</id><content type="html" xml:base="https://sarahdal.github.io//uav/2024/07/13/AilsaCraig.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="GIS" /><category term="GIS" /><summary type="html">a red “Type A” pillar postbox</summary></entry><entry><title type="html">Ailsa Craig</title><link href="http://localhost:4000/uav/2024/07/13/AilsaCraig.html" rel="alternate" type="text/html" title="Ailsa Craig" /><published>2024-07-13T00:00:00+01:00</published><updated>2024-07-13T00:00:00+01:00</updated><id>http://localhost:4000/uav/2024/07/13/AilsaCraig</id><content type="html" xml:base="http://localhost:4000/uav/2024/07/13/AilsaCraig.html">&lt;hr /&gt;
 
 &lt;p&gt;Nesting in colonies of tens of thousands of pairs, the rocky cliffs and islands around the UK hold over half of the world’s population of Northern Gannet (&lt;em&gt;Morus bassanus&lt;/em&gt;), with the world’s largest colony being Bass Rock in the Firth of Forth (75,000 pairs) and the colony on Saint Kilda (60,000 pairs).&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_091304.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_091304.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_091304.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_091304.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1596,7 +1596,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/FromGirvan.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/FromGirvan.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/FromGirvan.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/FromGirvan.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1611,7 +1611,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_132238.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_132238.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_132238.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_132238.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1624,7 +1624,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_133236.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_133236.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_133236.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_133236.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1639,7 +1639,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_131633.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_131633.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_131633.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_131633.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1654,7 +1654,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_140850.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_140850.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_140850.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_140850.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1669,7 +1669,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_134704.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_134704.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_134704.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_134704.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1677,7 +1677,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Inside the brick gasworks building, the curved rails that held the roof cast shadows on the concrete floor, and apart from some pieces of wood and brick, the space is empty.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153733.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153733.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153733.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153733.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1685,7 +1685,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;A small concrete hut with brocken windows and a green door. A rusted rail line runs past it, small plants growing from the rabbit-cropped grass that surround it. This held an engine that hauled trucks up the rails from the pier.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153802.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153802.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153802.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153802.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1693,7 +1693,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Looking through a window frame into the hut, which houses a large rusty engine with a drive wheel and exhaust pipe. On the windowledge someone has placed a radio-casette player from circa 1986.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/lighthouserails.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/lighthouserails.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/lighthouserails.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/lighthouserails.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1701,7 +1701,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Rusted overgrown rails curve away to a single story building with empty windows and doorframes and peeling white paint, the lighthouse cottages that are now seperate from the operational lighthouse behind.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153659.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_153659.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153659.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_153659.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1716,7 +1716,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_143557.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_143557.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_143557.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_143557.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1724,7 +1724,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;A large concrete dome rises out of a grassy slope. On top is a rusted horn, the foghorn, which was powered by compressed gas (generated by coal gas and then diesel) until the 1960s.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_144501.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_144501.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_144501.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_144501.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1739,7 +1739,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_083558.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_083558.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_083558.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_083558.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1754,7 +1754,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_160127.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_160127.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_160127.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_160127.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1769,7 +1769,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_161001.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_161001.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_161001.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_161001.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1784,7 +1784,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_161639.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240712_161639.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_161639.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240712_161639.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1801,7 +1801,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_102830.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_102830.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_102830.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_102830.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1809,7 +1809,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;My colleague walking ahead over the shore, which is made up of huge rocky boulders. Above him tower the cliffs.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_102913.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_102913.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_102913.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_102913.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1824,7 +1824,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_112520.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_112520.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_112520.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_112520.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1832,7 +1832,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Looking up a steep slope covered in vegeation and pink-purple flowering bracken, a square tower sits on the horizon under a blue sky. This is the Castle.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_113656.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_113656.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_113656.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_113656.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1849,7 +1849,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_111821.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_111821.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_111821.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_111821.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1857,7 +1857,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;A small white building with a flat roof sits at the base of the hill. The tower of the castle can be seen on the slope above.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_111917.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/20240713_111917.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_111917.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/20240713_111917.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1872,7 +1872,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/lobste_me.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io/pics/media/large/AilsaCraig/lobste_me.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000pics/media/large/AilsaCraig/lobste_me.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000pics/media/large/AilsaCraig/lobste_me.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1880,14 +1880,14 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Me, grinning, on a boat, holding a large blue lobster. Two older women stand behind me.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="Birding" /><category term="UAV" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Merrick and the Galloway Hills</title><link href="https://sarahdal.github.io//walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>https://sarahdal.github.io//walks/2024/05/04/Merrick</id><content type="html" xml:base="https://sarahdal.github.io//walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="UAV" /><category term="Birding" /><category term="UAV" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Merrick and the Galloway Hills</title><link href="http://localhost:4000/walks/2024/05/04/Merrick.html" rel="alternate" type="text/html" title="Merrick and the Galloway Hills" /><published>2024-05-04T00:00:00+01:00</published><updated>2024-05-04T00:00:00+01:00</updated><id>http://localhost:4000/walks/2024/05/04/Merrick</id><content type="html" xml:base="http://localhost:4000/walks/2024/05/04/Merrick.html">&lt;p&gt;Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.&lt;/p&gt;
 
 &lt;p&gt;From the very end of the Glentrool road I parked at Bruce’s Stone car park, then followed the lovely Buchan Burn past the Culsharg Bothy, more of an open shelter maintained by the Forestry comission rather than a fancy &lt;a href=&quot;https://www.mountainbothies.org.uk/&quot;&gt;MBA bothy&lt;/a&gt;, with the door handles and windows broken.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Culsharg1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Culsharg1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Culsharg1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Culsharg1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1897,7 +1897,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Culsharg3.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Culsharg3.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Culsharg3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Culsharg3.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1912,7 +1912,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/image.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/BenyellarytoMerrick.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/image.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/BenyellarytoMerrick.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1920,7 +1920,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;From Benyellary looking across the ridge - the Neive of the Spit - to the summit of Merrick. The ground is rocky and carpeted with low grass. Merrick looks far away.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Neive.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Neive.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Neive.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Neive.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1928,7 +1928,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;From the Neive of the Spit looking East into the Hills of Galloway. The ground drops away to a vista of heathery hills bordering small lochs&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Merrick.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Merrick.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Merrick.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Merrick.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1943,7 +1943,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/MerrickNorth.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/MerrickNorth.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/MerrickNorth.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/MerrickNorth.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1951,7 +1951,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Looking North from Merrick, the ground drops steeply down to a grassy rocky ridge stretching away to the another hill on the left. On the right you can see down in to the vast, flat valley.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Gairy.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Gairy.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Gairy.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Gairy.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -1968,7 +1968,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Twachan.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Twachan.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Twachan.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Twachan.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1983,7 +1983,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Mulwhachar.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Mulwhachar.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Mulwhachar.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Mulwhachar.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -1991,7 +1991,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;The ground is a patchwork of yellow and brown tussocks, stretching off to a hill - Mulwhachar&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/camp.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/camp.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/camp.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/camp.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2006,7 +2006,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/campfog.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/campfog.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/campfog.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/campfog.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2014,7 +2014,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;The green tent sits in the fog, very little else can be seen; just the grass surrounding it.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/LochEnoch2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/LochEnoch2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/LochEnoch2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/LochEnoch2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2031,7 +2031,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/rock1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/rock1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/rock1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/rock1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2039,7 +2039,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;In the fog, a boulder is balancing precariously on one edge&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Green.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Green.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Green.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Green.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2054,7 +2054,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/snibe.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/snibe.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/snibe.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/snibe.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2064,7 +2064,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/LochDow.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/LochDow.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/LochDow.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/LochDow.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2079,7 +2079,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/snack.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/snack.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/snack.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/snack.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2089,7 +2089,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/LochValley.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/LochValley.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/LochValley.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/LochValley.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2099,7 +2099,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Scrub.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Scrub.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Scrub.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Scrub.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2109,7 +2109,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/LochValley2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/LochValley2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/LochValley2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/LochValley2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2124,7 +2124,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/Gairloch.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/Gairloch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/Gairloch.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/Gairloch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -2134,7 +2134,7 @@ out center;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/Merrick/LochTrool.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Merrick/LochTrool.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/Merrick/LochTrool.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Merrick/LochTrool.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -2146,7 +2146,7 @@ out center;
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-cef02c41db0e7136977810587af47341&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-dc441443086cde091974edb9ac7d1db2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2157,16 +2157,16 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;27cb5566c1477ee21ee0f9150feeb3da&quot;,
+    {id: &quot;daba769176e7ec87ad274f62ad9a8c29&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;d2fe49192f50b9852e509e2b95a8b119&quot;,
+    {id: &quot;920e80d57510db2d6cb650ba735769e3&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-cef02c41db0e7136977810587af47341&quot;;
+    var defaultMapElId = &quot;leaflet-map-dc441443086cde091974edb9ac7d1db2&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2299,7 +2299,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map cef02c41db0e7136977810587af47341 with these args:&quot;);
+        console.log(&quot;Creating map dc441443086cde091974edb9ac7d1db2 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3207,7 +3207,7 @@ out center;
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="walks" /><category term="hiking" /><summary type="html">Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.</summary></entry><entry><title type="html">Redesdale Border Walk</title><link href="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html" rel="alternate" type="text/html" title="Redesdale Border Walk" /><published>2024-04-21T00:00:00+01:00</published><updated>2024-04-21T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/04/21/Whitelee</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/04/21/Whitelee.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="walks" /><category term="hiking" /><summary type="html">Across the border far into the Galloway Hills this weekend. I did walk this area about 12 years ago and loved it, so a return trip.</summary></entry><entry><title type="html">Redesdale Border Walk</title><link href="http://localhost:4000/northumberland/2024/04/21/Whitelee.html" rel="alternate" type="text/html" title="Redesdale Border Walk" /><published>2024-04-21T00:00:00+01:00</published><updated>2024-04-21T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2024/04/21/Whitelee</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/04/21/Whitelee.html">&lt;hr /&gt;
 
 &lt;p&gt;This weekend I took a walk high above Redesdale, an area notorious for lawless border reivers up to the 1600s.&lt;/p&gt;
 
@@ -3216,7 +3216,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/SpithopeBothy.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/SpithopeBothy.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/SpithopeBothy.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/SpithopeBothy.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3231,7 +3231,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/BellsCleuch.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/BellsCleuch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/BellsCleuch.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/BellsCleuch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3244,7 +3244,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/CatcleughCairn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/CatcleughCairn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/CatcleughCairn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/CatcleughCairn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3259,7 +3259,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/CarterBar.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/CarterBar.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/CarterBar.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/CarterBar.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3278,7 +3278,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/GoatSculpture.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/GoatSculpture.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/GoatSculpture.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/GoatSculpture.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3293,7 +3293,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/CarterPikeCairn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/CarterPikeCairn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/CarterPikeCairn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/CarterPikeCairn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3301,7 +3301,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;A neat and new stone cairn, stones are stacked into a dome shape with a ledge all the way round that can be used as a seat. It sits atop a pile of stones on the summit of the hill.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/BlankeyBog.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/BlankeyBog.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/BlankeyBog.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/BlankeyBog.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3316,7 +3316,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/WhiteleeMoorRocks.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/WhiteleeMoorRocks.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/WhiteleeMoorRocks.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/WhiteleeMoorRocks.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3331,7 +3331,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/CottageEnd.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/CottageEnd.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/CottageEnd.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/CottageEnd.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3339,7 +3339,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Piles of rocks in a vaguely oblong shape leading away from the camera, the remains of a cottage?&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Buildings.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Buildings.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Buildings.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Buildings.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3356,7 +3356,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/GirdleFell.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/GirdleFell.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/GirdleFell.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/GirdleFell.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3371,7 +3371,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/WhiteTrig.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/WhiteTrig.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/WhiteTrig.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/WhiteTrig.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3386,7 +3386,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Ride.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Ride.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Ride.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Ride.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3399,7 +3399,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/ChattlehopeSpoutTop.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/ChattlehopeSpoutTop.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/ChattlehopeSpoutTop.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/ChattlehopeSpoutTop.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3414,7 +3414,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Catcleuch1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Catcleuch1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3422,7 +3422,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;The slipway from the Catcleugh Reservoir&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Catcleuch2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Catcleuch2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3430,7 +3430,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;The Valve House, a pretty stone structure on top of the dam&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch3.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch3.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Catcleuch3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Catcleuch3.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3438,7 +3438,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;Green machinery inside the valve house&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch7.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border240421/Catcleuch7.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/border240421/Catcleuch7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border240421/Catcleuch7.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3450,7 +3450,7 @@ out center;
 
 &lt;p&gt;From here, I only took one more wrong turn and had to climb a fence before getting back onto the road.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-caf51d035c6a178f53fd2ae2c637eb93&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-f83bc78e4a018d424059fbd93696b08b&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3461,39 +3461,39 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;4f20154ca7a7428b47f445928dcb00a8&quot;,
+     {id: &quot;426f635cd39c9be869718a201e86c405&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3568,
                        &quot;longitude&quot; : -2.4720,
                        &quot;popupContent&quot; : &quot;Site of the Redeswire Fray&quot;} },	
-     {id: &quot;e64b69ab414be31a99571c111147471d&quot;,
+     {id: &quot;ecc3413a8b48ac649a6885632cd6c955&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3444,
                        &quot;longitude&quot; : -2.3668,
                        &quot;popupContent&quot; : &quot;Spithope Bothy&quot;} },	
-     {id: &quot;1295cb040a2a97cd9d05678d73ef72ee&quot;,
+     {id: &quot;82c744ccb1a3a2e735f53c229a871453&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3373,
                        &quot;longitude&quot; : -2.4891,
                        &quot;popupContent&quot; : &quot;Carter Pike Cairn&quot;} },	
-     {id: &quot;fca304052ec80448c64e4f7abb6b40ba&quot;,
+     {id: &quot;df4844b62b39ff5cc729b1129ded2f05&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3197,
                        &quot;longitude&quot; : -2.40057,
                        &quot;popupContent&quot; : &quot;Catcleugh Reservoir Dam&quot;} },
-     {id: &quot;ef4448bad4bca97b898eb097cfdd4ab5&quot;,
+     {id: &quot;1e07f771d69b0ca607f40a8847062ddd&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3250,
                        &quot;longitude&quot; : -2.50321,
                        &quot;popupContent&quot; : &quot;Bateinghope Burn Ruins&quot;} },
 					   
-    {id: &quot;05d522aa0f9a7260fe9e617ad7ea5b1b&quot;,
+    {id: &quot;3701dee0d7257e120edaa74fb465db70&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Whitelee.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-caf51d035c6a178f53fd2ae2c637eb93&quot;;
+    var defaultMapElId = &quot;leaflet-map-f83bc78e4a018d424059fbd93696b08b&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3626,7 +3626,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map caf51d035c6a178f53fd2ae2c637eb93 with these args:&quot;);
+        console.log(&quot;Creating map f83bc78e4a018d424059fbd93696b08b with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4534,14 +4534,14 @@ out center;
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Williams Cleuch Pines</title><link href="https://sarahdal.github.io//northumberland/2024/04/07/WilliamsCleuchPines.html" rel="alternate" type="text/html" title="Williams Cleuch Pines" /><published>2024-04-07T00:00:00+01:00</published><updated>2024-04-07T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2024/04/07/WilliamsCleuchPines</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/04/07/WilliamsCleuchPines.html">&lt;p&gt;I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..&lt;/p&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Williams Cleuch Pines</title><link href="http://localhost:4000/northumberland/2024/04/07/WilliamsCleuchPines.html" rel="alternate" type="text/html" title="Williams Cleuch Pines" /><published>2024-04-07T00:00:00+01:00</published><updated>2024-04-07T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2024/04/07/WilliamsCleuchPines</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/04/07/WilliamsCleuchPines.html">&lt;p&gt;I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..&lt;/p&gt;
 
 &lt;p&gt;Kielder Forest was planted up between the wars, to provide a strategic timber resource for the nation. In the late 1970s the valley was flooded, to provide water for a predicted increase in demand from the industrial centres on Tyneside, Wearside and Teesside. The increased demand didn’t occur, and since the 1980s the forest and reservoir have supposedly been managed with &lt;a href=&quot;https://www.visitkielder.com/&quot;&gt;recreation and conservation in mind&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/KielderForest.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/KielderForest.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/KielderForest.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/KielderForest.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4558,7 +4558,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/ScaupBurn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/ScaupBurn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/ScaupBurn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/ScaupBurn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4573,7 +4573,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/ScaupPond.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/ScaupPond.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/ScaupPond.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/ScaupPond.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4588,7 +4588,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/deadpine.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/deadpine.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/deadpine.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/deadpine.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4603,7 +4603,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/WilliamCleuchFence.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/WilliamCleuchFence.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/WilliamCleuchFence.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/WilliamCleuchFence.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4618,7 +4618,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/WillliamCleuchPine1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/WillliamCleuchPine1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/WillliamCleuchPine1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/WillliamCleuchPine1.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4633,7 +4633,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/WillliamCleuchPine2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/WillliamCleuchPine2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/WillliamCleuchPine2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/WillliamCleuchPine2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4650,7 +4650,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/KielderheadView.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/KielderheadView.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/KielderheadView.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/KielderheadView.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4667,7 +4667,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/Ride.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/Ride.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/Ride.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/Ride.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4682,7 +4682,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/Oldshed2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/Oldshed2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/Oldshed2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/Oldshed2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -4690,7 +4690,7 @@ out center;
       &lt;td style=&quot;text-align: center&quot;&gt;A small stone building with a pitched roof, barely wide as the doorway which is blocked by bits of old pallet. A tree grows next to it.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/wildwood/Oldshed.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wildwood/Oldshed.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/wildwood/Oldshed.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wildwood/Oldshed.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -4702,7 +4702,7 @@ out center;
 
 &lt;p&gt;This route followed the recommended walk in the &lt;a href=&quot;https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf&quot;&gt;“Walk to the Wildwood” Leaflet&lt;/a&gt;, and was really great despite the weather.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-aed28d1e6d25541ad3fa9a2e6e76f8d6&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-09e82dbc9e879d5874a3fce47e84591e&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4713,13 +4713,13 @@ out center;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;a8275bd8ccba6f4dc5a7784cf03bf5ec&quot;,
+    {id: &quot;58d6baf2824a602772f9de015281882b&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/WilliamCleuch.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-aed28d1e6d25541ad3fa9a2e6e76f8d6&quot;;
+    var defaultMapElId = &quot;leaflet-map-09e82dbc9e879d5874a3fce47e84591e&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4852,7 +4852,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map aed28d1e6d25541ad3fa9a2e6e76f8d6 with these args:&quot;);
+        console.log(&quot;Creating map 09e82dbc9e879d5874a3fce47e84591e with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5760,7 +5760,7 @@ out center;
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><category term="hiking" /><summary type="html">I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..</summary></entry><entry><title type="html">Around Edlingham</title><link href="https://sarahdal.github.io//northumberland/2024/03/15/Corbys.html" rel="alternate" type="text/html" title="Around Edlingham" /><published>2024-03-15T00:00:00+00:00</published><updated>2024-03-15T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2024/03/15/Corbys</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/03/15/Corbys.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><category term="hiking" /><summary type="html">I drove across Redesdale and the Wannies today to Kielder Forest, to look at a handful of very special trees..</summary></entry><entry><title type="html">Around Edlingham</title><link href="http://localhost:4000/northumberland/2024/03/15/Corbys.html" rel="alternate" type="text/html" title="Around Edlingham" /><published>2024-03-15T00:00:00+00:00</published><updated>2024-03-15T00:00:00+00:00</updated><id>http://localhost:4000/northumberland/2024/03/15/Corbys</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/03/15/Corbys.html">&lt;hr /&gt;
 
 &lt;p&gt;We went out today to look at a handful of neat historical things in the hills and woods around Edlingham, in Northumberland.&lt;/p&gt;
 
@@ -5769,7 +5769,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/view.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/view.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/view.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/view.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5790,7 +5790,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/hope.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/hope.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/hope.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/hope.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5805,7 +5805,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/shelter.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/shelter.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/shelter.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/shelter.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5822,7 +5822,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/shelter2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/shelter2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/shelter2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/shelter2.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5837,7 +5837,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/CorbyLetch.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/CorbyLetch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/CorbyLetch.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/CorbyLetch.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5852,7 +5852,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/CorbyBridge.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/CorbyBridge.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/CorbyBridge.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/CorbyBridge.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5867,7 +5867,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/Lemm.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/Lemm.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/Lemm.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/Lemm.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5890,7 +5890,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/track.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/track.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/track.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/track.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5905,7 +5905,7 @@ out center;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/corby/burn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/corby/burn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://localhost:4000//assets/images/corby/burn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/corby/burn.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -5915,7 +5915,7 @@ out center;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-a6331c1afb0c642f500035c640329d3e&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-c022b32f9bff3b03f9b80ce97daa60a7&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5926,22 +5926,22 @@ out center;
                  &quot;zoom&quot; : 14,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;9621b777e41499f73114c6498c555169&quot;,
+     {id: &quot;184bba13a2461d933ffa4bb3910dd715&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.380212,
                        &quot;longitude&quot; :  -1.7995428,
                        &quot;popupContent&quot; : &quot;Rock Shelter&quot;} },	
-     {id: &quot;4048216f67f72c803ae33cb313a2ece1&quot;,
+     {id: &quot;449bbb0e611fd23ee61fdc4ad07fb14e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.377526,
                        &quot;longitude&quot; :  -1.8058687,
                        &quot;popupContent&quot; : &quot;Corby&apos;s Letch Waterfall and Bridge&quot;} },						   
-     {id: &quot;afdf88e465b799b0a039a049f8976043&quot;,
+     {id: &quot;ce78e2d908a85fffa315dcb062cb42a4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.390803,
                        &quot;longitude&quot; :   -1.7974214,
                        &quot;popupContent&quot; : &quot;Lemmington Woods Carved Rock&quot;} },	
-     {id: &quot;3e83b31a847e590e4d94111ea0b7ab1b&quot;,
+     {id: &quot;0b8b4f809640d1eafdd43a2388f272a4&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.393073,
                        &quot;longitude&quot; :   -1.7955351,
@@ -5949,7 +5949,7 @@ out center;
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-a6331c1afb0c642f500035c640329d3e&quot;;
+    var defaultMapElId = &quot;leaflet-map-c022b32f9bff3b03f9b80ce97daa60a7&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6082,7 +6082,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map a6331c1afb0c642f500035c640329d3e with these args:&quot;);
+        console.log(&quot;Creating map c022b32f9bff3b03f9b80ce97daa60a7 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6992,15 +6992,15 @@ out center;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;As usual, Northumberland is absolutely covered with history. Where next?&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Rory’s Still</title><link href="https://sarahdal.github.io//northumberland/2024/02/24/RorysStill.html" rel="alternate" type="text/html" title="Rory’s Still" /><published>2024-02-24T00:00:00+00:00</published><updated>2024-02-24T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2024/02/24/RorysStill</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2024/02/24/RorysStill.html">&lt;hr /&gt;
+&lt;p&gt;As usual, Northumberland is absolutely covered with history. Where next?&lt;/p&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Rory’s Still</title><link href="http://localhost:4000/northumberland/2024/02/24/RorysStill.html" rel="alternate" type="text/html" title="Rory’s Still" /><published>2024-02-24T00:00:00+00:00</published><updated>2024-02-24T00:00:00+00:00</updated><id>http://localhost:4000/northumberland/2024/02/24/RorysStill</id><content type="html" xml:base="http://localhost:4000/northumberland/2024/02/24/RorysStill.html">&lt;hr /&gt;
 
 &lt;p&gt;A fine morning to walk out again in Upper Coquetdale and find the last of the extant illicit stills, this time Rory’s Still by the Usway Burn.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/Rowhope.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/Rowhope.jpg&quot; alt=&quot;Rowhope Burn&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/Rowhope.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/Rowhope.jpg&quot; alt=&quot;Rowhope Burn&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It was still frosty as I walked out from the car park at Rowhope, following a track along the Trows Burn, past Murder cleugh (cleugh is the Northumbrian name for these small steep-sided valleys, which this burn flows into):&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/Murdercleugh.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/Murdercleugh.jpg&quot; alt=&quot;Murder cleugh&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/Murdercleugh.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/Murdercleugh.jpg&quot; alt=&quot;Murder cleugh&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here, the awful murder took place in 1610 of Isabella Sudden, beaten to death by Robert Lumsden “with stones worth 1d struck against her stomach so that she languished and died”. The agent of the court tred to arrest Lumsden, but was attacked by Lumsden’s friends. Further efforts to arrest him were made, until he was tried in 1634 and sentenced to a month in jail and a fine of 100 marks.&lt;/p&gt;
 
@@ -7008,69 +7008,69 @@ out center;
 
 &lt;p&gt;The path follows an old road, meeting with the ancient drover’s road, Clennel Street, above a small burn crossing. You can see the route of the old road cutting up the steep slope, and then after the hairpin bend it meets with Clennel Street right of the hill Hazely Law:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/MiddleFord.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/MiddleFord.jpg&quot; alt=&quot;Clennel Street&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/MiddleFord.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/MiddleFord.jpg&quot; alt=&quot;Clennel Street&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Following Clennel Street takes me past Uswayford Farm, and the old bunkhouse for Pennine Way walkers, closed for a while now:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/UswayfordFarm.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/UswayfordFarm.jpg&quot; alt=&quot;Uswayford&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/UswayfordFarm.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/UswayfordFarm.jpg&quot; alt=&quot;Uswayford&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Then I leave Clennel Street to keep alongside the burn, and it’s just another kilometre to the site of Rory’s Still, hidden away at the confluence of Inner Hare cleugh and the Usway. (Also, four cleughs up from here is another Murder cleugh.)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/RorysStill1.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/RorysStill1.jpg&quot; alt=&quot;Rory&apos;s Still&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/RorysStill1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/RorysStill1.jpg&quot; alt=&quot;Rory&apos;s Still&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“Black Rory” apparently ran all the illicit stills in Upper Coquetdale. It’s unlikely that he actually existed but he makes a great folk character. I have a bit of Coquetdale shepherd in my family history, who knows, perhaps a great-great-great-great-great uncle of mine was warming up by sneaking a dram from here in between watching over his sheep, out on these remote border moors.&lt;/p&gt;
 
 &lt;p&gt;Like with the other two stills, the bowl-shaped kiln and adjoining rectangle building is really obvious, although here a tree has grown in the kiln. This is where the grains would have been heated in warm water then spread on the floor and allowed to germinate.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/RorysStill2.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/RorysStill2.jpg&quot; alt=&quot;Rory&apos;s Still&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/RorysStill2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/RorysStill2.jpg&quot; alt=&quot;Rory&apos;s Still&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;From here, I followed the Usway up to Salter’s Road, another ancient route, this time running from Alnham to Clennel Street, possbly used by saltpanners at either the coast at Northumberland or near Edinburgh, taking their wares either side of the border. Here, it crosses the Usway on a heavy duty footbridge just above the lovely Davidson’s Linn:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/DavidsonsLinn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/DavidsonsLinn.jpg&quot; alt=&quot;Davidson&apos;s Linn&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/DavidsonsLinn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/DavidsonsLinn.jpg&quot; alt=&quot;Davidson&apos;s Linn&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/SaltersRoad.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/SaltersRoad.jpg&quot; alt=&quot;Salter&apos;s Road&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/SaltersRoad.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/SaltersRoad.jpg&quot; alt=&quot;Salter&apos;s Road&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At this point, I was going to follow the Salter’s Road through the Usway Plantation forest up to the border, but thanks to Storm Arwen in 2021, all these routes were badly blocked.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/ImpassableBridleway.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/ImpassableBridleway.jpg&quot; alt=&quot;impassable bridleway&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/ImpassableBridleway.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/ImpassableBridleway.jpg&quot; alt=&quot;impassable bridleway&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I eventually went back to the footbridge and with difficulty picked my way up Inner Hare cleugh, reaching Clennel Street further south and adding a few extra kms to the trip.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/DifficultBurn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/DifficultBurn.jpg&quot; alt=&quot;Inner Hare cleugh&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/DifficultBurn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/DifficultBurn.jpg&quot; alt=&quot;Inner Hare cleugh&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Heading up to the border ridge along a proper path (rather than making your own way up and getting stuck under a fence/fallen tree like I do) is always a gorgeous walk. I made great pace once I wasn’t negotiating deep tussocky bog. To my shock, however, I spotted something unusual - another walker about a mile ahead. For this entire walk, despite being a gloriously sunny, windless day in the middle of a National Park, I saw a total of 6 people. This very typical for walking in Northumberland!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/Hex.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/Hex.jpg&quot; alt=&quot;Fingerpost&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/Hex.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/Hex.jpg&quot; alt=&quot;Fingerpost&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I stopped at the border crossing point at Hexpathgate. Although Clennel Street is a bridleway, on the English side it’s restricted - no motor vehicles - but on the Scottish side it isn’t. This must be a relatively recent change (I mean, some time in the last few decades), because vehicles are prohibited in April and May on the bridleway in Scotland and presumably weren’t on the English side. To notify drivers crossing the border, it required what must be one of the more rural road signs in the country.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/ScottishRoads.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/ScottishRoads.jpg&quot; alt=&quot;No Vehicles&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/ScottishRoads.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/ScottishRoads.jpg&quot; alt=&quot;No Vehicles&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hexpathgate was also the site where, before the union of the crowns, the Wardens of the lawless borderlands on both sides would arrange formal meetings to settle disagreements, trade prisoners and generally try to keep the peace. In 1585 Lord Francis Russell, part of the Englsh delegation, was killed during a dispute; the English claimed they were ambushed while the Scottish accused the English of behaving agressively. A huge cairn was built on top of (or an existing ancient cairn enlarged upon) the nearby summit of Windy Gyle about a mile’s walk south west along the Border Ridge. Because it’s also the route of the Peninne Way, most of the way there is nicely paved.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/PennineWay.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/PennineWay.jpg&quot; alt=&quot;Pennine Way and Border Rigg&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/PennineWay.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/PennineWay.jpg&quot; alt=&quot;Pennine Way and Border Rigg&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This leads to the summit of Windy Gyle and Russell’s Cairn, into which the OS shoved a trig point.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/RusselCairn.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/RusselCairn.jpg&quot; alt=&quot;Russell&apos;s Cairn&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/RusselCairn.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/RusselCairn.jpg&quot; alt=&quot;Russell&apos;s Cairn&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;From here it’s straight back down to Trows farm and following the road back to the car park:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/usway/trows.jpg&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/usway/trows.jpg&quot; alt=&quot;View of Trows Farm&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/usway/trows.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/usway/trows.jpg&quot; alt=&quot;View of Trows Farm&apos;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I first learned that these old stills existed back in the early 2000s when some local research must have been published and a blended whisky “Black Rory” was released (you can still find bottles for sale). I always wanted to go take a look, so twenty years later I’m really glad I finally got round to it. Here’s some sources of information I used to find the stills and learn more about them:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://archive.org/details/uppercoquetdalen00dixo&quot;&gt;Upper Coquetdale by David Dippie Dixon&lt;/a&gt; - Dippie Dixon was a Grocer and Draper and local historian who wrote extensively about Northumberland in a readable style. This book was published in 1903.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/whisky/Phillipson1960.pdf&quot;&gt;Phillipson (1960):Remains of illicit distilleries in Upper Coquetdale&lt;/a&gt; Archeological report from 1960 of the excavation of one of the Stills (Wholehope, the first one I visited).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/whisky/Phillipson1960.pdf&quot;&gt;Phillipson (1960):Remains of illicit distilleries in Upper Coquetdale&lt;/a&gt; Archeological report from 1960 of the excavation of one of the Stills (Wholehope, the first one I visited).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sarahdal.github.io///assets/images/whisky/coquetdalewhiskyresearchreport-2.pdf&quot;&gt;The Production and Trade of Beer and Whisky in Upper Coquetdale&lt;/a&gt; - a dry 80-odd page report full of historical research comissioned by the National Park.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000//assets/images/whisky/coquetdalewhiskyresearchreport-2.pdf&quot;&gt;The Production and Trade of Beer and Whisky in Upper Coquetdale&lt;/a&gt; - a dry 80-odd page report full of historical research comissioned by the National Park.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.northern-heritage.co.uk/product/books/archaeology/the-old-tracks-through-the-cheviots-david-jones-with-coquetdale-community&quot;&gt;The Old Tracks Through The Cheviots&lt;/a&gt;by Davd Jones, a very readable history of this area.&lt;/p&gt;
 
 &lt;p&gt;I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together &lt;a href=&quot;https://www.geograph.org.uk/snippet/5569&quot;&gt;a selection of photographs and locations for them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-efa55381878b1d344df9516a055bb196&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-0121ff52ab19a2626e9320aa2c904805&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -7081,28 +7081,28 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;97ce5aa39e512ddc395b8549a2e35141&quot;,
+     {id: &quot;c3f251d193bbde04d0fa878e6db2c5ac&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.413560,
                        &quot;longitude&quot; : -2.284758,
                        &quot;popupContent&quot; : &quot;Blindburn Still&quot;} },	
-     {id: &quot;c023cc2e620bb21738a710c4e692db2d&quot;,
+     {id: &quot;c68696af686087c26284de554130b564&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.379630,
                        &quot;longitude&quot; : -2.168993,
                        &quot;popupContent&quot; : &quot;Wholehope Still&quot;} },	
-     {id: &quot;0c3d73f59ff9a57c41c52c78d5f771cc&quot;,
+     {id: &quot;9e8172cbeb047f0e568148c7556f7f58&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.4304,
                        &quot;longitude&quot; : -2.1864,
                        &quot;popupContent&quot; : &quot;Rory&apos;s Still&quot;} },	   
-    {id: &quot;67d7ecf8340cbd073d7e52640da23bfe&quot;,
+    {id: &quot;f1f990e2d92186e18626bcaa8d811651&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Usway.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-efa55381878b1d344df9516a055bb196&quot;;
+    var defaultMapElId = &quot;leaflet-map-0121ff52ab19a2626e9320aa2c904805&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -7235,7 +7235,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map efa55381878b1d344df9516a055bb196 with these args:&quot;);
+        console.log(&quot;Creating map 0121ff52ab19a2626e9320aa2c904805 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
