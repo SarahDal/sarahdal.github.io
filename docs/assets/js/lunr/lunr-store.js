@@ -108,7 +108,7 @@ var store = [{
         "teaser": "/assets/images/Alnham/Morning.jpg"
       },{
         "title": "The Border Stones",
-        "excerpt":"I always assumed the border between England and Scotland was fixed when King James IV became the I of England… I was looking at a post on the Heddon-on-the-Wall’s history society, about the Named Stones of Northumberland, a list published in the Berwickshire Naturalist’s Club in 1879, p531-536, link here....","categories": ["Northumberland"],
+        "excerpt":"I always assumed the border between England and Scotland was fixed when King James IV became the I of England. I was looking at a post on the Heddon-on-the-Wall’s history society, about the Named Stones of Northumberland, a list published in the Berwickshire Naturalist’s Club in 1879, p531-536, link here....","categories": ["Northumberland"],
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2025/02/02/BorderStones.html",
         "teaser": "/assets/images/BorderStones/GtHethaCairn.jpg"
