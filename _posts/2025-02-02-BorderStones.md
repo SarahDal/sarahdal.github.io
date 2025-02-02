@@ -26,6 +26,8 @@ I went to the excellent NLS Maps to have a look at the first 6" maps, published 
 
 | [![Image]({{ site.url }}{{ site.baseurl }}/assets/images/BorderStones/Map1.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/BorderStones/Map1.jpg) | 
 
+| [![Image]({{ site.baseurl }}/assets/images/BorderStones/Map1.jpg)]({{ site.baseurl }}/assets/images/BorderStones/Map1.jpg) | 
+
 
 The Heddon-on-the-Wall history page has a lot, lot more detail on both [the stones marking the border](https://heddonhistory.weebly.com/blog/the-stob-stanes-yetholm-common-and-the-anglo-scottish-border) and the [border itself and why and how it changed](http://heddonhistory.weebly.com/blog/yetholm-common). In summary: the area was used by the residents of Kirk Yetholm for grazing and peat cutting despite technically being in England, and it was referred to as "debateable land" (which I didn't realise there was any of this far east) and called Yetholm Common. The border was supposedly fixed in the 1200s, but various people didn't agree; by the late 1700s there are regular legal battles over it but by the time you get to the 1800s and the industrialisation of agriculture, common land is less important so in 1861 the various lairds came together, declared it was no longer common land and divvied it between Tankerville's estate in Northumberland and Kirk Yetholm in Scotland. 63 acres went to Scotland and 101 to England, and the border was finally settled.
 
