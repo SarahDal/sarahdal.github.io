@@ -1,0 +1,466 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Cat Wheel Speedo - Sarah Dalrymple</title>
+<meta name="description" content="Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Sarah Dalrymple">
+<meta property="og:title" content="Cat Wheel Speedo">
+<meta property="og:url" content="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html">
+
+
+  <meta property="og:description" content="Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on.">
+
+
+
+  <meta property="og:image" content="https://sarahdal.github.io//www/assets/images/CC_housing.jpg">
+
+
+
+
+
+  <meta property="article:published_time" content="2025-02-11T00:00:00+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "https://sarahdal.github.io//"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Sarah Dalrymple Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link href="/assets/maps/maplibre-gl.css" rel="stylesheet">
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/Kilda3.jpg" alt="Sarah Dalrymple"></a>
+        
+        <a class="site-title" href="/">
+          Sarah Dalrymple
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">pics</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Cat Wheel Speedo">
+    <meta itemprop="description" content="Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on.">
+    <meta itemprop="datePublished" content="2025-02-11T00:00:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Cat Wheel Speedo
+</h1>
+          
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2025-02-11T00:00:00+00:00">11 Feb 2025</time>
+      </span>
+    
+
+    
+
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on.</p>
+
+<p>You will need:</p>
+<ul>
+  <li>A <a href="https://onefastcat.com/products/cat-wheel">cat wheel</a></li>
+  <li>An ESP or Arduino</li>
+  <li>A <a href="https://components101.com/modules/reed-switch-sensor-module">reed switch module</a></li>
+</ul>
+
+<p><img src="https://sarahdal.github.io///assets/images/wheel/reed_switch.jpg" alt="" width="45%" /></p>
+
+<ul>
+  <li>Some strong magnets</li>
+</ul>
+
+<p><img src="https://sarahdal.github.io///assets/images/wheel/magnets.jpg" alt="" width="45%" /></p>
+
+<ul>
+  <li><a href="https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/">LCD module with I2C adaptor</a></li>
+</ul>
+
+<p><img src="https://sarahdal.github.io///assets/images/wheel/I2C_LCD.jpg" alt="" width="45%" /></p>
+
+<ul>
+  <li>double sided tape to attach the magnets and the switch to the wheel eg 3M tape</li>
+  <li>wires, power source etc</li>
+  <li>a cat</li>
+</ul>
+
+<p><img src="https://sarahdal.github.io///assets/images/fury-blep.jpg" alt="" width="50%" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Fury the black cat sticking his tongue out</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, while the Reed switch module looked a bit overkill it worked much better. If you want to understand why, look up “debouncing”.</p>
+
+<p>The benefit of using an ESP32 over an arduino is that the pins have built-in resistors. Also, ESP8266 and ESP32 have Wifi, and most ESP32s also have BLE, which makes them useful for all sorts of things. They tend to be cheaper than Arduinos and come in a huge range of form factors, making them very versatile and I much prefer them to Arduino.</p>
+
+<p>You need to find a place where the magnets can be stuck at equal distances around the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.</p>
+
+<p>Connect the hall monitor to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
+
+<p>Now measure the diameter of the inside of the wheel, I used a laser measure so super accurate - 1.08m. The circumference is π times the diameter, in my case, 3.4m. I divide this by 4, because I have 4 magnets on the wheel, which gives us a value of 0.85.</p>
+
+<p>This value goes in the following line:</p>
+
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="k">const</span> <span class="kt">float</span> <span class="n">wheelCircumference</span> <span class="o">=</span> <span class="mi">0</span><span class="p">.</span><span class="mi">85</span><span class="p">;</span></code></pre></figure>
+
+<p>Connect up an I2C LCD unit. It needs 5v, GND and SCL and SDA pins. Look up a pinout of your <a href="https://www.espboards.dev/esp32/">ESP32 model</a> to find out which those are; it’s usually pins 21 and 22 on ESP32. Once connected you can adjust the potentiometer at the back to change the contrast.</p>
+
+<p>Here it is all connected up and put in a nice plastic box:</p>
+
+<p><img src="https://sarahdal.github.io///assets/images/wheel/speedo.jpg" alt="" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>a translucent blue box containing ESP32 on a solderless breadboard and various wires and connectors</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>That’s all it needs - the code below (or <a href="https://sarahdal.github.io///assets/images/wheel/speedo.ino">download here</a>) will increment a count every time a magnet passes a sensor. It will multiply that by the value you entered in wheelCircumference to work out speed and distance.</p>
+
+<video width="480" height="320" controls="controls">
+  <source src="/assets/images/wheel/wheel.mp4 " type="video/mp4" />
+</video>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Fury the black cat walking slowly on his wheel</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I have it set so it sends all the information to the serial monitor: Number of revolutions, the count, the speed and the distance. Underneath is the code for the LCD display of speed and distance. This all just resets if you unplug or reset the device.</p>
+
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="c1">// A simple LCD speedo for a cat wheel. </span>
+<span class="c1">// Change wheelCircumference to the distance between magnets on the wheel</span>
+<span class="c1">// work out the total circumference of your wheel (diameter times pi) </span>
+<span class="c1">// then divide that by the number of magnets.</span>
+
+<span class="cp">#include &lt;Wire.h&gt;
+#include &lt;LiquidCrystal_I2C.h&gt;
+</span>
+<span class="k">const</span> <span class="kt">int</span> <span class="n">reedPin</span> <span class="o">=</span> <span class="mi">19</span><span class="p">;</span>                 <span class="c1">// Pin for the magentic sensor</span>
+<span class="k">const</span> <span class="kt">float</span> <span class="n">wheelCircumference</span> <span class="o">=</span> <span class="mi">0</span><span class="p">.</span><span class="mi">84823</span><span class="p">;</span>  <span class="c1">// Distance between magnets in metres </span>
+<span class="k">volatile</span> <span class="kt">int</span> <span class="n">cnt</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>     <span class="c1">// Counts the number of wheel rotations</span>
+<span class="k">volatile</span> <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">revolutions</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">lastTime</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>  <span class="c1">// Time to calculate speed</span>
+<span class="kt">float</span> <span class="n">distance</span> <span class="o">=</span> <span class="mi">0</span><span class="p">.</span><span class="mi">0</span><span class="p">;</span>        <span class="c1">// Total distance covered</span>
+<span class="kt">float</span> <span class="n">speed</span> <span class="o">=</span> <span class="mi">0</span><span class="p">.</span><span class="mi">0</span><span class="p">;</span>           <span class="c1">// Speed in meters per second</span>
+
+<span class="k">volatile</span> <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">lastTriggerTime</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>  <span class="c1">// Last interrupt trigger time</span>
+<span class="k">const</span> <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">debounceDelay</span> <span class="o">=</span> <span class="mi">150</span><span class="p">;</span>     <span class="c1">// Debounce delay in milliseconds</span>
+
+<span class="cp">#define I2C_SCL 22
+#define I2C_SDA 21
+</span>
+<span class="c1">//set up LCD display</span>
+<span class="n">LiquidCrystal_I2C</span> <span class="nf">lcd</span><span class="p">(</span><span class="mh">0x27</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">2</span><span class="p">);</span>  <span class="c1">// set the LCD address to 0x27 for a 16 chars and 2 line display</span>
+
+<span class="kt">void</span> <span class="nf">count</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">currentTime</span> <span class="o">=</span> <span class="n">millis</span><span class="p">();</span>
+  
+  <span class="k">if</span> <span class="p">(</span><span class="n">currentTime</span> <span class="o">-</span> <span class="n">lastTriggerTime</span> <span class="o">&gt;</span> <span class="n">debounceDelay</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">cnt</span><span class="o">++</span><span class="p">;</span>
+    <span class="n">revolutions</span><span class="o">++</span><span class="p">;</span>                  <span class="c1">// Increment the total revolutions count</span>
+    <span class="n">lastTriggerTime</span> <span class="o">=</span> <span class="n">currentTime</span><span class="p">;</span>  <span class="c1">// Update the last trigger time</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kt">void</span> <span class="nf">setup</span><span class="p">()</span> <span class="p">{</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">115200</span><span class="p">);</span>
+  <span class="n">Wire</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">I2C_SDA</span><span class="p">,</span> <span class="n">I2C_SCL</span><span class="p">);</span>
+
+  <span class="n">pinMode</span><span class="p">(</span><span class="n">reedPin</span><span class="p">,</span> <span class="n">INPUT_PULLUP</span><span class="p">);</span>                                   <span class="c1">// Set reed pin as input</span>
+  <span class="n">attachInterrupt</span><span class="p">(</span><span class="n">digitalPinToInterrupt</span><span class="p">(</span><span class="n">reedPin</span><span class="p">),</span> <span class="n">count</span><span class="p">,</span> <span class="n">FALLING</span><span class="p">);</span>  <span class="c1">// Trigger count on rising edge</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">init</span><span class="p">();</span>                                                       <span class="c1">// initialise the LCD</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">backlight</span><span class="p">();</span>                                                  <span class="c1">// Light the beacons</span>
+<span class="p">}</span>
+
+
+<span class="kt">void</span> <span class="nf">loop</span><span class="p">()</span> <span class="p">{</span>
+  <span class="c1">// Every 5 seconds, calculate the speed and distance</span>
+  <span class="kt">unsigned</span> <span class="kt">long</span> <span class="n">currentTime</span> <span class="o">=</span> <span class="n">millis</span><span class="p">();</span>
+
+  <span class="k">if</span> <span class="p">(</span><span class="n">currentTime</span> <span class="o">-</span> <span class="n">lastTime</span> <span class="o">&gt;=</span> <span class="mi">5000</span><span class="p">)</span> <span class="p">{</span>
+    <span class="kt">float</span> <span class="n">timeInSeconds</span> <span class="o">=</span> <span class="p">(</span><span class="n">currentTime</span> <span class="o">-</span> <span class="n">lastTime</span><span class="p">)</span> <span class="o">/</span> <span class="mi">1000</span><span class="p">.</span><span class="mi">0</span><span class="p">;</span>
+
+    <span class="c1">// Calculate speed in meters per second</span>
+    <span class="n">speed</span> <span class="o">=</span> <span class="p">(</span><span class="n">cnt</span> <span class="o">*</span> <span class="n">wheelCircumference</span><span class="p">)</span> <span class="o">/</span> <span class="n">timeInSeconds</span><span class="p">;</span>
+
+    <span class="c1">// Calculate total distance</span>
+    <span class="n">distance</span> <span class="o">+=</span> <span class="n">cnt</span> <span class="o">*</span> <span class="n">wheelCircumference</span><span class="p">;</span>
+
+    <span class="c1">// Go to the Write subroutine to output the results</span>
+    <span class="n">Write</span><span class="p">();</span>
+
+    <span class="c1">// Reset the count and update the last time</span>
+    <span class="n">cnt</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="n">lastTime</span> <span class="o">=</span> <span class="n">currentTime</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+
+<span class="c1">//Writes the results to the serial monitor and the LCD</span>
+<span class="kt">void</span> <span class="nf">Write</span><span class="p">()</span> <span class="p">{</span>
+
+  <span class="c1">// information for Serial Monitor</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">"Data:"</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"Revolutions: "</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">revolutions</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"cnt: "</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">cnt</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"Current Speed: "</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">speed</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"Distance: "</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">distance</span><span class="p">);</span>
+  <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">" -- "</span><span class="p">);</span>
+  <span class="c1">// print to LCD</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">clear</span><span class="p">();</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">setCursor</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"Speed: "</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="n">speed</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"m/s"</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">setCursor</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"Dist: "</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="n">distance</span><span class="p">);</span>
+  <span class="n">lcd</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">"m"</span><span class="p">);</span>
+  <span class="c1">//lcd.print("count: ");</span>
+  <span class="c1">//lcd.print(revolutions);</span>
+<span class="p">}</span>
+
+ </code></pre></figure>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2025-02-11T00:00:00+00:00">11 Feb 2025</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/northumberland/2025/02/02/BorderStones.html" class="pagination--pager" title="The Border Stones
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://ecoevo.social/@sarahdalgulls/" rel="nofollow noopener noreferrer"><i class="fab fa-mastodon" aria-hidden="true"></i> mastodon</a></li>
+        
+      
+        
+          <li><a href="https://www.instagram.com/zooplanktonbears/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Sarah Dalrymple. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>

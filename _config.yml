@@ -29,7 +29,6 @@ plugins:
 - jekyll-leaflet
 
 
-
 date_format: "%d %b %Y"
 
 
@@ -52,7 +51,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zooplanktonbears/"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
