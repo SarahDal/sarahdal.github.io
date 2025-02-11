@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2025-02-11T20:04:06+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Cat Wheel Speedo</title><link href="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html" rel="alternate" type="text/html" title="Cat Wheel Speedo" /><published>2025-02-11T00:00:00+00:00</published><updated>2025-02-11T00:00:00+00:00</updated><id>https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel</id><content type="html" xml:base="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html">&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/wheel1.jpg&quot; alt=&quot;a black cat with a yellow collar sits in an upright wheel about 1m high.&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2025-02-11T20:16:50+00:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Cat Wheel Speedo</title><link href="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html" rel="alternate" type="text/html" title="Cat Wheel Speedo" /><published>2025-02-11T00:00:00+00:00</published><updated>2025-02-11T00:00:00+00:00</updated><id>https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel</id><content type="html" xml:base="https://sarahdal.github.io//arduino-esp32/2025/02/11/CatWheel.html">&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/wheel1.jpg&quot; alt=&quot;a black cat with a yellow collar sits in an upright wheel about 1m high.&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on.&lt;/p&gt;
 
@@ -6,18 +6,11 @@
 &lt;ul&gt;
   &lt;li&gt;A &lt;a href=&quot;https://onefastcat.com/products/cat-wheel&quot;&gt;cat wheel&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;An ESP or Arduino&lt;/li&gt;
-  &lt;li&gt;A &lt;a href=&quot;https://components101.com/modules/reed-switch-sensor-module&quot;&gt;reed switch module&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/reed_switch.jpg&quot; alt=&quot;a small blue circuit board. at one end is a tiny glass tube switch. it is connected by short wire to the board, which has a potentiometer and three pins at the opposite end.&quot; width=&quot;45%&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Some strong magnets &lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/magnets.jpg&quot; alt=&quot;&quot; width=&quot;45%&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;A &lt;a href=&quot;https://components101.com/modules/reed-switch-sensor-module&quot;&gt;reed switch module&lt;/a&gt; &lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/reed_switch.jpg&quot; alt=&quot;a small blue circuit board. at one end is a tiny glass tube switch. it is connected by short wire to the board, which has a potentiometer and three pins at the opposite end.&quot; width=&quot;45%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/&quot;&gt;LCD module with I2C adaptor&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Some strong magnets &lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/magnets.jpg&quot; alt=&quot;&quot; width=&quot;45%&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/&quot;&gt;LCD module with I2C adaptor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/I2C_LCD.jpg&quot; alt=&quot;&quot; width=&quot;45%&quot; /&gt;&lt;/p&gt;
@@ -38,13 +31,40 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, while the Reed switch module looked a bit overkill it worked much better. If you want to understand why, look up “debouncing”.&lt;/p&gt;
+&lt;p&gt;I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, so while the Reed switch module looked a bit overkill, it worked much better.&lt;/p&gt;
+
+&lt;h3 id=&quot;esp32-or-arduino&quot;&gt;ESP32 or Arduino?&lt;/h3&gt;
 
 &lt;p&gt;The benefit of using an ESP32 over an arduino is that the pins have built-in resistors. Also, ESP8266 and ESP32 have Wifi, and most ESP32s also have BLE, which makes them useful for all sorts of things. They tend to be cheaper than Arduinos and come in a huge range of form factors, making them very versatile and I much prefer them to Arduino.&lt;/p&gt;
 
+&lt;h3 id=&quot;setting-up&quot;&gt;Setting up&lt;/h3&gt;
+
 &lt;p&gt;You need to find a place where the magnets can be stuck at equal distances around the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.&lt;/p&gt;
 
-&lt;p&gt;Connect the hall monitor to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.&lt;/p&gt;
+&lt;p&gt;Connect the hall switch to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ESP32&lt;/th&gt;
+      &lt;th&gt;Hall Switch&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3.3v&lt;/td&gt;
+      &lt;td&gt;V+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GND&lt;/td&gt;
+      &lt;td&gt;GND&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GPIO 19&lt;/td&gt;
+      &lt;td&gt;DO&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;Now measure the diameter of the inside of the wheel, I used a laser measure so super accurate - 1.08m. The circumference is π times the diameter, in my case, 3.4m. I divide this by 4, because I have 4 magnets on the wheel, which gives us a value of 0.85.&lt;/p&gt;
 
@@ -53,6 +73,33 @@
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;k&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wheelCircumference&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;85&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Connect up an I2C LCD unit. It needs 5v, GND and SCL and SDA pins. Look up a pinout of your &lt;a href=&quot;https://www.espboards.dev/esp32/&quot;&gt;ESP32 model&lt;/a&gt; to find out which those are; it’s usually pins 21 and 22 on ESP32. Once connected you can adjust the potentiometer at the back to change the contrast.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ESP32&lt;/th&gt;
+      &lt;th&gt;LCD I2C&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5V&lt;/td&gt;
+      &lt;td&gt;V+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GND&lt;/td&gt;
+      &lt;td&gt;GND&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SCL (21)&lt;/td&gt;
+      &lt;td&gt;SCL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SDA (22)&lt;/td&gt;
+      &lt;td&gt;SDA&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;Here it is all connected up and put in a nice plastic box:&lt;/p&gt;
 
@@ -79,6 +126,8 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
 
 &lt;p&gt;I have it set so it sends all the information to the serial monitor: Number of revolutions, the count, the speed and the distance. Underneath is the code for the LCD display of speed and distance. This all just resets if you unplug or reset the device.&lt;/p&gt;
 
@@ -387,7 +436,7 @@
 
 &lt;p&gt;From here I followed St Cuthbert’s Way down to Elsdonburn Farm where I had wonderful views of a stoat in white ermine coat bouncing about the forest edge. I stopped to watch him for a few minutes until he noticed me, stood up on his back legs and looked at me then dove into the undergrowth. Magical! Almost made me wish I had a half decent camera.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-e4568263c3ea5ae30516707f87d48801&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-06bca7de99b907d1c4fbed3252af4b4d&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -398,23 +447,23 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;99a9fd4609786048e4cb55c884312aeb&quot;,
+          {id: &quot;2d530aaf85f7734547d26854726462eb&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.5365129722222,
                        &quot;longitude&quot; : -2.236739,
                        &quot;popupContent&quot; : &quot;The Stob Stones&quot;} },	
-          {id: &quot;dc00d7851ba1770de1fee6eac5e91d57&quot;,
+          {id: &quot;dbc49e14cfabdae787969407f2af4117&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.5365129722222,
                        &quot;longitude&quot; : -2.22962497222222,
                        &quot;popupContent&quot; : &quot;Tuppies Grave&quot;} },	                    
-    {id: &quot;7ea7a442f7f4d608698254d9423a4477&quot;,
+    {id: &quot;228c33ced4bb9ad8f78e28af02590438&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/GtHetha.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-e4568263c3ea5ae30516707f87d48801&quot;;
+    var defaultMapElId = &quot;leaflet-map-06bca7de99b907d1c4fbed3252af4b4d&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -547,7 +596,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map e4568263c3ea5ae30516707f87d48801 with these args:&quot;);
+        console.log(&quot;Creating map 06bca7de99b907d1c4fbed3252af4b4d with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1583,7 +1632,7 @@
 
 &lt;p&gt;A nice morning’s walk, even with the extra faffing around electric fence. The route tried to follow &lt;a href=&quot;https://www.northumberlandnationalpark.org.uk/walk/the-shepherds-cairn-walk/&quot;&gt;this national park leaflet&lt;/a&gt; if the electric fences hadn’t been in the way.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-26d6b7c000b0a560c61665135cfe7fce&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-6cc9764267792d7f4e96efaa4969dfc6&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -1594,33 +1643,33 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;beefc0bab95ca4ebd7610778b41c063e&quot;,
+          {id: &quot;4c5943ab3b358efa7a29b0f6d6ee8f57&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.408166,
                        &quot;longitude&quot; : -2.053505,
                        &quot;popupContent&quot; : &quot;The Shepherd&apos;s Cairn&quot;} },	
-          {id: &quot;bf9ef19892fef5d396c967917edda90a&quot;,
+          {id: &quot;e3821f20d160c12a7890ef3bec63252c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.415367,
                        &quot;longitude&quot; : -2.063080,
                        &quot;popupContent&quot; : &quot;Ewartly Shank&quot;} },	
-          {id: &quot;3a57855c380f43ea88ab6e0161a2075a&quot;,
+          {id: &quot;f710c9aec249e72ea4f48c9b8a3a19ed&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.391669,
                        &quot;longitude&quot; : -2.009231,
                        &quot;popupContent&quot; : &quot;Alnham&quot;} },	   
-          {id: &quot;3a95d49e4caf8a6682feee7d4da8a90d&quot;,
+          {id: &quot;ebd1f5a4b8dbc16c8f60b6b4e4329f4c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.385408,
                        &quot;longitude&quot; : -2.057522,
                        &quot;popupContent&quot; : &quot;Boundary Stone&quot;} },                       
-    {id: &quot;d1783d0b9c90853c6d021d2c0a8647e8&quot;,
+    {id: &quot;c436172bbf80738cc75b9e25b0301f78&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Alnham.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-26d6b7c000b0a560c61665135cfe7fce&quot;;
+    var defaultMapElId = &quot;leaflet-map-6cc9764267792d7f4e96efaa4969dfc6&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1753,7 +1802,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 26d6b7c000b0a560c61665135cfe7fce with these args:&quot;);
+        console.log(&quot;Creating map 6cc9764267792d7f4e96efaa4969dfc6 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3601,7 +3650,7 @@ out center;
 
 &lt;p&gt;Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-4c766f69381535b6d0edebada42c5a55&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-12fde2e8d2310db6267d6c883d8d1bba&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3612,16 +3661,16 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;d9c65126f27c412209a56143684a4a48&quot;,
+    {id: &quot;9cef31be479533868a47a239cafa3ccf&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick1.geojson&quot; },
-    {id: &quot;345f98a4f21fd1575a269191000ba80d&quot;,
+    {id: &quot;37a4ef63ce7b57150f74b7a3f732db73&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Merrick2.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-4c766f69381535b6d0edebada42c5a55&quot;;
+    var defaultMapElId = &quot;leaflet-map-12fde2e8d2310db6267d6c883d8d1bba&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3754,7 +3803,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 4c766f69381535b6d0edebada42c5a55 with these args:&quot;);
+        console.log(&quot;Creating map 12fde2e8d2310db6267d6c883d8d1bba with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4905,7 +4954,7 @@ out center;
 
 &lt;p&gt;From here, I only took one more wrong turn and had to climb a fence before getting back onto the road.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-37fbb99027112fd373b0675d2e6ea399&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-23455b7266b5b826f6236ff00bd095bf&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4916,39 +4965,39 @@ out center;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-     {id: &quot;3ce0e888e38cc7fb27ac1c099920d2b8&quot;,
+     {id: &quot;92e41a2e222a1cecda48f68e3b0f8b67&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3568,
                        &quot;longitude&quot; : -2.4720,
                        &quot;popupContent&quot; : &quot;Site of the Redeswire Fray&quot;} },	
-     {id: &quot;b24075ffee3b358eda29d8141f959371&quot;,
+     {id: &quot;19c85430fb1ff7721a8979262b655707&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3444,
                        &quot;longitude&quot; : -2.3668,
                        &quot;popupContent&quot; : &quot;Spithope Bothy&quot;} },	
-     {id: &quot;b2039042c87f156bea47ee020e29aff6&quot;,
+     {id: &quot;c91b2630f98e56a8e5ec06e8558bab59&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3373,
                        &quot;longitude&quot; : -2.4891,
                        &quot;popupContent&quot; : &quot;Carter Pike Cairn&quot;} },	
-     {id: &quot;bdeaa2d8702dde58948f6c78294c6a27&quot;,
+     {id: &quot;91345550db90ea861f4501a27b64f059&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3197,
                        &quot;longitude&quot; : -2.40057,
                        &quot;popupContent&quot; : &quot;Catcleugh Reservoir Dam&quot;} },
-     {id: &quot;35bf905c6e319d16a515d568a04c3986&quot;,
+     {id: &quot;d3798d4db9a5c98d0b409cac5f58ea20&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.3250,
                        &quot;longitude&quot; : -2.50321,
                        &quot;popupContent&quot; : &quot;Bateinghope Burn Ruins&quot;} },
 					   
-    {id: &quot;487385c5b8a31f2445ec3ae012fca100&quot;,
+    {id: &quot;c33b8be3659a58e6c894eace3e115a68&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Whitelee.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-37fbb99027112fd373b0675d2e6ea399&quot;;
+    var defaultMapElId = &quot;leaflet-map-23455b7266b5b826f6236ff00bd095bf&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5081,7 +5130,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 37fbb99027112fd373b0675d2e6ea399 with these args:&quot;);
+        console.log(&quot;Creating map 23455b7266b5b826f6236ff00bd095bf with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6157,7 +6206,7 @@ out center;
 
 &lt;p&gt;This route followed the recommended walk in the &lt;a href=&quot;https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf&quot;&gt;“Walk to the Wildwood” Leaflet&lt;/a&gt;, and was really great despite the weather.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-3bc2f32efad0eb906f3882a2411fcdc2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-1c588d3cb78c9f52e6465432a2fa2b74&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -6168,13 +6217,13 @@ out center;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-    {id: &quot;47670693ca09d83537c797d9aadb45df&quot;,
+    {id: &quot;bfee27c325dc4d8fba694533bc9dab01&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/WilliamCleuch.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-3bc2f32efad0eb906f3882a2411fcdc2&quot;;
+    var defaultMapElId = &quot;leaflet-map-1c588d3cb78c9f52e6465432a2fa2b74&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6307,7 +6356,7 @@ out center;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 3bc2f32efad0eb906f3882a2411fcdc2 with these args:&quot;);
+        console.log(&quot;Creating map 1c588d3cb78c9f52e6465432a2fa2b74 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

@@ -188,18 +188,11 @@
 <ul>
   <li>A <a href="https://onefastcat.com/products/cat-wheel">cat wheel</a></li>
   <li>An ESP or Arduino</li>
-  <li>A <a href="https://components101.com/modules/reed-switch-sensor-module">reed switch module</a></li>
-</ul>
-
-<p><img src="https://sarahdal.github.io///assets/images/wheel/reed_switch.jpg" alt="a small blue circuit board. at one end is a tiny glass tube switch. it is connected by short wire to the board, which has a potentiometer and three pins at the opposite end." width="45%" /></p>
-
-<ul>
   <li>
-    <p>Some strong magnets <img src="https://sarahdal.github.io///assets/images/wheel/magnets.jpg" alt="" width="45%" /></p>
+    <p>A <a href="https://components101.com/modules/reed-switch-sensor-module">reed switch module</a> <img src="https://sarahdal.github.io///assets/images/wheel/reed_switch.jpg" alt="a small blue circuit board. at one end is a tiny glass tube switch. it is connected by short wire to the board, which has a potentiometer and three pins at the opposite end." width="45%" /></p>
   </li>
-  <li>
-    <p><a href="https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/">LCD module with I2C adaptor</a></p>
-  </li>
+  <li>Some strong magnets <img src="https://sarahdal.github.io///assets/images/wheel/magnets.jpg" alt="" width="45%" /></li>
+  <li><a href="https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/">LCD module with I2C adaptor</a></li>
 </ul>
 
 <p><img src="https://sarahdal.github.io///assets/images/wheel/I2C_LCD.jpg" alt="" width="45%" /></p>
@@ -220,13 +213,40 @@
   </tbody>
 </table>
 
-<p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, while the Reed switch module looked a bit overkill it worked much better. If you want to understand why, look up “debouncing”.</p>
+<p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, so while the Reed switch module looked a bit overkill, it worked much better.</p>
+
+<h3 id="esp32-or-arduino">ESP32 or Arduino?</h3>
 
 <p>The benefit of using an ESP32 over an arduino is that the pins have built-in resistors. Also, ESP8266 and ESP32 have Wifi, and most ESP32s also have BLE, which makes them useful for all sorts of things. They tend to be cheaper than Arduinos and come in a huge range of form factors, making them very versatile and I much prefer them to Arduino.</p>
 
+<h3 id="setting-up">Setting up</h3>
+
 <p>You need to find a place where the magnets can be stuck at equal distances around the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.</p>
 
-<p>Connect the hall monitor to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
+<p>Connect the hall switch to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ESP32</th>
+      <th>Hall Switch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3.3v</td>
+      <td>V+</td>
+    </tr>
+    <tr>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>GPIO 19</td>
+      <td>DO</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Now measure the diameter of the inside of the wheel, I used a laser measure so super accurate - 1.08m. The circumference is π times the diameter, in my case, 3.4m. I divide this by 4, because I have 4 magnets on the wheel, which gives us a value of 0.85.</p>
 
@@ -235,6 +255,33 @@
 <figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="k">const</span> <span class="kt">float</span> <span class="n">wheelCircumference</span> <span class="o">=</span> <span class="mi">0</span><span class="p">.</span><span class="mi">85</span><span class="p">;</span></code></pre></figure>
 
 <p>Connect up an I2C LCD unit. It needs 5v, GND and SCL and SDA pins. Look up a pinout of your <a href="https://www.espboards.dev/esp32/">ESP32 model</a> to find out which those are; it’s usually pins 21 and 22 on ESP32. Once connected you can adjust the potentiometer at the back to change the contrast.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ESP32</th>
+      <th>LCD I2C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5V</td>
+      <td>V+</td>
+    </tr>
+    <tr>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>SCL (21)</td>
+      <td>SCL</td>
+    </tr>
+    <tr>
+      <td>SDA (22)</td>
+      <td>SDA</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Here it is all connected up and put in a nice plastic box:</p>
 
@@ -261,6 +308,8 @@
     </tr>
   </tbody>
 </table>
+
+<h3 id="code">Code</h3>
 
 <p>I have it set so it sends all the information to the serial monitor: Number of revolutions, the count, the speed and the distance. Underneath is the code for the LCD display of speed and distance. This all just resets if you unplug or reset the device.</p>
 
