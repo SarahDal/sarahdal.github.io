@@ -117,5 +117,5 @@ var store = [{
         "excerpt":"Here is a basic speedometer/odometer for your cat wheel. It measures the speed in m/s, and keeps the total distance travelled while it’s powered on. You will need: A cat wheel An ESP or Arduino A reed switch module Some strong magnets LCD module with I2C adaptor double sided tape...","categories": ["Arduino-ESP32"],
         "tags": [],
         "url": "/arduino-esp32/2025/02/11/CatWheel.html",
-        "teaser": "/www/assets/images/CC_housing.jpg"
+        "teaser": "/assets/images/wheel/wheel1.jpg"
       }]
