@@ -203,25 +203,17 @@
   <li>a cat</li>
 </ul>
 
-<p><img src="https://sarahdal.github.io///assets/images/fury-blep.jpg" alt="" width="50%" /></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Fury the black cat sticking his tongue out</td>
-    </tr>
-  </tbody>
-</table>
+<p><img src="https://sarahdal.github.io///assets/images/fury-blep.jpg" alt="Fury, a black cat, sticking his tongue out " width="50%" /></p>
 
 <p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, so while the Reed switch module looked a bit overkill, it worked much better.</p>
 
 <h3 id="esp32-or-arduino">ESP32 or Arduino?</h3>
 
-<p>The benefit of using an ESP32 over an arduino is that the pins have built-in resistors. Also, ESP8266 and ESP32 have Wifi, and most ESP32s also have BLE, which makes them useful for all sorts of things. They tend to be cheaper than Arduinos and come in a huge range of form factors, making them very versatile and I much prefer them to Arduino.</p>
+<p>I prefer ESP32s to Arduino these days. Most of them have pins with built-in resistors, they come with wifi and many modules have BLE, they tend to be cheaper than Arduino and they come in a vast array of shapes and sizes. You can program exactly the same as an Arduino with the IDE. Have a search online for guides on how to do this.</p>
 
 <h3 id="setting-up">Setting up</h3>
 
-<p>You need to find a place where the magnets can be stuck at equal distances around the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.</p>
+<p>You need to find a place where the magnets can be stuck at equal distances around the outside of the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.</p>
 
 <p>Connect the hall switch to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
 
@@ -285,29 +277,13 @@
 
 <p>Here it is all connected up and put in a nice plastic box:</p>
 
-<p><img src="https://sarahdal.github.io///assets/images/wheel/speedo.jpg" alt="" /></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>a translucent blue box containing ESP32 on a solderless breadboard and various wires and connectors</td>
-    </tr>
-  </tbody>
-</table>
+<p><img src="https://sarahdal.github.io///assets/images/wheel/speedo.jpg" alt="A translucent blue box containing a small form ESP32 on a solderless breadboard, with various wires and connectors. the back of the lid has the LCD unit connected to it." /></p>
 
 <p>That’s all it needs - the code below (or <a href="https://sarahdal.github.io///assets/images/wheel/speedo.ino">download here</a>) will increment a count every time a magnet passes a sensor. It will multiply that by the value you entered in wheelCircumference to work out speed and distance.</p>
 
 <video width="480" height="320" controls="controls">
-  <source src="/assets/images/wheel/wheel.mp4 " type="video/mp4" />
+  <source src="/assets/images/wheel/wheel.mp4 " type="video/mp4" alt="Fury, a black cat, walks slowly on a large cat wheel" />
 </video>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Fury the black cat walking slowly on his wheel</td>
-    </tr>
-  </tbody>
-</table>
 
 <h3 id="code">Code</h3>
 
@@ -411,6 +387,10 @@
 <span class="p">}</span>
 
  </code></pre></figure>
+
+<h3 id="training-the-cat">Training the cat</h3>
+
+<p>You’re on your own with this one.. I found <a href="https://youtu.be/V7uwE9Iw0ps?si=Q8kM09melfvizR3m">this video</a> really helpful; as with all things it takes regular perseverence. Mine got the hang of it after a fortnight but it can take up to 6 weeks of coaxing.</p>
 
         
       </section>
