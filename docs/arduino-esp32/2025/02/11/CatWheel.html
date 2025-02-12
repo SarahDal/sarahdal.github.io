@@ -205,7 +205,7 @@
 
 <p><img src="https://sarahdal.github.io///assets/images/fury-blep.jpg" alt="Fury, a black cat, sticking his tongue out " width="50%" /></p>
 
-<p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, so while the Reed switch module looked a bit overkill, it worked much better.</p>
+<p>I did have some extremely cheap magentic switches lying about, the kind that are used on alarm systems to signal if a door or window has been opened or closed. But they didn’t work great, so while the reed switch module looked a bit overkill, it worked much better.</p>
 
 <h3 id="esp32-or-arduino">ESP32 or Arduino?</h3>
 
@@ -215,13 +215,13 @@
 
 <p>You need to find a place where the magnets can be stuck at equal distances around the outside of the wheel, and you need to find a spot where the reed switch sensor can sit so the magnets pass very close by without knocking it. My cat wheel had a handy bit at the base and raised sections all around the edge of the wheel. I used a 30cm long 3-core cable to connect the reed switch module to the ESP32, so the ESP32 could sit somewhere comfortably.</p>
 
-<p>Connect the hall switch to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
+<p>Connect the reed switch to 3.3V, Ground and the DO or Data pin to a data pin on your ESP32, eg, pin 19.</p>
 
 <table>
   <thead>
     <tr>
       <th>ESP32</th>
-      <th>Hall Switch</th>
+      <th>Reed Switch</th>
     </tr>
   </thead>
   <tbody>
