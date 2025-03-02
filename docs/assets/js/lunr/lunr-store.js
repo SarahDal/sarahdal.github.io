@@ -118,4 +118,10 @@ var store = [{
         "tags": [],
         "url": "/arduino-esp32/2025/02/11/CatWheel.html",
         "teaser": "/assets/images/wheel/wheel1.jpg"
+      },{
+        "title": "Nellie Herons Memorial",
+        "excerpt":"While looking for new walks, I found a book Best Walks in Northumberland, by Frank Duerden and published in 1990, on Internet Archive. Although you can borrow the whole thing on Internet Archive, I bought a secondhand copy and chose this walk - Salter’s Road - because it didn’t look...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2025/03/02/Nellie-Herons-Memorial.html",
+        "teaser": "/assets/images/BorderStones/GtHethaCairn.jpg"
       }]
