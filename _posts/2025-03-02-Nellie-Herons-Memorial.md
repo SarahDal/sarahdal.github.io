@@ -23,7 +23,7 @@ While looking for new walks, I found a book [Best Walks in Northumberland, by Fr
 
 I was very wrong, the scenery was stunning, although spoilt a bit by the big tracks that have been put in along most of the bridleways. I also plotted the route on an OS map rather than try to follow Frank's beautifully detailed, but probably a little outdated, hand-drawn route.
 
-| ![A scan of a hand drawn route map of a walk through trees and hills]({{ site.url }}{{ site.baseurl }}/assets/images/nellie/s.jpg)| 
+| ![A scan of a hand drawn route map of a walk through trees and hills]({{ site.url }}{{ site.baseurl }}/assets/images/nellie/duerden.jpg)| 
 |:--:| 
 |  |
 
