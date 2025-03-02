@@ -64,8 +64,8 @@ From here there was a little bit of bog-hopping to get to the bridleway. Up to t
 {% leaflet_map { "center" : [55.417997,-2.053994],
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } %}
-          {% leaflet_marker { "latitude" : 55.4147766,
-                       "longitude" : 2.0348634,
+          {% leaflet_marker { "latitude" : 55.414786,
+                       "longitude" : -2.0348172,
                        "popupContent" : "Nellie Heron's Memorial Stone"} %}	               
     {% leaflet_geojson "/assets/geojson/NellieHerons.geojson" %}
 {% endleaflet_map %}
