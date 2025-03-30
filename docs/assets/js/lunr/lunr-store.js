@@ -126,7 +126,7 @@ var store = [{
         "teaser": "/assets/images/BorderStones/GtHethaCairn.jpg"
       },{
         "title": "Cat Wheel Speedo 2",
-        "excerpt":"Previously I tried to write about how to set up a speedometer for a cat wheel using an ESP32, hall sensor and some magnets. I have now found a much easier way to get the speed into Home Assistant via ESPHome. If you use Home Assistant but don’t already use...","categories": ["Home Assistant"],
+        "excerpt":"[like an] Previously I tried to write about how to set up a speedometer for a cat wheel using an ESP32, hall sensor and some magnets. I have now found a much easier way to get the speed into Home Assistant via ESPHome. If you use Home Assistant but don’t...","categories": ["Home Assistant"],
         "tags": [],
         "url": "/home%20assistant/2025/03/30/Cat-speedo-2.html",
         "teaser": "/assets/images/wheel/wheel1.jpg"
