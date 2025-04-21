@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/home%20assistant/2025/03/30/Cat-speedo-2.html",
         "teaser": "/assets/images/wheel/wheel1.jpg"
+      },{
+        "title": "Emblehope Moor and Tarsetdale",
+        "excerpt":"I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from Black Midden’s Bastle in Tarsetdale, on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2025/04/21/EmblehopeMoor.html",
+        "teaser": "/assets/images/emble/Emblehope-14.jpg"
       }]
