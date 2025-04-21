@@ -130,7 +130,7 @@ The trail, apart from the bits that were covered with fallen trees, was really l
 
 From here I could continue on this side of the river to get back to Black Middens Bastle, but given the state of the rest of the trail I had zero confidence that the footbridge still existed, so I just followed the road back.
 
-This was a really great walk, and would be much improved if you don't go offroading into thick forestry looking for novelty rocks, and if the Forestry Comission ever decide to sort out the Tarset Bastle Trail so you can actually follow it. As it is.. I don't recommend, but it might be worth going to poke around the Fairy's Kirk?
+This was a really great walk, and would be much improved if you don't go offroading into thick forestry looking for novelty rocks, and if the Forestry Comission ever decide to sort out the Tarset Bastle Trail so you can actually follow it. As it is.. I don't recommend, but Fairy's Kirk might be worth some further investigation.
 
 {% leaflet_map { "center" : [55.224093,-2.3724563],
                  "zoom" : 12,
