@@ -18,7 +18,7 @@ location:
 ---
 ---
 
-I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from [Black Midden's Bastle in Tarsetdale](https://www.english-heritage.org.uk/visit/places/black-middens-bastle-house/history/), on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles (fortified farmhouses) dating from the 16th and early 17th century, around the Tarset Burn.
+I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from [Black Middens Bastle in Tarsetdale](https://www.english-heritage.org.uk/visit/places/black-middens-bastle-house/history/), on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles (fortified farmhouses) dating from the 16th and early 17th century, around the Tarset Burn.
 
 | ![a two story stone building. it has a doorway next to an external flight of stone stairs, which lead to another doorway. The only windows are two small square openings next to the upper window; the structure has no roof. It sits in muddy looking grass and behind it can be seen the ruins of another stone building.]({{ site.url }}{{ site.baseurl }}/assets/images/emble/Emblehope-11.jpg)| 
 |:--:| 
@@ -43,7 +43,7 @@ So I was quite interested to come across the same approved wild camp spot that I
 |:--:|:--:|
 | Wild camping in 2009 | The same site in 2025 |
 
-My planned route was to follow a bridleway through the forestry to the first of two of the "Named Stones" I wanted to look at. I found these Named Stones on the brilliant [website of the Heddon History Society](https://archive.org/details/historyofberwick09berw), it being a list of "Named Stones of Northumberland" published in the early 1890s. Heddon History Society created a freely [downloadable KML of the stones](https://heddonhistory.weebly.com/uploads/6/1/9/7/6197309/northumberlands_named_stones.kml), so now you too can locate all the named stones in the county. If you want.
+My planned route was to follow a bridleway through the forestry to the first of two of the "Named Stones" I wanted to look at. I found these Named Stones on the brilliant [website of the Heddon History Society](https://heddonhistory.weebly.com/blog/the-named-stones-of-northumberland-revisited), it being a list of "Named Stones of Northumberland" published in the early 1890s. Heddon History Society created a freely [downloadable KML of the stones](https://heddonhistory.weebly.com/uploads/6/1/9/7/6197309/northumberlands_named_stones.kml), so now you too can locate all the named stones in the county. If you want.
 
 The bridleways through the forest should take me to one called The Greymare Stone, "Near old path junction on Graymare Moss, NE of Comb Hill. Now in Forest." The old paths are gone now, (despite one being a Public Bridleway) having been planted over.
 
@@ -68,7 +68,7 @@ but I found a fairly open ride to trudge through
 |:--:| 
 | Graymare Stone |
 
-Worth it. From here I wanted to follow the bridleway up onto Emblehope Moor, which involved more negotiation of thick forestry until I could find rides to walk down, until I finally had a last push through about 200m of dense, young plantation to reach the moor. Up here is the other named stone I wanted to see, "The Fairy's Kirk". A similar size, maybe 2m at it's broadest, it lies in a suspicously conical depression, like a sinkhole or a pit.
+Worth it. From here I wanted to follow the bridleway up onto Emblehope Moor, which involved more negotiation of thick forestry until I could find rides to walk down, and finally a last push through about 200m of dense, young plantation to reach the moor. Up here is the other named stone I wanted to see, "The Fairy's Kirk". A similar size, maybe 2m at it's broadest, it lies in a suspicously conical depression, like a sinkhole or a pit.
 
 | ![a grey boulder with white lichen lies in thick tussocky grass at the edge of a conical depression that can just be made out. In the distance are scattered sitka spruce.]({{ site.url }}{{ site.baseurl }}/assets/images/emble/Emblehope-39.jpg)| 
 |:--:| 
