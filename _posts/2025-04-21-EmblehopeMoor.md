@@ -18,7 +18,7 @@ location:
 ---
 ---
 
-I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from [Black Midden's Bastle in Tarsetdale](https://www.english-heritage.org.uk/visit/places/black-middens-bastle-house/), on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles (fortified farmhouses) dating from the 16th and early 17th century, around the Tarset Burn.
+I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from [Black Midden's Bastle in Tarsetdale](https://www.english-heritage.org.uk/visit/places/black-middens-bastle-house/history/), on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles (fortified farmhouses) dating from the 16th and early 17th century, around the Tarset Burn.
 
 | ![a two story stone building. it has a doorway next to an external flight of stone stairs, which lead to another doorway. The only windows are two small square openings next to the upper window; the structure has no roof. It sits in muddy looking grass and behind it can be seen the ruins of another stone building.]({{ site.url }}{{ site.baseurl }}/assets/images/emble/Emblehope-11.jpg)| 
 |:--:| 
