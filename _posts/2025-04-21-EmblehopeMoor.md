@@ -68,7 +68,7 @@ but I found a fairly open ride to trudge through
 |:--:| 
 | Graymare Stone |
 
-Worth it. From here I wanted to follow the bridleway up onto Emblehope Moor, which involved more negotiation of thick forestry until I could find rides to walk down, and finally a last push through about 200m of dense, young plantation to reach the moor. Up here is the other named stone I wanted to see, "The Fairy's Kirk". A similar size, maybe 2m at it's broadest, it lies in a suspicously conical depression, like a sinkhole or a pit.
+Worth it. From here I wanted to follow the bridleway up onto Emblehope Moor, which involved more negotiation of thick forestry until I could find rides to walk down, then finally a last push through about 200m of dense, young plantation to reach the moor. Up here is the other named stone I wanted to see, "The Fairy's Kirk". A similar size, maybe 2m at it's broadest, it lies in a suspicously conical depression, like a sinkhole or a pit.
 
 | ![a grey boulder with white lichen lies in thick tussocky grass at the edge of a conical depression that can just be made out. In the distance are scattered sitka spruce.]({{ site.url }}{{ site.baseurl }}/assets/images/emble/Emblehope-39.jpg)| 
 |:--:| 
@@ -99,7 +99,7 @@ Mr J. Thomson of Blackburn
 
 If you know Northumberland, this sounds a lot like the [Cateran Hole!](https://fabulousnorth.com/cateran-hole/) I wonder if it is worth investigating?
 
-Back to the walk, I had now reached Emblehope Moor, which is a huge and very remote expanse of moorland bordered almost entirely by Kielder Forest. I skirted round the edge, appreciating the view from Whiteheugh Crag, then followed the road to Emblehope Farm and finally south to re-enter the forest
+Back to the walk, I had now reached Emblehope Moor, which is a huge and very remote expanse of moorland bordered almost entirely by Kielder Forest. After appreciating the view from Whiteheugh Crag, I skirted round the edge of the moor then followed the road to Emblehope Farm and finally south to re-enter the forest
 
 | ![a sweeping vista under the grey sky of yellowy moorland extending far to the opposite horizon. There are patches of plantation forestry and the odd tree; in the centre-distance the farmhouse can faintly be made out, surrounded by green in-bye fields.]({{ site.url }}{{ site.baseurl }}/assets/images/emble/Emblehope-42.jpg)| 
 |:--:| 
@@ -120,7 +120,7 @@ This time I stuck to the forest tracks rather than try to follow the non-existan
 
 Back in 2009, the intepretation boards along the trail featured a legendary story of 2 of the men who lived in these Bastles - Corbit Jack and Barty Milburn. The story recounted here that Scottish thieves rode to Barty's farm at Bog Head and nicked his sheep. When he woke up the next morning and discovered his sheep gone, he called over his neighbour Hodge Corbett aka Cobit Jack, who lived at Shilla Bastle. They set off after the rustlers, but lost the trail near Leathem just over the border. Rather than return empty handed, they just pinched some nearby sheep instead, but were caught up by a pair of angry Scotsmen at Chattlehope Spout where a fierce hand-to-hand battle ensued. Corbit Jack was killed and Barty wounded in the thigh, but he managed to slay the two Scots. He slung Corbit Jack's body over his shoulder and headed for home with the stolen sheep, placing Jack on his doostep at Shilla before going home for the night. Later, recounting the fight to his friends, Barty explained how he decapitated one of them and "His heid span alang the haither like an onion!"
 
-I cannot see the word "bastle" without thinking "His heid span alang the haither like an onion". Today the information board just has a load of actually quite interesting archeological and historical facts about the ruins.
+I cannot see the word "bastle" without thinking "His heid span alang the haither like an onion". Today, the newer information board just has a load of actually quite interesting archeological and historical facts about the ruins.
 
 The trail, apart from the bits that were covered with fallen trees, was really lovely, along the river and then up to Shilla Bastle on the hill before reaching the private houses that are the sites of two more bastles, Waterhead and Comb. 
 
