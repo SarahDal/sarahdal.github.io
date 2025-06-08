@@ -138,7 +138,7 @@ var store = [{
         "teaser": "/assets/images/emble/Emblehope-14.jpg"
       },{
         "title": "Kielder Stone",
-        "excerpt":"This was a very tough walk in places! I’ve previously been up to Kielderhead Wildwood to look at the William’s Cleugh Pines, but on that day the weather was really too poor to go up onto the high fells and have a look at the Kielder Stone. Today I decided...","categories": ["Northumberland"],
+        "excerpt":"I’ve previously been up to Kielderhead Wildwood to look at the William’s Cleugh Pines, but on that day the weather was really too poor to go up onto the high fells and have a look at the Kielder Stone. So today I decided to head up there, and also take...","categories": ["Northumberland"],
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2025/06/08/KielderStone.html",
         "teaser": "/assets/images/Kielderstone/PeelFell.jpg"
