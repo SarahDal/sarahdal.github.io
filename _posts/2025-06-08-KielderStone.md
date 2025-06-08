@@ -20,9 +20,9 @@ location:
 
 I've previously been up to Kielderhead Wildwood to look at the [William's Cleugh Pines]({% link _posts/2024-04-07-WilliamsCleuchPines.md %}), but on that day the weather was really too poor to go up onto the high fells and have a look at the Kielder Stone.
 
-So today I decided to head up there, and also take a look at a few other of the [Named Stones](https://heddonhistory.weebly.com/blog/the-named-stones-of-northumberland-revisited) in the vicinity. So rather than take a sensible, well-marked path from Kielder Castle up to Deadwater Fell, I took a shortcut direct through forest rides, which always works out so well.
+So today I decided to head up there, and also take a look at a few other of the [Named Stones](https://heddonhistory.weebly.com/blog/the-named-stones-of-northumberland-revisited) in the vicinity. Rather than take a sensible, well-marked path from Kielder Castle up to Deadwater Fell, I took a shortcut direct through forest rides, which always works out so well.
 
-It started off fine on the forest tracks in the sunshine, but once I headed up the rides turned into probably the most difficult I've ever had to negotiate, with huge fallen trees blocking the way.
+It started off fine on the forest tracks in the sunshine, but once I headed up, the rides turned into probably the most difficult I've ever had to negotiate, with huge fallen trees blocking the way.
 
 | ![A view from a forest ride. The way is blocked by huge, dead, fallen sitka trees.]({{ site.url }}{{ site.baseurl }}/assets/images/Kielderstone/brash.jpg)| 
 |:--:| 
@@ -38,14 +38,14 @@ I eventually got through, enjoyed the views of the things on top of Deadwater Fe
 | The Traveller's Rest |
 |:--:| 
 
-From here it wasn't too difficult to get up to the forest edge. A deer fence came into view however - fortunately it was an old one in the process of being taken down. I headed for the first of the Named Stones, the Hanging Stones, and with the recently felled forest I could see down to the Leaping Stones.
+From here it wasn't too difficult to get up to the forest edge. A deer fence came into view - fortunately it was an old one in the process of being taken down. I headed for the first of the Named Stones, the Hanging Stones, and with the recently felled forest I could see down to the Leaping Stones.
 
 | ![A view down a slope of heather and grasses. Fence posts run in a line from the right hand side opf the image, to the distance, gradually descending, and hills in the distance are covered in platnation forestry. Forest tracks lead through clearfell behind the fence, and a rock outcrop can be made out.]({{ site.url }}{{ site.baseurl }}/assets/images/Kielderstone/Leaping.jpg)| 
 |:--:| 
 | The Leaping Stones (a rock outcrop) can just about be seen in the centre of the image |
 |:--:| 
 
-Pleased to have ticked those off, I started uphill but a little later as I checked my map, I realised I was a bit short of the actual hanging stones. Soaked by the rain and the damp vegetation, I could not be bothered turning back for them, so instead I pressed on to these rocks, which look suspiciously standing stone-like, but could be natural?
+Pleased to have ticked those off, I started uphill but a little later as I checked my map, I realised I was a bit short of the actual Hanging Stones. Soaked by the rain and the damp vegetation, I could not be bothered turning back for them, so instead I pressed on to these rocks, which look suspiciously standing stone-like, but could be natural?
 
 | ![Several sandstone slabs emerge from the deep heather. One of them is particularly tall and gravestone-like.]({{ site.url }}{{ site.baseurl }}/assets/images/Kielderstone/Stones.jpg)| 
 
@@ -90,7 +90,7 @@ The goats didn't seem in any rush to head off, and were probably keen for me to 
 
 This legendary erratic has many myths and tales associated with it, most notably that if you walk around it anti-clockwise three times, bad things will happen; you'll invoke the wrath of the "little brown men of the moors" (probably the same Duerger who cause mischief at Simonsides) and/or your most evil wishes will be granted. Wilfred Wilson Gibson wrote [a poem about it](https://www.poetrynook.com/poem/kielder-stone) and Andrew Curtis has a bit more info on his [Geograph page of the stone](https://www.geograph.org.uk/photo/4113353). Historically, the Wardens of the Marches - who were supposed to keep the peace in this lawless area before the Union of the Crowns - would leave notes for each other in the clefts of this rock.
 
-Now in Kielderhead Wildwood, the going was extremely tough as I left Kielder Stone and followed the Kielderhead Cleugh and then the infant Scaup Burn. Despite this, the thick, rich vegetation and broadleaf woodland were absolutley delightful to see, and makes me wonder if this is how the landscape was 500 years ago when travellers were crossing the border and taking shelter at these rocky landmarks. (It's also worth pointing out that the goats, although a very traditional and well-loved feature of the Cheviots, do overgraze and browse with a very negative effect on our regenerating wildwoods.)
+Now in Kielderhead Wildwood, the going was extremely tough as I left Kielder Stone and followed the Kielderhead Cleugh and then the infant Scaup Burn. Despite this, the thick, rich vegetation and broadleaf woodland were absolutley delightful to see, and makes me wonder if this is how the landscape was 500 years ago when travellers were crossing the border and taking shelter at these rocky landmarks.
 
 | ![A small stream flows over the rocks and descends down the steep-sided valley, between heather, grasses, plants and the odd small tree.]({{ site.url }}{{ site.baseurl }}/assets/images/Kielderstone/burn1.jpg)| 
 |:--:| 
