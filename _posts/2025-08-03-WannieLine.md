@@ -64,7 +64,7 @@ Of course now, in 2025, it's finally succumbed to the elements, as I found a rui
 | ![The same ruin from a different angle]({{ site.url }}{{ site.baseurl }}/assets/images/Wannie/RothleyShielYH4.jpg)| 
  
 
-On from here and into Greenleighton. This area also has a National Trust Walk that's very good, the [Greenleighton Moor Walk](https://www.nationaltrust.org.uk/visit/north-east/wallington/greenleighton-moor-walk). It passes by some very impressive (for Northumberland) sinkholes, but the bracken was too high so I didn't bother walking slightly out of my way to look at them. You should though, if you go in the Winter/Spring. The largest (which is safely fenced off) was explored by caver Chris Scaife who says in his book Caves of Northumberland that it would be "a nice little pothole" if it wasn't full of coils and coils of rusty wire. He named it "Wire Cave".
+On from here and into Greenleighton. This area also has a National Trust Walk that's very good, the [Greenleighton Moor Walk](https://www.nationaltrust.org.uk/visit/north-east/wallington/greenleighton-moor-walk). It passes by some very impressive (for Northumberland) sinkholes, but the bracken was too high so I didn't bother walking slightly out of my way to look at them. You should though, if you go in the Winter/Spring. The largest (which is safely fenced off) was explored by caver Chris Scaife who says in his book *[Caves of Northumberland](https://www.sigmapress.co.uk/caves-of-northumberland-review-2)* that it would be "a nice little pothole" if it wasn't full of coils and coils of rusty wire. He named it "Wire Cave".
 
 Through here and along another Plantation, down the road and back to the Wannie Line, at [Ewesley Station](http://www.disused-stations.org.uk/e/ewesley/index.shtml). Another permissive footpath runs along the line here, as well as a shorter permissive path down to look at the station platforms. Ewesley Station is now a private house, but still has some very old railway buildings (the house itself wasn't part of the railway buildings)
 
@@ -79,7 +79,7 @@ I crossed the road to follow the permissive path where it goes along the track b
 | ![another railway bridge crosses a farm track. The stone supports either side curve gracefully round, and the trackbed is carried on metal girders over the path.]({{ site.url }}{{ site.baseurl }}/assets/images/Wannie/Wannie6.jpg)| 
 |:--:| 
 
-That done, I rejoined the bridleway and had a nice walk through more farmland and plantations down towards Rothley. On one of the 1890s OS maps, I noticed a colliery - Longwitton Colliery - and some cottages where there was now woodland, I was quite surprised to see some actual remains of it still in existence.
+That done, I rejoined the bridleway and had a nice walk through more farmland and plantations down towards Rothley. On one of the 1890s OS maps I'd looked at while plannig this walk, I had noticed a colliery - Longwitton Colliery - and some cottages where there was now woodland, so I was quite surprised to see some actual remains of it still in existence.
 
 ![In a sunny woodland clearing, a few structures made of large stone blocks. They are no taller than 1.8m, and it's not clear what they were.]({{ site.url }}{{ site.baseurl }}/assets/images/Wannie/LongwittonColliery.jpg)| 
 
