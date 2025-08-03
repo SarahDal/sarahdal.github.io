@@ -81,7 +81,7 @@ They continued to peer at me while I circled the rock (in a clockwise direction)
 | Waiting for me to leave so they can go back to sheltering in the Kielder Stone |
 |:--:| 
 
-The goats didn't seem in any rush to head off, and were probably keen for me to leave to they could go back to sheltering from the rain showers at the Kielder Stone. A lovely wildlife experience, although they aren't really wild (they're feral) and they do cause problems with grazing and browsing on regenerating woodlands. Anyway - the Kielder Stone:
+The goats didn't seem in any rush to head off, and were probably keen for me to leave to they could go back to sheltering from the rain showers at the Kielder Stone. A lovely wildlife experience, although they aren't really wild (they're feral, but a direct descendent from the goats brought over here 5,000 years ago) and they do cause problems with grazing and browsing on regenerating woodlands. Anyway - the Kielder Stone:
 
 | ![A huge block of sandstone with horizontal clefts. It sits in teh grass on a heathery slope, and has a thick layer of vegetation on top and on a shelf running bout halfway down.]({{ site.url }}{{ site.baseurl }}/assets/images/Kielderstone/KielderStone.jpg)| 
 |:--:| 

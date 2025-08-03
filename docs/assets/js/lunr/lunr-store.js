@@ -142,4 +142,10 @@ var store = [{
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2025/06/08/KielderStone.html",
         "teaser": "/assets/images/Kielderstone/PeelFell.jpg"
+      },{
+        "title": "The Wannie Line",
+        "excerpt":"This was a nice long walk, starting out at Scot’s Gap following the old rail line, The Wannie Line, then across farmland to Greenleighton, meeting up with the Wannie Line again and heading back south before cutting across the Rothley Estate back to Scot’s Gap. About 28km in total. In...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2025/08/03/WannieLine.html",
+        "teaser": "/assets/images/Wannie/"
       }]
