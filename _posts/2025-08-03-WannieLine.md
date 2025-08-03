@@ -20,7 +20,7 @@ location:
 
 This was a nice long walk, starting out at Scot's Gap following the old rail line, The Wannie Line, then across farmland to Greenleighton, meeting up with the Wannie Line again and heading back south before cutting across the Rothley Estate back to Scot's Gap. About 28km in total.
 
-In County Durham, old rail lines were adopted by the council as bridleways but not in Northumberland, unfortunately. The Wannie Line has two sections where permissive paths connect with rights-of-way to make pleasant circular walking routes. I started on one from the old National Trust buildings, walking along a well-maintained path along the old track bed.
+In County Durham, old rail lines were adopted by the council as bridleways but not in Northumberland, unfortunately. The Wannie Line has two sections where permissive paths connect with rights-of-way to make pleasant circular walking routes. I started on one from the old National Trust buildings in Scots' Gap, walking along a well-maintained path along the old track bed.
 
 | ![A green grass path has been cut through the vegetation, Rosebay Willowherb and other green lush plants grow on the railway embankments to the left, while on the right bushes and trees]({{ site.url }}{{ site.baseurl }}/assets/images/Wannie/Wannie.jpg)| 
 
@@ -45,7 +45,7 @@ The walk left the line and headed on through the lovely Delf Plantation and out 
 
 Here I left the National Trust's trail, and cut across farmland on Rights of Way to near Greenleighton Quarry. Just south of the car park is a small copse, which once held Rothley Shiel Youth Hostel.
 
-After World War 2, a Northumbrian Hiking Group "The Northumberland Trampers Guild" was formed and youth hostels founded. An early and keen patron was Sir Charles Trevelyan, who owned the [Wallington Estate](https://www.nationaltrust.org.uk/visit/north-east/wallington), and he set up very basic hostels at Wallington and in the local area. One of these was Rothley Shiel, formerly a shooting hut. Initially very busy, the novelty wore off, numbers declined and the hostel here closed in 1958. There is a phenomenally detailed history of the hostel in [this pdf by YHA's archivist, John Martin](https://duncanmsimpsonwriting.com/wp-content/uploads/2021/03/y950001-wallington-great-bavington-rothley-shiel-yh-reduced-profile-2021-01-01.pdf), including pictures of when it was in use, which I have stolen and reproduced here.
+After World War 2, a Northumbrian Hiking Group "The Northumberland Trampers Guild" was formed and youth hostels founded. An early and keen patron was Sir Charles Trevelyan, who owned the [Wallington Estate](https://www.nationaltrust.org.uk/visit/north-east/wallington), and he set up very basic hostels at Wallington and in the local area. One of these was Rothley Shiel, formerly a shooting hut. Initially very busy, the novelty soon wore off, numbers declined and the hostel here closed in 1958. There is a phenomenally detailed history of the hostel in [this pdf by YHA's archivist, John Martin](https://duncanmsimpsonwriting.com/wp-content/uploads/2021/03/y950001-wallington-great-bavington-rothley-shiel-yh-reduced-profile-2021-01-01.pdf), including pictures of when it was in use, which I have stolen and reproduced here.
 
 | ![A black and white photo of a neat, simple wooden building. It has four windows and a door partly obscured by ornamental bushes. A low wooden fence surrounds it, and a young woman is stood on the far left of the picture.]({{ site.url }}{{ site.baseurl }}/assets/images/Wannie/Hostel1950s.jpg)| 
 |:--:| 
