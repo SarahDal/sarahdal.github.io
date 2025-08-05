@@ -83,7 +83,7 @@ From here I walked straight to the Stob Stones, now on the Scottish Side, previo
 |:--:| 
 | Looking down a grassy slope, two figures stand next to a recumbant stone and a standing stone. In the distnace, various hills of yellow grass, brown heather and bracken, and a square of plantation. |
 
-These stones are reputed to be where the "King of the Gypsies" was crowned. About 3km to the west is the village of Kirk Yetholm, where Scottish Gypsies had winter accomodation and a King - the Faa family, who had been given authority by King James V to "police and punish their subjects". There is an excellent [blog post about this community from Historic Environment](https://blog.historicenvironment.scot/2022/10/the-gypsy-kings-and-queens-of-kirk-yetholm/). 
+These stones are reputed to be where the "King of the Gypsies" was crowned. About 3km to the west is the village of Kirk Yetholm, where Scottish Gypsies had winter accomodation and a King - the Faa family, who had been given authority by King James V to "police and punish their subjects". There is an excellent [blog post about this community from Historic Environment](https://blog.historicenvironment.scot/2022/10/the-gypsy-kings-and-queens-of-kirk-yetholm/), including use of the word "gypsy" in this context. 
 
 | [![Image]({{ site.url }}{{ site.baseurl }}/assets/images/BorderStones/StobStones.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/BorderStones/StobStones.jpg) | 
 |:--:| 
