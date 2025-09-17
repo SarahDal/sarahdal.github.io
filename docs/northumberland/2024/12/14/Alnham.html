@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -308,7 +310,7 @@
 
 <p>A nice morning’s walk, even with the extra faffing around electric fence. The route tried to follow <a href="https://www.northumberlandnationalpark.org.uk/walk/the-shepherds-cairn-walk/">this national park leaflet</a> if the electric fences hadn’t been in the way.</p>
 
-<div id="leaflet-map-3e339ddb55a21fd711728cff0e99cd18" class="leaflet-map"></div>
+<div id="leaflet-map-a1c720ead08cb64e54d74076ab365da2" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -319,33 +321,33 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-          {id: "7fc4f8ea3cbf332add97c4a2119a4758",
+          {id: "ce005d7d4928f9373d2fa0ed0a3b5c90",
               type: "LeafletMarker",
               value: { "latitude" : 55.408166,
                        "longitude" : -2.053505,
                        "popupContent" : "The Shepherd's Cairn"} },	
-          {id: "a1c28f03d87d3fef9af495c428e5e902",
+          {id: "42a5656c70b84435ac1a85dd32356c18",
               type: "LeafletMarker",
               value: { "latitude" : 55.415367,
                        "longitude" : -2.063080,
                        "popupContent" : "Ewartly Shank"} },	
-          {id: "bbe8970dbc2f908c6db8621b487609db",
+          {id: "050b27c9e1fed553fed28d0b60408ab9",
               type: "LeafletMarker",
               value: { "latitude" : 55.391669,
                        "longitude" : -2.009231,
                        "popupContent" : "Alnham"} },	   
-          {id: "7711567238e24eac8de6d8b1e448e2a4",
+          {id: "208abf67417c70edbace0c16d3610449",
               type: "LeafletMarker",
               value: { "latitude" : 55.385408,
                        "longitude" : -2.057522,
                        "popupContent" : "Boundary Stone"} },                       
-    {id: "6265ad8cfa8abe8686ef7d3913d36f1a",
+    {id: "0d1b8cfe83580898c3712759a5d10098",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Alnham.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-3e339ddb55a21fd711728cff0e99cd18";
+    var defaultMapElId = "leaflet-map-a1c720ead08cb64e54d74076ab365da2";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -478,7 +480,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 3e339ddb55a21fd711728cff0e99cd18 with these args:");
+        console.log("Creating map a1c720ead08cb64e54d74076ab365da2 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

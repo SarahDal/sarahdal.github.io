@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -335,7 +337,7 @@
   </tbody>
 </table>
 
-<div id="leaflet-map-e3b7ef39e4fbbda07966816358de956b" class="leaflet-map"></div>
+<div id="leaflet-map-ed9bba2b90cd077814a869b9cfb6f0ce" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -346,22 +348,22 @@
                  "zoom" : 14,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-     {id: "15cde6d77f7fb4a2577185ee7c23e246",
+     {id: "9c10f5b95bbb5fb96e093f6ee04dc927",
               type: "LeafletMarker",
               value: { "latitude" : 55.380212,
                        "longitude" :  -1.7995428,
                        "popupContent" : "Rock Shelter"} },	
-     {id: "aa9aa1b8063071fc54544246a96c5977",
+     {id: "0f0c0729fbb134df489d83b291213ff5",
               type: "LeafletMarker",
               value: { "latitude" : 55.377526,
                        "longitude" :  -1.8058687,
                        "popupContent" : "Corby's Letch Waterfall and Bridge"} },						   
-     {id: "212607498fac6e2a3d2e3cac9326d95b",
+     {id: "4814e69588f7dd3ccc84b8a6a095efed",
               type: "LeafletMarker",
               value: { "latitude" : 55.390803,
                        "longitude" :   -1.7974214,
                        "popupContent" : "Lemmington Woods Carved Rock"} },	
-     {id: "f30ba89d6a86579db7ed74f069d4b049",
+     {id: "ba7057f4eb3f8cd3a8a168a16ec9fc8d",
               type: "LeafletMarker",
               value: { "latitude" : 55.393073,
                        "longitude" :   -1.7955351,
@@ -369,7 +371,7 @@
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-e3b7ef39e4fbbda07966816358de956b";
+    var defaultMapElId = "leaflet-map-ed9bba2b90cd077814a869b9cfb6f0ce";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -502,7 +504,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map e3b7ef39e4fbbda07966816358de956b with these args:");
+        console.log("Creating map ed9bba2b90cd077814a869b9cfb6f0ce with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

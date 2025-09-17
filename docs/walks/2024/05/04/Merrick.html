@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -446,7 +448,7 @@
 
 <p>Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.</p>
 
-<div id="leaflet-map-5c6beb7f68831087d4ae2ef16da97aee" class="leaflet-map"></div>
+<div id="leaflet-map-395c9df8fab19c2fe1f509be9a4092be" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -457,16 +459,16 @@
                  "zoom" : 11,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-    {id: "bd7714ba6f7287195b83511f6accd559",
+    {id: "d4806cec6f4e527f74b0146a862c02a9",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick1.geojson" },
-    {id: "68735e523756ed5b76300ef762b44482",
+    {id: "4ba5e78fddd1f662b57cc4c5a192ddc1",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick2.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-5c6beb7f68831087d4ae2ef16da97aee";
+    var defaultMapElId = "leaflet-map-395c9df8fab19c2fe1f509be9a4092be";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -599,7 +601,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 5c6beb7f68831087d4ae2ef16da97aee with these args:");
+        console.log("Creating map 395c9df8fab19c2fe1f509be9a4092be with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

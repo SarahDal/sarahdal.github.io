@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -388,7 +390,7 @@
 
 <p>From here I followed St Cuthbert’s Way down to Elsdonburn Farm where I had wonderful views of a stoat in white ermine coat bouncing about the forest edge. I stopped to watch him for a few minutes until he noticed me, stood up on his back legs and looked at me then dove into the undergrowth. Magical! Almost made me wish I had a half decent camera.</p>
 
-<div id="leaflet-map-1be2e74e339481ff2513b5c4c5383bf5" class="leaflet-map"></div>
+<div id="leaflet-map-3678e57025888b092df505ffddc77e89" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -399,23 +401,23 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-          {id: "e246043375727c39fd0cbacca52877c9",
+          {id: "467a03c581a08fc0118e47cf51da40a9",
               type: "LeafletMarker",
               value: { "latitude" : 55.5365129722222,
                        "longitude" : -2.236739,
                        "popupContent" : "The Stob Stones"} },	
-          {id: "cec67596a549808ec0d278a1c97e2226",
+          {id: "8811a341a291cab653d0747c9b252b17",
               type: "LeafletMarker",
               value: { "latitude" : 55.5365129722222,
                        "longitude" : -2.22962497222222,
                        "popupContent" : "Tuppies Grave"} },	                    
-    {id: "b8c65783930123235344b1c1f10a9aa2",
+    {id: "73f888a238b2bee438ff4d212b305d85",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/GtHetha.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-1be2e74e339481ff2513b5c4c5383bf5";
+    var defaultMapElId = "leaflet-map-3678e57025888b092df505ffddc77e89";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -548,7 +550,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 1be2e74e339481ff2513b5c4c5383bf5 with these args:");
+        console.log("Creating map 3678e57025888b092df505ffddc77e89 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

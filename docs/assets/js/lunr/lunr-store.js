@@ -148,4 +148,10 @@ var store = [{
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2025/08/03/WannieLine.html",
         "teaser": "/assets/images/Wannie/"
+      },{
+        "title": "The Lairig Leachach and Corrour Forest",
+        "excerpt":"For this walk I left my car at Bridge of Orchy and took the train up to Spean Bridge. The West Highland Line skirts through infamous Rannoch Moor, which I’ve always wanted to walk across, and I planned a 4-day route with easy get outs (train stations and the A82)...","categories": ["Scotland"],
+        "tags": ["walks","Scotland"],
+        "url": "/scotland/2025/09/15/Corrour.html",
+        "teaser": "/assets/images/Corrour/"
       }]

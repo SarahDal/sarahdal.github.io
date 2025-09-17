@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -348,7 +350,7 @@
 
 <p>This route followed the recommended walk in the <a href="https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf">“Walk to the Wildwood” Leaflet</a>, and was really great despite the weather.</p>
 
-<div id="leaflet-map-f5185baa4de268dd55ab986dc79a6037" class="leaflet-map"></div>
+<div id="leaflet-map-7a17217df8c40b98e50a9eb4ef05617e" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -359,13 +361,13 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-    {id: "b5bbd23157a26b1d16ae25f3e8735cab",
+    {id: "b41aee5f3f66f84da829ed010b24176a",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/WilliamCleuch.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-f5185baa4de268dd55ab986dc79a6037";
+    var defaultMapElId = "leaflet-map-7a17217df8c40b98e50a9eb4ef05617e";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -498,7 +500,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map f5185baa4de268dd55ab986dc79a6037 with these args:");
+        console.log("Creating map 7a17217df8c40b98e50a9eb4ef05617e with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

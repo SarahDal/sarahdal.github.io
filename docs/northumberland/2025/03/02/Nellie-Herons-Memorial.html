@@ -118,7 +118,9 @@
             </li><li class="masthead__menu-item">
               <a href="/categories/">Categories</a>
             </li><li class="masthead__menu-item">
-              <a href="/pics/">pics</a>
+              <a href="/Walks/">Walks</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pics/">Pics</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -280,7 +282,7 @@
 
 <p>From here there was a little bit of bog-hopping to get back onto the bridleway. Up to the 1930s maps, a Cross (remains of) or (site of) is marked on the map at the track here, but if there was anything left it’s probably been obliterated by yet another broad crushed stone track that are covering the hills now. I walked to the Salter’s Road and back down into Alnham; I had a look in the lovely church there but Nellie Heron’s final resting place is at Whittingham Church, 5 miles to the east.</p>
 
-<div id="leaflet-map-2bb85d0f5f4c67c465e74aee33e5ffa6" class="leaflet-map"></div>
+<div id="leaflet-map-a53a6c881609e1891036686bad49b7c5" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -291,18 +293,18 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-          {id: "9e214d797c619f22ff8b1c29bf29795e",
+          {id: "65c505e5776188f8881db4f953cc1214",
               type: "LeafletMarker",
               value: { "latitude" : 55.414786,
                        "longitude" : -2.0348172,
                        "popupContent" : "Nellie Heron's Memorial Stone"} },	               
-    {id: "61e8335509d0d36fb099e7a50e8df9fc",
+    {id: "6c815c657949f36f08e5cf25a961360b",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/NellieHerons.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-2bb85d0f5f4c67c465e74aee33e5ffa6";
+    var defaultMapElId = "leaflet-map-a53a6c881609e1891036686bad49b7c5";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -435,7 +437,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 2bb85d0f5f4c67c465e74aee33e5ffa6 with these args:");
+        console.log("Creating map a53a6c881609e1891036686bad49b7c5 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
