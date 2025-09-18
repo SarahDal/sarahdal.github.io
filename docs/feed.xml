@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2025-09-18T11:57:40+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Lairig Leachach and Corrour Forest</title><link href="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html" rel="alternate" type="text/html" title="The Lairig Leachach and Corrour Forest" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-15T00:00:00+01:00</updated><id>https://sarahdal.github.io//scotland/2025/09/15/Corrour</id><content type="html" xml:base="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2025-09-18T13:34:27+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Lairig Leachach and Corrour Forest</title><link href="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html" rel="alternate" type="text/html" title="The Lairig Leachach and Corrour Forest" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-15T00:00:00+01:00</updated><id>https://sarahdal.github.io//scotland/2025/09/15/Corrour</id><content type="html" xml:base="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html">&lt;hr /&gt;
 
 &lt;p&gt;For this walk I left my car at Bridge of Orchy and took the train up to Spean Bridge. The West Highland Line skirts through infamous Rannoch Moor, which I’ve always wanted to walk across, and I planned a 4-day route with easy get outs (train stations and the A82) if I needed them.&lt;/p&gt;
 
@@ -297,7 +297,7 @@
 
 &lt;p&gt;I really did want to walk the whole 4 day route, but if I’d known most of it would be on gravel road, I would have stopped another night at the hostel and spent a day going up hills or walking a lap of Loch Ossian instead, then take the train back to the car rather than walking back to Rannoch. But I am really glad I went, the first day was brilliant as was the overnight at the hostel, and I’m very keen to get back up here to do more.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-9b53c83d1bd822780b0ff3a92468db56&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-bf89154c17b17373366b2405bab2ea81&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -306,35 +306,35 @@
     // Get tag input arguments &amp; inside block object list
     var tagInputArg = { &quot;center&quot; : [56.785175, -4.735993],
                  &quot;zoom&quot; : 11,
-                 &quot;providerBasemap&quot;: &quot;Thunderforest.Landscape&quot; } ;
+                 &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-					{id: &quot;03eff922829aa94eabcb13212097391a&quot;,
+					{id: &quot;a9563ae279c5a097e76bdc807067bb21&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.8226501347723, &quot;longitude&quot; : -4.81573035855517, &quot;popupContent&quot; : &quot;Lairig Leachach Bothy&quot;} },
-					{id: &quot;551981c5007c45efaa7a77a4a58beaaf&quot;,
+					{id: &quot;0ade62474903c8ed07509ef396b9b435&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7814955286038, &quot;longitude&quot; : -4.7682681567902, &quot;popupContent&quot; : &quot;Creaguaineach Lodge&quot;} },
-					{id: &quot;714134af7b8fb4a5143ffe35fdca3522&quot;,
+					{id: &quot;f79139a24b7c949a3c903026bf997303&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7667729897402, &quot;longitude&quot; : -4.66628207401042, &quot;popupContent&quot; : &quot;Loch Ossian Youth Hostel&quot;} },
-					{id: &quot;aa4d633c11cf807c3b2ba97f2fa96a84&quot;,
+					{id: &quot;63a45aa4dbf2bc44004d351be172dad6&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7472082956488, &quot;longitude&quot; : -4.60532455748222, &quot;popupContent&quot; : &quot;Corrour Old Lodge&quot;} },
-					{id: &quot;8e8185cbf5403d7b175b7884f008269f&quot;,
+					{id: &quot;15c2be48118e5ce12451ba8daf8f2eae&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.760128, &quot;longitude&quot; : -4.690883, &quot;popupContent&quot; : &quot;Corrour Station&quot;} },
-					{id: &quot;c1086c7a6507c37056361cae0671b10f&quot;,
+					{id: &quot;a84a13b1297b3e172c31312d2bfa5f42&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.685852, &quot;longitude&quot; : -4.577023, &quot;popupContent&quot; : &quot;Rannoch Station&quot;} },
 
               
-    {id: &quot;8c6c2d02db83a7c5e03bf4e6dff0c7a6&quot;,
+    {id: &quot;466404f93d9c3256c332c248ab4a0b87&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Corrour.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-9b53c83d1bd822780b0ff3a92468db56&quot;;
+    var defaultMapElId = &quot;leaflet-map-bf89154c17b17373366b2405bab2ea81&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -467,7 +467,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 9b53c83d1bd822780b0ff3a92468db56 with these args:&quot;);
+        console.log(&quot;Creating map bf89154c17b17373366b2405bab2ea81 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1538,7 +1538,7 @@
 
 &lt;p&gt;A very satisfying walk, although a real shame about the difficult permissive path on the second part of the Wannie Line. Earlier in the walk too I’d had to climb a padlocked gate on a Right-of-way, but it was great to see the old Wannie Line and the few other bits I found. I really recommend both National Trust walks too.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-01f52ba755749f4bf6049ae528170a62&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-21b756d0cb9058d7d9bc750865f1dfcc&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -1549,28 +1549,28 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;a57490c0c1e9b2d5bebb0f618c2e2e60&quot;,
+			{id: &quot;367abd8a4598fa6df62f790e34cf9087&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.217220, &quot;longitude&quot; : -1.9475539, &quot;popupContent&quot; : &quot;Rothley Shiel Youth Hostel&quot;} },
-			{id: &quot;0c84444b2f9c5995b9fe38e552e24be7&quot;,
+			{id: &quot;cedad7ef661e90cc77266d55f0e0a7d9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.200181, &quot;longitude&quot; : -1.9008531, &quot;popupContent&quot; : &quot;Longwitton Colliery&quot;} },
-			{id: &quot;4c139a6246ded6ac3d79729d6fccb313&quot;,
+			{id: &quot;3d7c2c8f3974ecdc0986dc27f2d3d7cb&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.227989, &quot;longitude&quot; : -1.9085820, &quot;popupContent&quot; : &quot;Ewesley Station&quot;} },
-			{id: &quot;ee8c25b1a2abc470bb1204895080d678&quot;,
+			{id: &quot;c9fd09c566958b8400b8f2dbcac1d259&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.172403, &quot;longitude&quot; : -1.943137, &quot;popupContent&quot; : &quot;National Trust Car Park&quot;} },
 
 
               
-    {id: &quot;2902e628ccb5384e73a97fe2c43c989c&quot;,
+    {id: &quot;835cc26d68c3590a4a4d912f8750813f&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Wannies.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-01f52ba755749f4bf6049ae528170a62&quot;;
+    var defaultMapElId = &quot;leaflet-map-21b756d0cb9058d7d9bc750865f1dfcc&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1703,7 +1703,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 01f52ba755749f4bf6049ae528170a62 with these args:&quot;);
+        console.log(&quot;Creating map 21b756d0cb9058d7d9bc750865f1dfcc with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2783,7 +2783,7 @@
 
 &lt;p&gt;At the head of the Scaup, I saw a male Hen Harrier hunting, a real treat. I picked up some forestry paths through newly felled plantation, and from there reached the roads to follow the Scaup Burn back to the car park.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-0dfc152f4f9b7cc936f0030ce35cecac&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-ca880a821b5a5e83f5d8330fc76da7aa&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2794,21 +2794,21 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;2e6a1fbf73646e19f70631bd2da6126f&quot;,
+			{id: &quot;21d6a8c66b3fae1013a340c32a1df6de&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.269870, &quot;longitude&quot; : -2.5695339, &quot;popupContent&quot; : &quot;The Traveller&apos;s Rest&quot;} },
-			{id: &quot;7eab1d7a3675ea53ea68780cf1c46425&quot;,
+			{id: &quot;14e06440453f725fc396a889835095a2&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.297259, &quot;longitude&quot; : -2.5735486, &quot;popupContent&quot; : &quot;The Kielder Stone&quot;} },
 
               
-    {id: &quot;4f0034f068f33159641e594aa027e071&quot;,
+    {id: &quot;69f2511386d0f50121f28e17480df52f&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kielderhead.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-0dfc152f4f9b7cc936f0030ce35cecac&quot;;
+    var defaultMapElId = &quot;leaflet-map-ca880a821b5a5e83f5d8330fc76da7aa&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2941,7 +2941,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 0dfc152f4f9b7cc936f0030ce35cecac with these args:&quot;);
+        console.log(&quot;Creating map ca880a821b5a5e83f5d8330fc76da7aa with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4091,7 +4091,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 &lt;p&gt;This was a really great walk, and would be much improved if you don’t go offroading into thick forestry looking for novelty rocks, and if the Forestry Comission ever decide to sort out the Tarset Bastle Trail so you can actually follow it. As it is.. I don’t recommend, but Fairy’s Kirk might be worth some further investigation.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-d9bbffed62affd65634b602bd9b20287&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-1ccf20e91a885b42778cc2778e2e0b47&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4102,32 +4102,32 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;20c5570d87be93c72158f9e3bd7cb856&quot;,
+			{id: &quot;289cd6c17f0ab1dccf36ddc19ff1a1b3&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.227476, &quot;longitude&quot; : -2.3592819, &quot;popupContent&quot; : &quot;Graymare Stone&quot;} },
-			{id: &quot;280a2c29db3096bac5795afe83b91997&quot;,
+			{id: &quot;88db0fa38d404376ad353515f5fb93c9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.220143, &quot;longitude&quot; : -2.3467511, &quot;popupContent&quot; : &quot;Wild Camp Site&quot;} },
-			{id: &quot;35d4e04151a21843e1137f859c6a0597&quot;,
+			{id: &quot;fe1cd915e65a558761c73e6441da5fe5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.237339, &quot;longitude&quot; : -2.3723757, &quot;popupContent&quot; : &quot;Fairy Kirk&quot;} },
-			{id: &quot;b5e9082beb75c0764b85c6a1b999843b&quot;,
+			{id: &quot;29e0a09b555f4527f5692f7f75ecc223&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.212579, &quot;longitude&quot; : -2.3763562, &quot;popupContent&quot; : &quot;Bog Head Bastle&quot;} },
-			{id: &quot;8fffa46a5790dbbd4519dd6e0582484a&quot;,
+			{id: &quot;865add83744ed565872a43a726ca05fc&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.207226, &quot;longitude&quot; : -2.3728330, &quot;popupContent&quot; : &quot;Shilla Hill Bastle&quot;} },
-			{id: &quot;5b4ea4028c8d6eba7de046b77dc37bb1&quot;,
+			{id: &quot;03b0b301c2c4df82785cb3a37b53ec63&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.203622, &quot;longitude&quot; : -2.3579828, &quot;popupContent&quot; : &quot;Black Middens Bastle&quot;} },
               
-    {id: &quot;ce44f518f23f2b7a8dbffbdfef845018&quot;,
+    {id: &quot;2959af0e07c4bcee45b29a755c15bd6a&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Emblehope.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-d9bbffed62affd65634b602bd9b20287&quot;;
+    var defaultMapElId = &quot;leaflet-map-1ccf20e91a885b42778cc2778e2e0b47&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4260,7 +4260,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map d9bbffed62affd65634b602bd9b20287 with these args:&quot;);
+        console.log(&quot;Creating map 1ccf20e91a885b42778cc2778e2e0b47 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5314,7 +5314,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 &lt;p&gt;From here there was a little bit of bog-hopping to get back onto the bridleway. Up to the 1930s maps, a Cross (remains of) or (site of) is marked on the map at the track here, but if there was anything left it’s probably been obliterated by yet another broad crushed stone track that are covering the hills now. I walked to the Salter’s Road and back down into Alnham; I had a look in the lovely church there but Nellie Heron’s final resting place is at Whittingham Church, 5 miles to the east.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-a3e54f26d682549379e91bc48f0133df&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-d17ecd820dfb7056f66fb6887572808f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5325,18 +5325,18 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;89bcea9a4e86bd2cf8b6a2a576cfcb5e&quot;,
+          {id: &quot;eaddc739883c3d3b53e3e2e46a35d77c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.414786,
                        &quot;longitude&quot; : -2.0348172,
                        &quot;popupContent&quot; : &quot;Nellie Heron&apos;s Memorial Stone&quot;} },	               
-    {id: &quot;d5cccdd07639777b088d9abb34389987&quot;,
+    {id: &quot;cf9ef1a61ede8dfa149e80c0ecbf94a1&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/NellieHerons.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-a3e54f26d682549379e91bc48f0133df&quot;;
+    var defaultMapElId = &quot;leaflet-map-d17ecd820dfb7056f66fb6887572808f&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5469,7 +5469,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map a3e54f26d682549379e91bc48f0133df with these args:&quot;);
+        console.log(&quot;Creating map d17ecd820dfb7056f66fb6887572808f with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6795,7 +6795,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 &lt;p&gt;From here I followed St Cuthbert’s Way down to Elsdonburn Farm where I had wonderful views of a stoat in white ermine coat bouncing about the forest edge. I stopped to watch him for a few minutes until he noticed me, stood up on his back legs and looked at me then dove into the undergrowth. Magical! Almost made me wish I had a half decent camera.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-217baf1239ff48d110d7949ab9af6bca&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-4c7ba880e066569c06bdb5cb31f3b5fd&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -6806,23 +6806,23 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;35d0744edafe86ce291fe597eaceeb11&quot;,
+          {id: &quot;b20c37ad0fa00e8e3a58765d64937832&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.5365129722222,
                        &quot;longitude&quot; : -2.236739,
                        &quot;popupContent&quot; : &quot;The Stob Stones&quot;} },	
-          {id: &quot;40e15bbd3ca1f7d3ca441d6f0abb0c53&quot;,
+          {id: &quot;93412f272a8e9dc73fdd7f0de40c0467&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.5365129722222,
                        &quot;longitude&quot; : -2.22962497222222,
                        &quot;popupContent&quot; : &quot;Tuppies Grave&quot;} },	                    
-    {id: &quot;f91e0e41f12747b6d6ce149e863fa5b5&quot;,
+    {id: &quot;f35b0e47eb6b7f240477022d9160cc49&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/GtHetha.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-217baf1239ff48d110d7949ab9af6bca&quot;;
+    var defaultMapElId = &quot;leaflet-map-4c7ba880e066569c06bdb5cb31f3b5fd&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6955,7 +6955,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 217baf1239ff48d110d7949ab9af6bca with these args:&quot;);
+        console.log(&quot;Creating map 4c7ba880e066569c06bdb5cb31f3b5fd with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -7991,7 +7991,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 &lt;p&gt;A nice morning’s walk, even with the extra faffing around electric fence. The route tried to follow &lt;a href=&quot;https://www.northumberlandnationalpark.org.uk/walk/the-shepherds-cairn-walk/&quot;&gt;this national park leaflet&lt;/a&gt; if the electric fences hadn’t been in the way.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-4c423efe4ae71f7db3006f3b98ebb07d&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-28b80f1af6a66aceea9cd862e0e78cd2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -8002,33 +8002,33 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-          {id: &quot;282b3291d97a2bdd379b88cc8dc9edd8&quot;,
+          {id: &quot;91589efe2ba3a280d95cd2949c954a90&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.408166,
                        &quot;longitude&quot; : -2.053505,
                        &quot;popupContent&quot; : &quot;The Shepherd&apos;s Cairn&quot;} },	
-          {id: &quot;ee8031bbffdda6a7dd86829a934f844d&quot;,
+          {id: &quot;53d0e0802dfb169013d02e35d286fcff&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.415367,
                        &quot;longitude&quot; : -2.063080,
                        &quot;popupContent&quot; : &quot;Ewartly Shank&quot;} },	
-          {id: &quot;49160e337c29232b38fd7286b5c623d3&quot;,
+          {id: &quot;fab1e87afc78d419bd0bcb85c7171979&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.391669,
                        &quot;longitude&quot; : -2.009231,
                        &quot;popupContent&quot; : &quot;Alnham&quot;} },	   
-          {id: &quot;1f1f4ae876d974a20d16ec6ac5f3b060&quot;,
+          {id: &quot;44a75d8127f90838d8463756e993cda1&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.385408,
                        &quot;longitude&quot; : -2.057522,
                        &quot;popupContent&quot; : &quot;Boundary Stone&quot;} },                       
-    {id: &quot;2f41417d50347d0bcd76236ece85443f&quot;,
+    {id: &quot;44820f24ae35eba47669d4887dbc2073&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Alnham.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-4c423efe4ae71f7db3006f3b98ebb07d&quot;;
+    var defaultMapElId = &quot;leaflet-map-28b80f1af6a66aceea9cd862e0e78cd2&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -8161,7 +8161,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 4c423efe4ae71f7db3006f3b98ebb07d with these args:&quot;);
+        console.log(&quot;Creating map 28b80f1af6a66aceea9cd862e0e78cd2 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

@@ -282,7 +282,7 @@
 
 <p>From here there was a little bit of bog-hopping to get back onto the bridleway. Up to the 1930s maps, a Cross (remains of) or (site of) is marked on the map at the track here, but if there was anything left it’s probably been obliterated by yet another broad crushed stone track that are covering the hills now. I walked to the Salter’s Road and back down into Alnham; I had a look in the lovely church there but Nellie Heron’s final resting place is at Whittingham Church, 5 miles to the east.</p>
 
-<div id="leaflet-map-a3e54f26d682549379e91bc48f0133df" class="leaflet-map"></div>
+<div id="leaflet-map-d17ecd820dfb7056f66fb6887572808f" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -293,18 +293,18 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-          {id: "89bcea9a4e86bd2cf8b6a2a576cfcb5e",
+          {id: "eaddc739883c3d3b53e3e2e46a35d77c",
               type: "LeafletMarker",
               value: { "latitude" : 55.414786,
                        "longitude" : -2.0348172,
                        "popupContent" : "Nellie Heron's Memorial Stone"} },	               
-    {id: "d5cccdd07639777b088d9abb34389987",
+    {id: "cf9ef1a61ede8dfa149e80c0ecbf94a1",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/NellieHerons.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-a3e54f26d682549379e91bc48f0133df";
+    var defaultMapElId = "leaflet-map-d17ecd820dfb7056f66fb6887572808f";
    var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -437,7 +437,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map a3e54f26d682549379e91bc48f0133df with these args:");
+        console.log("Creating map d17ecd820dfb7056f66fb6887572808f with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
