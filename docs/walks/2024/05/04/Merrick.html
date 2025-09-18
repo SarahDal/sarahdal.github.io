@@ -448,7 +448,7 @@
 
 <p>Total walk length was about 30km. Fantastic place and I’ll be back when the weather is finer and I can actually get to see some of it.</p>
 
-<div id="leaflet-map-d78ac331f9dba30e0fd7e21687c1b1a8" class="leaflet-map"></div>
+<div id="leaflet-map-c0451f0f29059b82560cb768bb00a7ac" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -459,17 +459,17 @@
                  "zoom" : 11,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-    {id: "b41b5fa143e72be2194e80815ce90c3f",
+    {id: "82f9334e0269cb32f071f5a68edb57c3",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick1.geojson" },
-    {id: "d92ca04643b223cd187f9b6d73be70d2",
+    {id: "224b4dc8708548acb472e2ab38cfaf30",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Merrick2.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-d78ac331f9dba30e0fd7e21687c1b1a8";
-   var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
+    var defaultMapElId = "leaflet-map-c0451f0f29059b82560cb768bb00a7ac";
+   var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
         mapEl.id = tagInputArg['divId'];
@@ -601,7 +601,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map d78ac331f9dba30e0fd7e21687c1b1a8 with these args:");
+        console.log("Creating map c0451f0f29059b82560cb768bb00a7ac with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -847,7 +847,7 @@
 				attribution:
 					'&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, {attribution.OpenStreetMap}',
 				variant: 'cycle',
-				apikey: '<insert your api key here>',
+				apikey: 'a17c8af5748d4df29e796b6c5dd78826',
 				maxZoom: 22
 			},
 			variants: {

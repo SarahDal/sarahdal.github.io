@@ -350,7 +350,7 @@
 
 <p>This route followed the recommended walk in the <a href="https://www.nwt.org.uk/sites/default/files/2021-06/WildwoodWalkReduced.pdf">“Walk to the Wildwood” Leaflet</a>, and was really great despite the weather.</p>
 
-<div id="leaflet-map-c11758cbfa3995bc2b513c3448c599fc" class="leaflet-map"></div>
+<div id="leaflet-map-838434ee09fd1ba5221bb97ec19e2c78" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -361,14 +361,14 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-    {id: "ac253a10d640dc3793986128e5975091",
+    {id: "14cbe80c5369cbec8b7d38d2ef8efc0c",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/WilliamCleuch.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-c11758cbfa3995bc2b513c3448c599fc";
-   var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
+    var defaultMapElId = "leaflet-map-838434ee09fd1ba5221bb97ec19e2c78";
+   var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
         mapEl.id = tagInputArg['divId'];
@@ -500,7 +500,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map c11758cbfa3995bc2b513c3448c599fc with these args:");
+        console.log("Creating map 838434ee09fd1ba5221bb97ec19e2c78 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -746,7 +746,7 @@
 				attribution:
 					'&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, {attribution.OpenStreetMap}',
 				variant: 'cycle',
-				apikey: '<insert your api key here>',
+				apikey: 'a17c8af5748d4df29e796b6c5dd78826',
 				maxZoom: 22
 			},
 			variants: {

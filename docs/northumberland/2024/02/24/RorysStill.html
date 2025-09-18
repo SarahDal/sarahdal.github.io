@@ -260,7 +260,7 @@
 
 <p>I found the actual exact locations of the stills by searching on Geograph - local historian Andrew Curtis put together <a href="https://www.geograph.org.uk/snippet/5569">a selection of photographs and locations for them</a>.</p>
 
-<div id="leaflet-map-5b6e72b5798de0e5b056548e057cad81" class="leaflet-map"></div>
+<div id="leaflet-map-03ff9afcec74f3c6ee824500384bb4bf" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -271,29 +271,29 @@
                  "zoom" : 11,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-     {id: "eefaa17fa2c401017b6e407d2383e13f",
+     {id: "859e54d48476029b39813b01105c3603",
               type: "LeafletMarker",
               value: { "latitude" : 55.413560,
                        "longitude" : -2.284758,
                        "popupContent" : "Blindburn Still"} },	
-     {id: "0f6a2f88e377d1da202ec528a91e87c8",
+     {id: "a179b662b02aeb7d9557c93a1d7ac877",
               type: "LeafletMarker",
               value: { "latitude" : 55.379630,
                        "longitude" : -2.168993,
                        "popupContent" : "Wholehope Still"} },	
-     {id: "5a3ae09f56c3ac48f33637c72c71deb8",
+     {id: "9fa09cab9a31c21b479f8f9644f2bbc3",
               type: "LeafletMarker",
               value: { "latitude" : 55.4304,
                        "longitude" : -2.1864,
                        "popupContent" : "Rory's Still"} },	   
-    {id: "8707efa60a5d5cafb982fc70665e917a",
+    {id: "f2f705310dd9d99cbc05ef4b063b1df1",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Usway.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-5b6e72b5798de0e5b056548e057cad81";
-   var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
+    var defaultMapElId = "leaflet-map-03ff9afcec74f3c6ee824500384bb4bf";
+   var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
         mapEl.id = tagInputArg['divId'];
@@ -425,7 +425,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 5b6e72b5798de0e5b056548e057cad81 with these args:");
+        console.log("Creating map 03ff9afcec74f3c6ee824500384bb4bf with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -671,7 +671,7 @@
 				attribution:
 					'&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, {attribution.OpenStreetMap}',
 				variant: 'cycle',
-				apikey: '<insert your api key here>',
+				apikey: 'a17c8af5748d4df29e796b6c5dd78826',
 				maxZoom: 22
 			},
 			variants: {

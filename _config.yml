@@ -26,8 +26,10 @@ destination: docs
 plugins:
 - jekyll-feed
 - jekyll-include-cache
-- jekyll-leaflet
+#- jekyll-leaflet
 
+plugins_dir: _plugins
+safe: false
 
 date_format: "%d %b %Y"
 

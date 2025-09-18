@@ -354,7 +354,7 @@
 
 <p>At the head of the Scaup, I saw a male Hen Harrier hunting, a real treat. I picked up some forestry paths through newly felled plantation, and from there reached the roads to follow the Scaup Burn back to the car park.</p>
 
-<div id="leaflet-map-4b4558e9f8cfa8023a6cf708481c770b" class="leaflet-map"></div>
+<div id="leaflet-map-7c94eeff1ab83dd7b4ff4f4cbdc721ac" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -365,22 +365,22 @@
                  "zoom" : 12,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-			{id: "03fb6281dd69bfe32d1004af03baaf9b",
+			{id: "fd63bb9be5ba109c876fae9fce466e97",
               type: "LeafletMarker",
               value: { "latitude" : 55.269870, "longitude" : -2.5695339, "popupContent" : "The Traveller's Rest"} },
-			{id: "12a694c2e1791471e2f38af82a9956c5",
+			{id: "c11b0d04d902d4fca12432405f71f6cd",
               type: "LeafletMarker",
               value: { "latitude" : 55.297259, "longitude" : -2.5735486, "popupContent" : "The Kielder Stone"} },
 
               
-    {id: "2702d78feb2856169ca21df8aa95f1bf",
+    {id: "a50f84113c8192365655c3ca088ae7a2",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Kielderhead.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-4b4558e9f8cfa8023a6cf708481c770b";
-   var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
+    var defaultMapElId = "leaflet-map-7c94eeff1ab83dd7b4ff4f4cbdc721ac";
+   var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
         mapEl.id = tagInputArg['divId'];
@@ -512,7 +512,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 4b4558e9f8cfa8023a6cf708481c770b with these args:");
+        console.log("Creating map 7c94eeff1ab83dd7b4ff4f4cbdc721ac with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -758,7 +758,7 @@
 				attribution:
 					'&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, {attribution.OpenStreetMap}',
 				variant: 'cycle',
-				apikey: '<insert your api key here>',
+				apikey: 'a17c8af5748d4df29e796b6c5dd78826',
 				maxZoom: 22
 			},
 			variants: {
