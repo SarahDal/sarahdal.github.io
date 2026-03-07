@@ -154,4 +154,10 @@ var store = [{
         "tags": ["walks","Scotland"],
         "url": "/scotland/2025/09/15/Corrour.html",
         "teaser": "/assets/images/Corrour/"
+      },{
+        "title": "Bells Burn and The Border",
+        "excerpt":"At last, the weather is good enough to get out again! While looking for interesting places to go explore, I noticed a while back a “Sulpherous Well” on the old OS maps near Deadwater Station, which lies on the stretch between the top of Kielder Reservoir and the Scottish Border....","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2026/03/07/Border.html",
+        "teaser": "/assets/images/Border/DeadwaterView.JPG"
       }]
