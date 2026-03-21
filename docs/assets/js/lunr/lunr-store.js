@@ -160,4 +160,10 @@ var store = [{
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2026/03/07/Border.html",
         "teaser": "/assets/images/Border/DeadwaterView.JPG"
+      },{
+        "title": "Buckham's Walls",
+        "excerpt":"Today up to the very top of Coquetdale for a look at some ruins and a walk along the Border. Upper Coquetdale farms are excitingly in the process of finally, in the year 2026, getting connected to the mains electrics, and as a result heavy machines have been up and...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2026/03/21/BuckhamsWalls.html",
+        "teaser": "/assets/images/Border/DeadwaterView.JPG"
       }]
