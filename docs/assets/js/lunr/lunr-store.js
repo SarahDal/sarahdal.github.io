@@ -166,4 +166,10 @@ var store = [{
         "tags": ["walks","northumberland","history"],
         "url": "/northumberland/2026/03/21/BuckhamsWalls.html",
         "teaser": "/assets/images/Border/DeadwaterView.JPG"
+      },{
+        "title": "Plashetts",
+        "excerpt":"Seeing as it’s 100 years since the first planting at Kielder Forest, I went on a history adventure to take a look at what might remain of the industry before the trees. Before the dam was built in the 1970s, and before the trees were planted, the Border Counties Railway...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2026/04/12/Plashetts.html",
+        "teaser": "/assets/images/Plashetts/DeadwaterView.JPG"
       }]
