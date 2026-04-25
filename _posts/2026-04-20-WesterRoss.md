@@ -22,7 +22,7 @@ location:
 
 | ![A white diamond Passing Place sign stands in the grass. Behind it is a sunlit vista of Scottish uplands, the ground brown with heather and dry grass, stretching to distant mountains and a loch under a blue sky]({{ site.url }}{{ site.baseurl }}/assets/images/westeross/passing.JPG)| 
 
-Had a few great days in Wester Ross at Dundonnell, the area between Torridon and Ullapool. I camped at [Bardallach Campsite](https://badrallach.com/) which I can't recommend enough, half a dozen grass pitches, with indoor common room and a kitchen area in a little bothy, plus hot showers and toilets. Absolutely lovely quiet spot to spend as a base for a few days walking.
+Had a few great days in Wester Ross at Dundonnell, the area between Torridon and Ullapool. I camped at [Badrallach Campsite](https://badrallach.com/) which I can't recommend enough, half a dozen grass pitches, with indoor common room and a kitchen area in a little bothy, plus hot showers and toilets. Absolutely lovely quiet spot to spend as a base for a few days walking.
 
 | ![a tiny car and a tent a little bit bigger behind it are pitched on a flat grass campsite, bordered by flowering gorse. Behind mountains rise up]({{ site.url }}{{ site.baseurl }}/assets/images/westeross/Campsite.JPG)| 
 

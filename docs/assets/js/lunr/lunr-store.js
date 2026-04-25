@@ -174,7 +174,7 @@ var store = [{
         "teaser": "/assets/images/Plashetts/DeadwaterView.JPG"
       },{
         "title": "Wester Ross",
-        "excerpt":"Had a few great days in Wester Ross at Dundonnell, the area between Torridon and Ullapool. I camped at Bardallach Campsite which I can’t recommend enough, half a dozen grass pitches, with indoor common room and a kitchen area in a little bothy, plus hot showers and toilets. Absolutely lovely...","categories": ["Scotland"],
+        "excerpt":"Had a few great days in Wester Ross at Dundonnell, the area between Torridon and Ullapool. I camped at Badrallach Campsite which I can’t recommend enough, half a dozen grass pitches, with indoor common room and a kitchen area in a little bothy, plus hot showers and toilets. Absolutely lovely...","categories": ["Scotland"],
         "tags": ["walks","Scotland","history"],
         "url": "/scotland/2026/04/20/WesterRoss.html",
         "teaser": "/assets/images/Plashetts/passing.JPG"
