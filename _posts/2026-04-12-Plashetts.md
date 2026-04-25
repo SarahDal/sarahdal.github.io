@@ -108,7 +108,7 @@ From here, it was just a nice 10km wander along part of the [Kielder Lakeside Wa
 			{% leaflet_marker { "latitude" :  55.206958, "longitude" :  -2.483882, "popupContent" : "Seldom Seen"} %}
 			{% leaflet_marker { "latitude" :  55.199387, "longitude" :  -2.497361, "popupContent" : "Plashett's Colliery Cottages'"} %}
 			{% leaflet_marker { "latitude" :  55.206705, "longitude" :  -2.512952, "popupContent" : "Top of Incline Plane"} %}
-			{% leaflet_marker { "latitude" :  55.204523, "longitude" :  -2.525860, "popupContent" : "Plashetts Station"} %}
+			{% leaflet_marker { "latitude" :  55.204523, "longitude" :  -2.525860, "popupContent" : "Location of Plashetts Station"} %}
 
               
     {% leaflet_geojson "/assets/geojson/Plashetts.geojson" %}
