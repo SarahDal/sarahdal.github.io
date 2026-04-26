@@ -71,7 +71,7 @@ Dropping down towards Shenavall, I met with a group of 4 Germans who were hiking
 | ![The vase landscape, a loch sits at the bottom of a curving valley bounded by mountains. A very brown/yellow scene of mostly heather and dry grasses. Not a single tree.]({{ site.url }}{{ site.baseurl }}/assets/images/westeross/Wide.JPG)| 
 | Loch na Sealga | 
 | ![a small one story cottage, Shenavall bothy. There are a few scraggly trees around it, and it sits at an epic location with the mountain Beinn Dearg Mhor behind.]({{ site.url }}{{ site.baseurl }}/assets/images/westeross/bothy.JPG)| 
-| Beinn Dearg Mhor behind Shenavall Bothy | 
+| Beinn Dearg Mhor behind [Shenavall Bothy](https://www.mountainbothies.org.uk/about-the-mba/archive/shenavall-brief-history/) | 
 
 It had turned into a truly stunning day. I reached the bothy and thought about walking to the loch, but didn't want to push myself too far, so carried on along the Abhainn Srath in the bright sunshine. I passed a hunting lodge by a waterfall at Achneigie, ate lunch under the shade of a tree, and passed through a lovely remnant of woodland, eventually the tracked turned and I began to climb back up.
 

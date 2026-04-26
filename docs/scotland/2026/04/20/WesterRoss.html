@@ -316,7 +316,7 @@
       <td><img src="https://sarahdal.github.io///assets/images/westeross/bothy.JPG" alt="a small one story cottage, Shenavall bothy. There are a few scraggly trees around it, and it sits at an epic location with the mountain Beinn Dearg Mhor behind." /></td>
     </tr>
     <tr>
-      <td>Beinn Dearg Mhor behind Shenavall Bothy</td>
+      <td>Beinn Dearg Mhor behind <a href="https://www.mountainbothies.org.uk/about-the-mba/archive/shenavall-brief-history/">Shenavall Bothy</a></td>
     </tr>
   </tbody>
 </table>
@@ -404,7 +404,7 @@
   </tbody>
 </table>
 
-<div id="leaflet-map-50cc3920d0e89769bbb62b1d795456c7" class="leaflet-map"></div>
+<div id="leaflet-map-8eccb35b06d0b084b9d050707111e628" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -415,31 +415,31 @@
                  "zoom" : 10,
                  "providerBasemap": "OpenTopoMap" } ;
     var blockLeafletItems = [
-			{id: "5238aae52353038c464d7f60028ef61d",
+			{id: "dd9dc84aa16f394f3518f69502fb0706",
               type: "LeafletMarker",
               value: { "latitude" :   57.776804, "longitude" :   -5.254020, "popupContent" : "Shenavall Bothy"} },
-			{id: "8830906fa1d0f0747f234cdb88fd43c7",
+			{id: "60329bbcdc17104a1d2d982a1393ffe3",
               type: "LeafletMarker",
               value: { "latitude" :   57.911065, "longitude" :   -5.368555, "popupContent" : "Scoraig"} },
-			{id: "fee393dd66b0914b9b0dced0f25cfadf",
+			{id: "f48289df4ac7a3fd783e296b5c6cb1e9",
               type: "LeafletMarker",
               value: { "latitude" :   57.883964, "longitude" :   -5.636692, "popupContent" : "Slaggan Village"} },
-    {id: "840b64ccf94acb3373f23159b7d446f6",
+    {id: "3c0e484cfcb25252692d3757356d5255",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/AnTeallach.geojson" },
-    {id: "fdb9e45af88cf30c88e55e23a7075619",
+    {id: "9d47f079ae1235f64a812817739592c7",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Shenavall.geojson" },
-    {id: "ede3fc450b346b8b6a27bfc88a61f037",
+    {id: "001c3ff60e3ded33752cce97a5d7aafe",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Slaggan.geojson" },
-    {id: "65cc93ec73f7cd0c64d559ab6acf7d6c",
+    {id: "ac73f7135df0690e8f42eee8bbca062b",
               type: "LeafletGeoJSON",
               value: "/assets/geojson/Scoraig.geojson" },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-50cc3920d0e89769bbb62b1d795456c7";
+    var defaultMapElId = "leaflet-map-8eccb35b06d0b084b9d050707111e628";
    var defaultMapElStyle = "height:600px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -572,7 +572,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map 50cc3920d0e89769bbb62b1d795456c7 with these args:");
+        console.log("Creating map 8eccb35b06d0b084b9d050707111e628 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
