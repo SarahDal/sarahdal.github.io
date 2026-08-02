@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2026-08-02T10:05:00+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Kershope</title><link href="https://sarahdal.github.io//northumberland/2026/08/01/Kershope.html" rel="alternate" type="text/html" title="Kershope" /><published>2026-08-01T00:00:00+01:00</published><updated>2026-08-01T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2026/08/01/Kershope</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/08/01/Kershope.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-08-02T10:17:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Kershope</title><link href="http://localhost:4000/northumberland/2026/08/01/Kershope.html" rel="alternate" type="text/html" title="Kershope" /><published>2026-08-01T00:00:00+01:00</published><updated>2026-08-01T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2026/08/01/Kershope</id><content type="html" xml:base="http://localhost:4000/northumberland/2026/08/01/Kershope.html">&lt;hr /&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Skelton.JPG&quot; alt=&quot;A view through some open grassy areas in the forest&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Skelton.JPG&quot; alt=&quot;A view through some open grassy areas in the forest&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -17,7 +17,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/LongCairn.JPG&quot; alt=&quot;Viewed over thick bracken and heather, in a clearing in dense plantation forestry, a pile of stones covered with more heather under a blue sky with white clouds&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/LongCairn.JPG&quot; alt=&quot;Viewed over thick bracken and heather, in a clearing in dense plantation forestry, a pile of stones covered with more heather under a blue sky with white clouds&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -27,7 +27,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Davidson1.JPG&quot; alt=&quot;A straight forest track leads away into the distance. A grassy area by the trees to the right holds a grey stone pillar topped with a pyramidal shape. It all looks very lonely and quiet.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Davidson1.JPG&quot; alt=&quot;A straight forest track leads away into the distance. A grassy area by the trees to the right holds a grey stone pillar topped with a pyramidal shape. It all looks very lonely and quiet.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -37,7 +37,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Davidons2.JPG&quot; alt=&quot;A closer image of the monument. The base is blocky and rough cut, while the main column has text carved on it. The pyramidal hat is very weathered and covered in lichen and moss.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Davidons2.JPG&quot; alt=&quot;A closer image of the monument. The base is blocky and rough cut, while the main column has text carved on it. The pyramidal hat is very weathered and covered in lichen and moss.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -47,7 +47,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/ForesTrack1.JPG&quot; alt=&quot;A forest track curves gently through the dense plantation, borded by green grass&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/ForesTrack1.JPG&quot; alt=&quot;A forest track curves gently through the dense plantation, borded by green grass&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -57,7 +57,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Glendhu1.JPG&quot; alt=&quot;Leaving the tracks, the going is a lot rougher. Deep grass and heather over uneven ground, with mature Scots Pine to the left and younger sitka to the right&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Glendhu1.JPG&quot; alt=&quot;Leaving the tracks, the going is a lot rougher. Deep grass and heather over uneven ground, with mature Scots Pine to the left and younger sitka to the right&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -67,10 +67,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/GlendhuCairn.JPG&quot; alt=&quot;A small pile of lichen-covered stones sit in purple flowering heather&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/GlendhuCairn.JPG&quot; alt=&quot;A small pile of lichen-covered stones sit in purple flowering heather&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/GlendhuTrig.JPG&quot; alt=&quot;A brightly painted white trig point stands in a little patch of grass in the middle of a sea of purple flowering heather&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/GlendhuTrig.JPG&quot; alt=&quot;A brightly painted white trig point stands in a little patch of grass in the middle of a sea of purple flowering heather&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Who is painting these? I keep coming across trig points in the absolute middle of nowhere and they’ve got a fresh coat of white paint&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -80,39 +83,39 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/GlendhuView.JPG&quot; alt=&quot;Thick heather rolls away far into the distance. A lump on the distant horizon is Christianbury Crags. It all looks very far away&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/GlendhuView.JPG&quot; alt=&quot;Thick heather rolls away far into the distance. A lump on the distant horizon is Christianbury Crags. It all looks very far away&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;It all looked very, very far away. Turning in the other direction I could see a massive rainstorm approaching, so I made an executive descision to go in the other direction, to the closest forestry road, which would take me a lot closer to Christianbury Crags and avoid several gruelling kms of rough heather and bog in the pouring rain.. unfortunately this meant I missed the most remote point in England, but I did get to within 1km of it before turning back. I reached the forest track just as it started absolutely pouring it down. Under the shelter of a tree, I was happy to have made the correct decision!&lt;/p&gt;
+&lt;p&gt;It all looked very, very far away. Turning in the other direction I could see a massive rainstorm approaching, so I made an executive descision to go in the other direction, to the closest forestry road, which would take me a lot closer to Christianbury Crags and avoid several gruelling kms of rough heather and bog in the rain.. unfortunately this meant I missed the most remote point in England, but I did get to within 1km of it before turning back. I reached the forest track just as it started absolutely pouring it down. Under the shelter of a tree, I was happy to have made the correct decision!&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Track.JPG&quot; alt=&quot;More forestry track. A dirt track, but solid enough to support timber extraction vehicles, with grass up the centre and either side, it winds through plantation forestry of sitka spruce&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Track.JPG&quot; alt=&quot;More forestry track. A dirt track, but solid enough to support timber extraction vehicles, with grass up the centre and either side, it winds through plantation forestry of sitka spruce&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;This track then ended abruptly, and I clambered over a very deep Peat Hag to find this interesting marker post - I’ve never seen anything like this before.&lt;/p&gt;
+&lt;p&gt;I made excellent pace on the track. It ended abruptly, and I headed into the heather and clambered over a very deep Peat Hag to find this interesting marker post - I’ve never seen anything like this before.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Marker.JPG&quot; alt=&quot;On a rotten square stake, a piece of metal has been nailed on round two sides. On this side, it says HAYWARD-AS 02845232N6&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Marker.JPG&quot; alt=&quot;On a rotten square stake, a piece of metal has been nailed on round two sides. On this side, it says HAYWARD-AS 02845232N6&quot; /&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Marker2.JPG&quot; alt=&quot;On the other side, it is stamped in large letters PROPERTY OF and then NATURE RESERVE&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Marker2.JPG&quot; alt=&quot;On the other side, it is stamped in large letters PROPERTY OF and then NATURE RESERVE&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;There’s no nature reserve here, it’s all Forestry Commission I think. Up ahead, I could see the three sets of crags, Beckhead, Casey and Christianbury crags. It was more very difficult going through the heather.&lt;/p&gt;
+&lt;p&gt;There’s no nature reserve here, it’s all Forestry Commission I think. Up ahead, I could see the three sets of crags, Beckhead, Casey, and Christianbury crags. It was more very difficult going through the heather.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Beckhead.JPG&quot; alt=&quot;A rocky outcrop of rounded, weathered grey stone emerges from the heather, all wet with the rain&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Beckhead.JPG&quot; alt=&quot;A rocky outcrop of rounded, weathered grey stone emerges from the heather, all wet with the rain&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beckhead Crags&lt;/td&gt;
@@ -125,20 +128,20 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Christianbury.jpg&quot; alt=&quot;outcrops of rounded grey rocks puncture the heather and grass. There&apos;s patches of heather on top of the rocks and the odd tree. The forest blankets the land beyond.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Christianbury.jpg&quot; alt=&quot;outcrops of rounded grey rocks puncture the heather and grass. There&apos;s patches of heather on top of the rocks and the odd tree. The forest blankets the land beyond.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Christianbury2.JPG&quot; alt=&quot;A huge block of stone, grey dappled with white lichen, towers up above the heathery ground&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Christianbury2.JPG&quot; alt=&quot;A huge block of stone, grey dappled with white lichen, towers up above the heathery ground&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;What a great spot! On clear days apparently you can see the Solway, but today I only had the Cumbrian Mountains on the horizon to look at. Walking along the outcrop I came to the next feautre - the Galwegian Fosse, a linear ditch about 4m wide that runs from here in a very straight line south west for about 1.4km&lt;/p&gt;
+&lt;p&gt;What a great spot! On clear days apparently you can see the Solway, but today I only had the Cumbrian Mountains on the horizon to look at. Walking along the outcrop I came to the next feautre - the Galwegian Fosse, a linear ditch about 4m wide that runs from here in a very straight line south west for about 1.4km.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Fosse1.JPG&quot; alt=&quot;Standing on the crags, the land drops down from the rocky ground in front of me, to an open area dotted with a few trees and all coated with purple flowering heather. A clear ditch in the ground runs ahead for a few hundred metres until it reaches the forest, where it continues.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Fosse1.JPG&quot; alt=&quot;Standing on the crags, the land drops down from the rocky ground in front of me, to an open area dotted with a few trees and all coated with purple flowering heather. A clear ditch in the ground runs ahead for a few hundred metres until it reaches the forest, where it continues.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -148,7 +151,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Fosse2.JPG&quot; alt=&quot;The Fosse in the forest. We are surrounded by trees, and I am standing on one side of an old wire fence, beyond is the ditch of the fosse, filled in with grass whil the banks and ground either side are thick with heather.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Fosse2.JPG&quot; alt=&quot;The Fosse in the forest. We are surrounded by trees, and I am standing on one side of an old wire fence, beyond is the ditch of the fosse, filled in with grass whil the banks and ground either side are thick with heather.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -158,14 +161,14 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kershope/Blacklyne.JPG&quot; alt=&quot;old farm buildings huddle together, surrounded by shrubbery and thick grass, all hemmed in by the forest &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kershope/Blacklyne.JPG&quot; alt=&quot;old farm buildings huddle together, surrounded by shrubbery and thick grass, all hemmed in by the forest &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;I made it out of Kershope Forest alive, although knackered. I think I might need to plan another walk (or just hire a bike) to get to the remote spot from Kielder next time. The whole walk was 25km and a great mix of easy forest tracks and extremely tough and exhausting moorland.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-18893168bcc9bc51c3a76bc72c48c156&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-7e0c7bb86f685a4a89136ccc72ea9e77&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -176,35 +179,35 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;ca80d927ca9728d7509c31cb7e91a649&quot;,
+			{id: &quot;76ab0e1d98249dd7c4e6309dca0f833e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.136490, &quot;longitude&quot; :  -2.7268439, &quot;popupContent&quot; : &quot;Long Cairn&quot;} },
-			{id: &quot;c8bc7352e4aa479e6bf51591f73d1300&quot;,
+			{id: &quot;5c7f2865f09dbf31477a21a8b386b392&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.151196, &quot;longitude&quot; :  -2.7321327, &quot;popupContent&quot; : &quot;Davdson&apos;s Monument&quot;} },
-			{id: &quot;050aa814a735b330a8a4e23476ca7462&quot;,
+			{id: &quot;7c45e88f39808b2cbed48490c63857e1&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.169742, &quot;longitude&quot; :  -2.6795671, &quot;popupContent&quot; : &quot;Glendhu Trign&quot;} },
-			{id: &quot;0e58573c1a82ea339c835adda5742ac8&quot;,
+			{id: &quot;a0711966b792aa2f8bc86a1f31dc2d61&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.132805, &quot;longitude&quot; :  -2.6640391, &quot;popupContent&quot; : &quot;Christianbury Crags&apos;&quot;} },
-			{id: &quot;ff7c183b10e98e92929b401737af9e8c&quot;,
+			{id: &quot;44dcb0fd972f8e36a8f2386bb9ece76d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.128174, &quot;longitude&quot; :  -2.6727445, &quot;popupContent&quot; : &quot;The Glawegian Fosse&quot;} },
-			{id: &quot;dcb6248531cda4b4f75f350b07594f3f&quot;,
+			{id: &quot;2696a88961ce409f0a75d9fd4c1a083f&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.121263, &quot;longitude&quot; :  -2.7030473, &quot;popupContent&quot; : &quot;Kettle Hall&quot;} },
-			{id: &quot;b4c3278c1382d2ef72da01b0827be40c&quot;,
+			{id: &quot;2c35fdec4af99644a715f55f63e53f3d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.165352, &quot;longitude&quot; :  -2.6608127, &quot;popupContent&quot; : &quot;Point in England Furthest From A Road&quot;} },
               
-    {id: &quot;90a1926ae1c952a9af3d3bfc32299acd&quot;,
+    {id: &quot;d538301c1b9c709bd54f733c78780799&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kershope.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-18893168bcc9bc51c3a76bc72c48c156&quot;;
+    var defaultMapElId = &quot;leaflet-map-7e0c7bb86f685a4a89136ccc72ea9e77&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -337,7 +340,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 18893168bcc9bc51c3a76bc72c48c156 with these args:&quot;);
+        console.log(&quot;Creating map 7e0c7bb86f685a4a89136ccc72ea9e77 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1245,12 +1248,12 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Wester Ross</title><link href="https://sarahdal.github.io//scotland/2026/04/20/WesterRoss.html" rel="alternate" type="text/html" title="Wester Ross" /><published>2026-04-20T00:00:00+01:00</published><updated>2026-04-20T00:00:00+01:00</updated><id>https://sarahdal.github.io//scotland/2026/04/20/WesterRoss</id><content type="html" xml:base="https://sarahdal.github.io//scotland/2026/04/20/WesterRoss.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Wester Ross</title><link href="http://localhost:4000/scotland/2026/04/20/WesterRoss.html" rel="alternate" type="text/html" title="Wester Ross" /><published>2026-04-20T00:00:00+01:00</published><updated>2026-04-20T00:00:00+01:00</updated><id>http://localhost:4000/scotland/2026/04/20/WesterRoss</id><content type="html" xml:base="http://localhost:4000/scotland/2026/04/20/WesterRoss.html">&lt;hr /&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/passing.JPG&quot; alt=&quot;A white diamond Passing Place sign stands in the grass. Behind it is a sunlit vista of Scottish uplands, the ground brown with heather and dry grass, stretching to distant mountains and a loch under a blue sky&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/passing.JPG&quot; alt=&quot;A white diamond Passing Place sign stands in the grass. Behind it is a sunlit vista of Scottish uplands, the ground brown with heather and dry grass, stretching to distant mountains and a loch under a blue sky&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1260,7 +1263,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Campsite.JPG&quot; alt=&quot;a tiny car and a tent a little bit bigger behind it are pitched on a flat grass campsite, bordered by flowering gorse. Behind mountains rise up&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Campsite.JPG&quot; alt=&quot;a tiny car and a tent a little bit bigger behind it are pitched on a flat grass campsite, bordered by flowering gorse. Behind mountains rise up&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1272,13 +1275,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/5deer.JPG&quot; alt=&quot;A view from a steep slope over Little Loch Broom, bright blue, to An Teallach mountains and the dome-shape of Sail Mhòr&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/5deer.JPG&quot; alt=&quot;A view from a steep slope over Little Loch Broom, bright blue, to An Teallach mountains and the dome-shape of Sail Mhòr&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Sail Mhòr from the slopes of Beinn Ghobhlach&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Uidhe.JPG&quot; alt=&quot;A little blue loch sits in a dip under the summit of Beinn Ghobhlach&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Uidhe.JPG&quot; alt=&quot;A little blue loch sits in a dip under the summit of Beinn Ghobhlach&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Loch nn-Uidhe under Beinn Ghobhlach&lt;/td&gt;
@@ -1293,7 +1296,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/path1.JPG&quot; alt=&quot;rocky ground with grass and heather and the gully of a stream lead very steeply uphill towards a pyramid-chaped mountain, the top dappled with snow and the very peak in the cloud&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/path1.JPG&quot; alt=&quot;rocky ground with grass and heather and the gully of a stream lead very steeply uphill towards a pyramid-chaped mountain, the top dappled with snow and the very peak in the cloud&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Glas Mheall Mor in the cloud&lt;/td&gt;
@@ -1306,13 +1309,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Bidein.JPG&quot; alt=&quot;A steep rocky slope ascends into the cloud&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Bidein.JPG&quot; alt=&quot;A steep rocky slope ascends into the cloud&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Bidein a’ Ghlas Thull&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Broom.JPG&quot; alt=&quot;A view from several hundred metres above sea level of Little Loch Broom, sitting blue and bordered by spectacular mountain landscape&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Broom.JPG&quot; alt=&quot;A view from several hundred metres above sea level of Little Loch Broom, sitting blue and bordered by spectacular mountain landscape&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Little Loch Broom&lt;/td&gt;
@@ -1325,13 +1328,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Gairbhe.JPG&quot; alt=&quot;An old road curls through heather and grass past a small blue loch&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Gairbhe.JPG&quot; alt=&quot;An old road curls through heather and grass past a small blue loch&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;the old road to Slaggan Village&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/SlagganBay.JPG&quot; alt=&quot;A stream flows across a small sandy beach into the blue sea&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/SlagganBay.JPG&quot; alt=&quot;A stream flows across a small sandy beach into the blue sea&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Slaggan Beach&lt;/td&gt;
@@ -1344,7 +1347,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/SlagganHouse.JPG&quot; alt=&quot;The gable ends of a two story house stand alone, facing each other, in a bare, grass landscape&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/SlagganHouse.JPG&quot; alt=&quot;The gable ends of a two story house stand alone, facing each other, in a bare, grass landscape&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1354,7 +1357,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/ShenPath.JPG&quot; alt=&quot;A rocky path stretches across barren moorland towards a mountainous horizon under a clear blue sky. Some of the mountains have patches of snow and theres a few wispy clouds in the sky&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/ShenPath.JPG&quot; alt=&quot;A rocky path stretches across barren moorland towards a mountainous horizon under a clear blue sky. Some of the mountains have patches of snow and theres a few wispy clouds in the sky&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1364,19 +1367,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/german.JPG&quot; alt=&quot;Looking across rocky moorland to the mountains of the Fisherfield Forest. There&apos;s no trees! A couple of red deer are watching.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/german.JPG&quot; alt=&quot;Looking across rocky moorland to the mountains of the Fisherfield Forest. There&apos;s no trees! A couple of red deer are watching.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;View to the mountains of Fisherfield Forest&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Wide.JPG&quot; alt=&quot;The vase landscape, a loch sits at the bottom of a curving valley bounded by mountains. A very brown/yellow scene of mostly heather and dry grasses. Not a single tree.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Wide.JPG&quot; alt=&quot;The vase landscape, a loch sits at the bottom of a curving valley bounded by mountains. A very brown/yellow scene of mostly heather and dry grasses. Not a single tree.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Loch na Sealga&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/bothy.JPG&quot; alt=&quot;a small one story cottage, Shenavall bothy. There are a few scraggly trees around it, and it sits at an epic location with the mountain Beinn Dearg Mhor behind.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/bothy.JPG&quot; alt=&quot;a small one story cottage, Shenavall bothy. There are a few scraggly trees around it, and it sits at an epic location with the mountain Beinn Dearg Mhor behind.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Beinn Dearg Mhor behind &lt;a href=&quot;https://www.mountainbothies.org.uk/about-the-mba/archive/shenavall-brief-history/&quot;&gt;Shenavall Bothy&lt;/a&gt;&lt;/td&gt;
@@ -1389,7 +1392,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/waterfall.JPG&quot; alt=&quot;A waterfall cascades over some rocks into a small pool, with a few trees either side&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/waterfall.JPG&quot; alt=&quot;A waterfall cascades over some rocks into a small pool, with a few trees either side&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1397,7 +1400,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/View.JPG&quot; alt=&quot;Incredible landscape of brown and yellow heathery mountains under a clear blue sky&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/View.JPG&quot; alt=&quot;Incredible landscape of brown and yellow heathery mountains under a clear blue sky&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1405,7 +1408,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/uptrack.JPG&quot; alt=&quot;The track leads uphill, passing above some wispy trees in a hollow, and up to the side of a mountain.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/uptrack.JPG&quot; alt=&quot;The track leads uphill, passing above some wispy trees in a hollow, and up to the side of a mountain.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1415,7 +1418,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/lochans.JPG&quot; alt=&quot;Lochain Dubh, a collection of small blue waterbodies sitting in an expanse of barren, flat heather. On the far far horizon - more mountains.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/lochans.JPG&quot; alt=&quot;Lochain Dubh, a collection of small blue waterbodies sitting in an expanse of barren, flat heather. On the far far horizon - more mountains.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Lochain Dubh and some small lochans on Dundonnell Forest&lt;/td&gt;
@@ -1428,7 +1431,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/ScoraigPath.JPG&quot; alt=&quot;An old tarmac road, worn and grassy, leads past a green sign pointing the way to Scoraig in English and Gaelic. A hand painted sign reads NO VEHICLES&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/ScoraigPath.JPG&quot; alt=&quot;An old tarmac road, worn and grassy, leads past a green sign pointing the way to Scoraig in English and Gaelic. A hand painted sign reads NO VEHICLES&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1436,7 +1439,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/ScoraigPath1.JPG&quot; alt=&quot;the narrow, rocky path cuts ahead across the ground sloping steeply away to Little Loch Broom, a large loch stretching to the horizon. It&apos;s as clear and blue as the sky.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/ScoraigPath1.JPG&quot; alt=&quot;the narrow, rocky path cuts ahead across the ground sloping steeply away to Little Loch Broom, a large loch stretching to the horizon. It&apos;s as clear and blue as the sky.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1446,13 +1449,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Scoraig1.JPG&quot; alt=&quot;An old red tractor and a green landrover with no windows sit in a field&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Scoraig1.JPG&quot; alt=&quot;An old red tractor and a green landrover with no windows sit in a field&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Scoraig2.JPG&quot; alt=&quot;Looking down at the landing site, a rocky beach with a concrete jetty. A dozen or more small boats are hauled up above the high water, and around a large red wooden building are lots of piles of materials. There are trees behind the building.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Scoraig2.JPG&quot; alt=&quot;Looking down at the landing site, a rocky beach with a concrete jetty. A dozen or more small boats are hauled up above the high water, and around a large red wooden building are lots of piles of materials. There are trees behind the building.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/Scoraig3.JPG&quot; alt=&quot;Old wood and a very old cart wheel are leaning against the roofless ruin of a very old cottage&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/Scoraig3.JPG&quot; alt=&quot;Old wood and a very old cart wheel are leaning against the roofless ruin of a very old cottage&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1462,12 +1465,12 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/westeross/rustling.JPG&quot; alt=&quot;A yellow roadside sign: CCTV IN OPERATION DUE TO SHEEP RUSTLING &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/westeross/rustling.JPG&quot; alt=&quot;A yellow roadside sign: CCTV IN OPERATION DUE TO SHEEP RUSTLING &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-4ff4b2424a7cfecc97d980294e49a935&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-0a77432005cc7b2ca38277779e19762a&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -1478,31 +1481,31 @@
                  &quot;zoom&quot; : 10,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;e2670acccb0ed795d194c2055a1c9894&quot;,
+			{id: &quot;ab1608c11a495bfebd8eb2cb57e98aba&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.776804, &quot;longitude&quot; :   -5.254020, &quot;popupContent&quot; : &quot;Shenavall Bothy&quot;} },
-			{id: &quot;6078515ff1823e2a45cd8a845837d1e3&quot;,
+			{id: &quot;83963392517c89fdc15d936f2a2dc9f3&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.911065, &quot;longitude&quot; :   -5.368555, &quot;popupContent&quot; : &quot;Scoraig&quot;} },
-			{id: &quot;312fed538f0e1e50d32efe239a7e4155&quot;,
+			{id: &quot;7994dee1f6d074f6bf27b36f0813d91b&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.883964, &quot;longitude&quot; :   -5.636692, &quot;popupContent&quot; : &quot;Slaggan Village&quot;} },
-    {id: &quot;afb5fe58962808a16068fcba0f3151e8&quot;,
+    {id: &quot;cc4db3cc280d9086d37ba148018defc4&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/AnTeallach.geojson&quot; },
-    {id: &quot;eefbf88349d45d0ecd878413457a85f0&quot;,
+    {id: &quot;b4ea29dd08404a848b16d628a9bcff71&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Shenavall.geojson&quot; },
-    {id: &quot;2ef108d25c69516c19a28d8c8301280c&quot;,
+    {id: &quot;d07c78dfa16049393b9523acfe95336d&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Slaggan.geojson&quot; },
-    {id: &quot;42b5be616bb5a039f2d37a2f575b5fc9&quot;,
+    {id: &quot;52b83c6b5696d72a2797e61a0da209c1&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Scoraig.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-4ff4b2424a7cfecc97d980294e49a935&quot;;
+    var defaultMapElId = &quot;leaflet-map-0a77432005cc7b2ca38277779e19762a&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1635,7 +1638,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 4ff4b2424a7cfecc97d980294e49a935 with these args:&quot;);
+        console.log(&quot;Creating map 0a77432005cc7b2ca38277779e19762a with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2543,12 +2546,12 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Scotland" /><category term="walks" /><category term="Scotland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Plashetts</title><link href="https://sarahdal.github.io//northumberland/2026/04/12/Plashetts.html" rel="alternate" type="text/html" title="Plashetts" /><published>2026-04-12T00:00:00+01:00</published><updated>2026-04-12T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2026/04/12/Plashetts</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/04/12/Plashetts.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Scotland" /><category term="walks" /><category term="Scotland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Plashetts</title><link href="http://localhost:4000/northumberland/2026/04/12/Plashetts.html" rel="alternate" type="text/html" title="Plashetts" /><published>2026-04-12T00:00:00+01:00</published><updated>2026-04-12T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2026/04/12/Plashetts</id><content type="html" xml:base="http://localhost:4000/northumberland/2026/04/12/Plashetts.html">&lt;hr /&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Kielder.JPG&quot; alt=&quot;Tall pines frame a view of the lake&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Kielder.JPG&quot; alt=&quot;Tall pines frame a view of the lake&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2564,7 +2567,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/FarColliery.JPG&quot; alt=&quot;An open area with tall plantation forest on the far left of the image, and a view of Kielder Lake to the right of them. In front of us the ground is brown and yellow with dead bracken an, forest brash, although there is some green grass growing on some lumpy ground. A few trees of various types are dotted about.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/FarColliery.JPG&quot; alt=&quot;An open area with tall plantation forest on the far left of the image, and a view of Kielder Lake to the right of them. In front of us the ground is brown and yellow with dead bracken an, forest brash, although there is some green grass growing on some lumpy ground. A few trees of various types are dotted about.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2574,7 +2577,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/bothy.JPG&quot; alt=&quot;A gravel forest road with grass growing up the centre disappears off ahead of us/ the ground either side is yellolw-brown grass with patches of green growing through, and far on the other side of the open space to the right of the picture, just visible against the plantation forest, is a small stone building with a single window and a grey roof&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/bothy.JPG&quot; alt=&quot;A gravel forest road with grass growing up the centre disappears off ahead of us/ the ground either side is yellolw-brown grass with patches of green growing through, and far on the other side of the open space to the right of the picture, just visible against the plantation forest, is a small stone building with a single window and a grey roof&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2584,7 +2587,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/BellingFord.JPG&quot; alt=&quot;the burn running through grassy banks, it ripples over a ford&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/BellingFord.JPG&quot; alt=&quot;the burn running through grassy banks, it ripples over a ford&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2592,7 +2595,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/BellingburnHead.JPG&quot; alt=&quot;the burn flows to the right of the image, on the left, surrounded by tall trees, a low stone building with a metal chimney sits behind a wall. Nearby, a gate is open and half off its hinges&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/BellingburnHead.JPG&quot; alt=&quot;the burn flows to the right of the image, on the left, surrounded by tall trees, a low stone building with a metal chimney sits behind a wall. Nearby, a gate is open and half off its hinges&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2600,7 +2603,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Belling1.JPG&quot; alt=&quot;A low stone building with slate roof. The three doors we can see are boarded up, the ground in the foreground is very mossy and tussocky. To the right is a wooden cross structure: in teh centre are rotten old firebeaters, while hanging from the arms either side are five red fire buckets. Behind are very tall trees.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Belling1.JPG&quot; alt=&quot;A low stone building with slate roof. The three doors we can see are boarded up, the ground in the foreground is very mossy and tussocky. To the right is a wooden cross structure: in teh centre are rotten old firebeaters, while hanging from the arms either side are five red fire buckets. Behind are very tall trees.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2614,10 +2617,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Bellingburn.JPG&quot; alt=&quot;A v-shaped valley with a river just visible at the bottom. The upper reaches of the far bank holds plantation forestry, with some sitka spruces escaped and growing closer to the stream, including one right in front of us. Bare deciduous trees also scattered about. The valley has steep sides and is brown with dead braken.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Bellingburn.JPG&quot; alt=&quot;A v-shaped valley with a river just visible at the bottom. The upper reaches of the far bank holds plantation forestry, with some sitka spruces escaped and growing closer to the stream, including one right in front of us. Bare deciduous trees also scattered about. The valley has steep sides and is brown with dead braken.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Bellingburntrack.JPG&quot; alt=&quot;Higher up the slope, in the dead bracken on the edge of the forest, a sort of linear feature can be made out, which is possibly the old trackway. In the distance: more forest&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Bellingburntrack.JPG&quot; alt=&quot;Higher up the slope, in the dead bracken on the edge of the forest, a sort of linear feature can be made out, which is possibly the old trackway. In the distance: more forest&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;The trackway running alongside the trees&lt;/td&gt;
@@ -2630,10 +2633,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomSeen1.JPG&quot; alt=&quot;A gnarly old tree grows out of a flat bit at the bottom of a bracken-covered slope&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomSeen1.JPG&quot; alt=&quot;A gnarly old tree grows out of a flat bit at the bottom of a bracken-covered slope&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomSeen2.JPG&quot; alt=&quot;Through the vegetation an archway of bricks can be seen, framing blackness beyond. It&apos;s all very moss covered and thick with dead bracken.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomSeen2.JPG&quot; alt=&quot;Through the vegetation an archway of bricks can be seen, framing blackness beyond. It&apos;s all very moss covered and thick with dead bracken.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2643,10 +2646,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomRow.JPG&quot; alt=&quot;A stone structure, all very mossy and overgrown, surrounded by dead wood and bracken&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomRow.JPG&quot; alt=&quot;A stone structure, all very mossy and overgrown, surrounded by dead wood and bracken&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomRow2.JPG&quot; alt=&quot;Looking from the side, the grass-covered stone walls stand proud of the dead bracken.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomRow2.JPG&quot; alt=&quot;Looking from the side, the grass-covered stone walls stand proud of the dead bracken.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2656,7 +2659,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomBridge.JPG&quot; alt=&quot;Sticking out of the dead bracken, a low section of moss and grass-heavy stone wall&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomBridge.JPG&quot; alt=&quot;Sticking out of the dead bracken, a low section of moss and grass-heavy stone wall&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2666,10 +2669,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomSeen.JPG&quot; alt=&quot;An overview from the far side of the burn, we can see a bank and hillside thick with dead bracken. There&apos;s a bare tree in a hollow where the drift entrance is, and to the right near the burn is the low stone wall. The area is surrounded by Plantation forestry.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomSeen.JPG&quot; alt=&quot;An overview from the far side of the burn, we can see a bank and hillside thick with dead bracken. There&apos;s a bare tree in a hollow where the drift entrance is, and to the right near the burn is the low stone wall. The area is surrounded by Plantation forestry.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/SeldomSeenMap.JPG&quot; alt=&quot;The same image, but I&apos;ve labelled where the drift entrance and the cottage ruins are.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/SeldomSeenMap.JPG&quot; alt=&quot;The same image, but I&apos;ve labelled where the drift entrance and the cottage ruins are.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2681,13 +2684,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Plashetts1.JPG&quot; alt=&quot;Tussocky brown and green grass, you can sort of make out a depression in the middle. A row of terraced cottages stood here&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Plashetts1.JPG&quot; alt=&quot;Tussocky brown and green grass, you can sort of make out a depression in the middle. A row of terraced cottages stood here&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Plashetts2.JPG&quot; alt=&quot;The modern forest road runs straight to the right of the pic, while alongside it an area of flat ground before the plantation rises up.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Plashetts2.JPG&quot; alt=&quot;The modern forest road runs straight to the right of the pic, while alongside it an area of flat ground before the plantation rises up.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/PLashettsChapel.JPG&quot; alt=&quot;With a Sitka spruce growing over it, three courses of solid stone blocks are all that I could find.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/PLashettsChapel.JPG&quot; alt=&quot;With a Sitka spruce growing over it, three courses of solid stone blocks are all that I could find.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2699,7 +2702,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Plane.JPG&quot; alt=&quot;In a clearing surrounded by mature sitka spruce, a line of very old rotten fence posts to the right. Just beyond them, the ground seems a bright orange colour in places.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Plane.JPG&quot; alt=&quot;In a clearing surrounded by mature sitka spruce, a line of very old rotten fence posts to the right. Just beyond them, the ground seems a bright orange colour in places.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2709,7 +2712,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/Iron.JPG&quot; alt=&quot;water flows out of the forest and over bright orange mud&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/Iron.JPG&quot; alt=&quot;water flows out of the forest and over bright orange mud&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2717,10 +2720,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/shaft1.JPG&quot; alt=&quot;A circular pool of water - an old air shaft - is full of water.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/shaft1.JPG&quot; alt=&quot;A circular pool of water - an old air shaft - is full of water.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/shaft.JPG&quot; alt=&quot;Another pool, but not so circular. The mud is orangey and it flows off to the right of the picutres, while the moss and grass surrounding it is green&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/shaft.JPG&quot; alt=&quot;Another pool, but not so circular. The mud is orangey and it flows off to the right of the picutres, while the moss and grass surrounding it is green&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2730,14 +2733,14 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Plashetts/plane.JPG&quot; alt=&quot;A narrow track slopes down ahead, through tall mature plantation forest.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Plashetts/plane.JPG&quot; alt=&quot;A narrow track slopes down ahead, through tall mature plantation forest.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;From here, it was just a nice 10km wander along part of the &lt;a href=&quot;https://reivertrails.com/trails/kielder-lakeside-way&quot;&gt;Kielder Lakeside Way&lt;/a&gt; and back to the car.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-30da6dd5763bf2a044b2f9306874b482&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-f1579006914db0879e8b59367c02c06e&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2748,33 +2751,33 @@
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;d66cb13510dfe5873fe2010daac4ffd9&quot;,
+			{id: &quot;2f56f4543a108068f4ef26672d907903&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.201886, &quot;longitude&quot; :  -2.485753, &quot;popupContent&quot; : &quot;Far Colliery&quot;} },
-			{id: &quot;b79fc074c30078155d8c057a2cd225c2&quot;,
+			{id: &quot;016803116e2e6bcd2582453deb0a9ac1&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.212909, &quot;longitude&quot; :  -2.486030, &quot;popupContent&quot; : &quot;Bellingburn Head&quot;} },
-			{id: &quot;a07f1b602c0459edbae532a73fdcea4e&quot;,
+			{id: &quot;5323bcbdface96a75c74a922f16653bd&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.206958, &quot;longitude&quot; :  -2.483882, &quot;popupContent&quot; : &quot;Seldom Seen&quot;} },
-			{id: &quot;6a2b6965ac8d85ac4c9a824d83d9d8b8&quot;,
+			{id: &quot;278be6bf4d7f2c3e64232aa5cacb2ff5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.199387, &quot;longitude&quot; :  -2.497361, &quot;popupContent&quot; : &quot;Plashett&apos;s Colliery Cottages&apos;&quot;} },
-			{id: &quot;0b5222e63cf1e7baf793884a91ea8e9c&quot;,
+			{id: &quot;251203f3f94615222f6cdf5a8e182d35&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.206705, &quot;longitude&quot; :  -2.512952, &quot;popupContent&quot; : &quot;Top of Incline Plane&quot;} },
-			{id: &quot;56699a329302b943a25525f86bfbcfd3&quot;,
+			{id: &quot;20fb77fcc69e15684159666596a60407&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.204523, &quot;longitude&quot; :  -2.525860, &quot;popupContent&quot; : &quot;Location of Plashetts Station&quot;} },
 
               
-    {id: &quot;b9667457acd28ef8ac77725c790f0817&quot;,
+    {id: &quot;2c333f029a9a69b9191b539904b43651&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Plashetts.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-30da6dd5763bf2a044b2f9306874b482&quot;;
+    var defaultMapElId = &quot;leaflet-map-f1579006914db0879e8b59367c02c06e&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -2907,7 +2910,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 30da6dd5763bf2a044b2f9306874b482 with these args:&quot;);
+        console.log(&quot;Creating map f1579006914db0879e8b59367c02c06e with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -3815,14 +3818,14 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Buckham’s Walls</title><link href="https://sarahdal.github.io//northumberland/2026/03/21/BuckhamsWalls.html" rel="alternate" type="text/html" title="Buckham’s Walls" /><published>2026-03-21T00:00:00+00:00</published><updated>2026-03-21T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2026/03/21/BuckhamsWalls</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/03/21/BuckhamsWalls.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Buckham’s Walls</title><link href="http://localhost:4000/northumberland/2026/03/21/BuckhamsWalls.html" rel="alternate" type="text/html" title="Buckham’s Walls" /><published>2026-03-21T00:00:00+00:00</published><updated>2026-03-21T00:00:00+00:00</updated><id>http://localhost:4000/northumberland/2026/03/21/BuckhamsWalls</id><content type="html" xml:base="http://localhost:4000/northumberland/2026/03/21/BuckhamsWalls.html">&lt;hr /&gt;
 
 &lt;p&gt;Today up to the very top of Coquetdale for a look at some ruins and a walk along the Border. Upper Coquetdale farms are excitingly in the process of finally, in the year 2026, getting connected to the mains electrics, and as a result heavy machines have been up and down the valley and the road is absolutely knackered with potholes. I parked up just past Blindburn and followed the Buckham’s Walls Burn, first to where it is joined by Remmies Burn.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/BuckhamsWallsBurn.JPG&quot; alt=&quot;Under a lovely blue sky, a stream burbles through grassy steep sided hills&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/BuckhamsWallsBurn.JPG&quot; alt=&quot;Under a lovely blue sky, a stream burbles through grassy steep sided hills&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3832,7 +3835,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/Ruin.JPG&quot; alt=&quot;Stones piled in a large rectangular shape, sitting in the grass at the foot of a rounded hill&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/Ruin.JPG&quot; alt=&quot;Stones piled in a large rectangular shape, sitting in the grass at the foot of a rounded hill&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3842,7 +3845,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/BuckhamsWalls1.JPG&quot; alt=&quot;A ruined stone house, very little is standing other than three corners. Stone rubble lies everywhere, grown over with grass.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/BuckhamsWalls1.JPG&quot; alt=&quot;A ruined stone house, very little is standing other than three corners. Stone rubble lies everywhere, grown over with grass.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3854,7 +3857,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/BuckhamsWalls2.JPG&quot; alt=&quot;A view of the same ruin from inside, large blocks of stone and a lintel lie on the ground. Beyond, a section of wall with the remains of a window&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/BuckhamsWalls2.JPG&quot; alt=&quot;A view of the same ruin from inside, large blocks of stone and a lintel lie on the ground. Beyond, a section of wall with the remains of a window&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3866,7 +3869,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/Gaisty.JPG&quot; alt=&quot;A large expanse of yellow, tussocky upland gass stretches off under the blue sky. On the distant horizon a small hill rises up.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/Gaisty.JPG&quot; alt=&quot;A large expanse of yellow, tussocky upland gass stretches off under the blue sky. On the distant horizon a small hill rises up.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3876,7 +3879,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/goats1.JPG&quot; alt=&quot;standing in tussocks of grass and heather on the Scottish side of the border fence, six shaggy brown goats are grazing. A few raise their heads to look at me, and they have long curved horns.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/goats1.JPG&quot; alt=&quot;standing in tussocks of grass and heather on the Scottish side of the border fence, six shaggy brown goats are grazing. A few raise their heads to look at me, and they have long curved horns.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3884,7 +3887,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/goats2.JPG&quot; alt=&quot;With dramatic hills behind, hazy in the sunshine, a brown and white goat with curved horns stands in the heather and looks straight at me &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/goats2.JPG&quot; alt=&quot;With dramatic hills behind, hazy in the sunshine, a brown and white goat with curved horns stands in the heather and looks straight at me &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3894,7 +3897,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/Raeshaw.JPG&quot; alt=&quot;The ground is covered in tussocks of grass, heather and rushes. It slope down to a small shed-like structure, and the border fence (simple post and wire) runs towards and past it. On the other side of the fence, a linear earthwork runs parellel to it.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/Raeshaw.JPG&quot; alt=&quot;The ground is covered in tussocks of grass, heather and rushes. It slope down to a small shed-like structure, and the border fence (simple post and wire) runs towards and past it. On the other side of the fence, a linear earthwork runs parellel to it.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3904,7 +3907,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/Cheviot.JPG&quot; alt=&quot;Rolling hills in the sun. The border fence stretches ahead, as the ground drops down away from us. Misty hills, including the stout Cheviot, are on the horizon.&quot; /&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/Cheviot.JPG&quot; alt=&quot;Rolling hills in the sun. The border fence stretches ahead, as the ground drops down away from us. Misty hills, including the stout Cheviot, are on the horizon.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -3914,7 +3917,7 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/BuckhamsWalls/TheStreet.JPG&quot; alt=&quot;A rough track leads down from the hills of the Border Ridge. The ground is rough yellowy grass, with patches of brown heather&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/BuckhamsWalls/TheStreet.JPG&quot; alt=&quot;A rough track leads down from the hills of the Border Ridge. The ground is rough yellowy grass, with patches of brown heather&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -3926,7 +3929,7 @@
 
 &lt;p&gt;Very lovely today to be able to get out and enjoy the sunshine on top of the hills.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-2f4783fdac3c91e59cbe6cf7d66ded44&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-498616d0ccb450abe0a5c71d1ac1d276&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -3937,30 +3940,30 @@
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;6dbf5274fb52c01ee71d74d413ce785e&quot;,
+			{id: &quot;ca387086705b7ff1cc3240d8c54383a9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.390085, &quot;longitude&quot; :  -2.278833, &quot;popupContent&quot; : &quot;Car Park&quot;} },
-			{id: &quot;5522873bf0cf849ec9dc22a3a31d3366&quot;,
+			{id: &quot;13ede92c13727d1512387adefbde77a3&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.391078, &quot;longitude&quot; :  -2.270881, &quot;popupContent&quot; : &quot;Blindburn Farm&quot;} },
-			{id: &quot;540521dde7a4167f809bb98aa016da22&quot;,
+			{id: &quot;5beabc1c16521da329f9ca3f38bd7e88&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.398243, &quot;longitude&quot; :  -2.256799, &quot;popupContent&quot; : &quot;Carlcroft Farm&quot;} },
-			{id: &quot;722eddc892862d7730db7fdb6f0956c2&quot;,
+			{id: &quot;dc55f5a9bc7f5c4b1b5edbd0fa9f0927&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.394072, &quot;longitude&quot; :  -2.317557, &quot;popupContent&quot; : &quot;Buckham&apos;s Walls Ruin&apos;&quot;} },
-			{id: &quot;50f0ae8dd0afacfe3ba0aec6e884fb7d&quot;,
+			{id: &quot;f9fe5c90b28c891e60f5bc485fb795be&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.409928, &quot;longitude&quot; :  -2.310675, &quot;popupContent&quot; : &quot;Lamb Hill Mountain Rescue Hut&quot;} },
 
               
-    {id: &quot;5fd812dd6f115734ddab03eb8ff217c2&quot;,
+    {id: &quot;b095047cd34833d0ffb0716fbeb0870d&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Buckhams.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-2f4783fdac3c91e59cbe6cf7d66ded44&quot;;
+    var defaultMapElId = &quot;leaflet-map-498616d0ccb450abe0a5c71d1ac1d276&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4093,7 +4096,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 2f4783fdac3c91e59cbe6cf7d66ded44 with these args:&quot;);
+        console.log(&quot;Creating map 498616d0ccb450abe0a5c71d1ac1d276 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5001,7 +5004,7 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Bells Burn and The Border</title><link href="https://sarahdal.github.io//northumberland/2026/03/07/Border.html" rel="alternate" type="text/html" title="Bells Burn and The Border" /><published>2026-03-07T00:00:00+00:00</published><updated>2026-03-07T00:00:00+00:00</updated><id>https://sarahdal.github.io//northumberland/2026/03/07/Border</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/03/07/Border.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Bells Burn and The Border</title><link href="http://localhost:4000/northumberland/2026/03/07/Border.html" rel="alternate" type="text/html" title="Bells Burn and The Border" /><published>2026-03-07T00:00:00+00:00</published><updated>2026-03-07T00:00:00+00:00</updated><id>http://localhost:4000/northumberland/2026/03/07/Border</id><content type="html" xml:base="http://localhost:4000/northumberland/2026/03/07/Border.html">&lt;hr /&gt;
 
 &lt;p&gt;At last, the weather is good enough to get out again! While looking for interesting places to go explore, I noticed a while back a “Sulpherous Well” on the old OS maps near Deadwater Station, which lies on the stretch between the top of Kielder Reservoir and the Scottish Border. Also nearby, the border itself takes an interesting route, and there’s a number of ruins, and a trig point. Lots to see!&lt;/p&gt;
 
@@ -5010,7 +5013,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/DeadwaterWell2.JPG&quot; alt=&quot;In the middle of tall rushes and with hills behind, a single old stone wall about head height and only a few metres long&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/DeadwaterWell2.JPG&quot; alt=&quot;In the middle of tall rushes and with hills behind, a single old stone wall about head height and only a few metres long&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5020,7 +5023,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/FairloansQuarry3.JPG&quot; alt=&quot;A stone building with most of the walls missing is abutted by an old corrugated metal shed with a rusty roof. They sit on the edge of a steep drop, with grassed over piles of what must have been spoil. In the distance, patches of plantation forestry lead up to a large hill on the horizon, Deadwater Fell.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/FairloansQuarry3.JPG&quot; alt=&quot;A stone building with most of the walls missing is abutted by an old corrugated metal shed with a rusty roof. They sit on the edge of a steep drop, with grassed over piles of what must have been spoil. In the distance, patches of plantation forestry lead up to a large hill on the horizon, Deadwater Fell.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5030,7 +5033,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/FoulmireTussocks.JPG&quot; alt=&quot;Large, grassy tussocks stretch off to the hills on the horizon, covered in thick brown-yellow-greeny grass&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/FoulmireTussocks.JPG&quot; alt=&quot;Large, grassy tussocks stretch off to the hills on the horizon, covered in thick brown-yellow-greeny grass&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5038,7 +5041,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/FoulmireHeights.JPG&quot; alt=&quot;Within the tussocks, next to a Sitka Spruce Sapling, is a white trig point. Behind the landscape leads to brown and yellow hill, and dotted about all over are small sitka trees&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/FoulmireHeights.JPG&quot; alt=&quot;Within the tussocks, next to a Sitka Spruce Sapling, is a white trig point. Behind the landscape leads to brown and yellow hill, and dotted about all over are small sitka trees&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5048,7 +5051,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/FoulmireLimekiln1.JPG&quot; alt=&quot;At the bottom of a grassed-over quarry. Across the uneven ground, hidden in shadow as the sun is out now, can just be made out two large arches leading into the quarry wall. l&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/FoulmireLimekiln1.JPG&quot; alt=&quot;At the bottom of a grassed-over quarry. Across the uneven ground, hidden in shadow as the sun is out now, can just be made out two large arches leading into the quarry wall. l&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5056,7 +5059,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/FoulmireLimekiln2.JPG&quot; alt=&quot;Closer up, vegetation hangs down the stone wall and the two arches can be seen to not go back very deeply into the rock. The sides of the quarry are thick with tussocky grass.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/FoulmireLimekiln2.JPG&quot; alt=&quot;Closer up, vegetation hangs down the stone wall and the two arches can be seen to not go back very deeply into the rock. The sides of the quarry are thick with tussocky grass.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5068,7 +5071,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/BorderFromHeadlessSike.JPG&quot; alt=&quot;Looking down over yellow-brown grass and tree stumps to another yellow-brown field crossed by a drystone wall, with the hills and plantations on the horizon. &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/BorderFromHeadlessSike.JPG&quot; alt=&quot;Looking down over yellow-brown grass and tree stumps to another yellow-brown field crossed by a drystone wall, with the hills and plantations on the horizon. &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5078,7 +5081,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/Border.png&quot; alt=&quot;an Open Street Map with the border as described above in Red&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/Border.png&quot; alt=&quot;an Open Street Map with the border as described above in Red&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5088,7 +5091,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/ShielsikeBorderBridge.JPG&quot; alt=&quot;The forest track crosses a concrete bridge with a puddle in the middle&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/ShielsikeBorderBridge.JPG&quot; alt=&quot;The forest track crosses a concrete bridge with a puddle in the middle&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5098,10 +5101,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/BellsBurnBridge.JPG&quot; alt=&quot;The wider river flows over large stone blocks. The banks are covered in grass and dead bracken, and further we can see a rocky outcrop with plantation trees on top.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/BellsBurnBridge.JPG&quot; alt=&quot;The wider river flows over large stone blocks. The banks are covered in grass and dead bracken, and further we can see a rocky outcrop with plantation trees on top.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/Bridge1.JPG&quot; alt=&quot;A closer look at rocks in the river, there are several suspiciously flat rocks lying tipped over, with large rocks underneath that could have supported them.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/Bridge1.JPG&quot; alt=&quot;A closer look at rocks in the river, there are several suspiciously flat rocks lying tipped over, with large rocks underneath that could have supported them.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5111,23 +5114,23 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/BorderWall1.JPG&quot; alt=&quot;An old dry stone wall meets the fence to my right, with another rickety fence heading ahead of me. The border follows the line of the stone wall.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/BorderWall1.JPG&quot; alt=&quot;An old dry stone wall meets the fence to my right, with another rickety fence heading ahead of me. The border follows the line of the stone wall.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/BellsChapel.JPG&quot; alt=&quot;A field of rough grazing with patches of rush. On the far side a low, moss covered wall and a roofless, old, stone building, and beyond that, tall plantation forest. Earthworks, linear humps, can just out be made out in the field.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/BellsChapel.JPG&quot; alt=&quot;A field of rough grazing with patches of rush. On the far side a low, moss covered wall and a roofless, old, stone building, and beyond that, tall plantation forest. Earthworks, linear humps, can just out be made out in the field.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/ChapelWay.JPG&quot; alt=&quot;A pile of large stones covered in grass and rushes. To the right of them, you can sort of make out a hollow way curving right and heading up the hill.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/ChapelWay.JPG&quot; alt=&quot;A pile of large stones covered in grass and rushes. To the right of them, you can sort of make out a hollow way curving right and heading up the hill.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/border20260307/Socket.JPG&quot; alt=&quot;A rectangular block of stone covered in moss sits on the ground. It has a square hole carved into it, filled with rainwater now.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/border20260307/Socket.JPG&quot; alt=&quot;A rectangular block of stone covered in moss sits on the ground. It has a square hole carved into it, filled with rainwater now.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;No sign of the chapel now, after however many centuries, but I wonder if the border was altered with the strange dog-leg to reach close to it? On the English side, a right of way follows the holloway up the hill and to a fence corner, so I crossed back into Scotland and then into England one final time before walking down the hill to rejoin the old rail line and back to the car.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-06b310d05be08a5a2274bd8c57e4995c&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-125aa21e5c10315a116126f69282dbde&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5138,29 +5141,29 @@
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;69ef52a4b82be571bc61006470f1b69a&quot;,
+			{id: &quot;80b868f2c16773495df4cf394705fdcf&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.2641995, &quot;longitude&quot; : 2.6280458, &quot;popupContent&quot; : &quot;Deadwater Well&quot;} },
-			{id: &quot;7913ef9775e43644eb6d0dc0361d0457&quot;,
+			{id: &quot;aa9b3fa3a58fc96184c4aced56c6c569&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.2643200, &quot;longitude&quot; : -2.6392875, &quot;popupContent&quot; : &quot;Quarry&quot;} },
-			{id: &quot;c6ccf5b701310a1af69437946cf04d6b&quot;,
+			{id: &quot;bce05ca5ea35d213b1653bde76fb4c27&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.248347, &quot;longitude&quot; : -2.652703, &quot;popupContent&quot; : &quot;Foulmire Trig Point&quot;} },
-			{id: &quot;2d3a602e1e9685afe0d69598866a97fd&quot;,
+			{id: &quot;950ef5af8fe59d87a045cdc57cad08dc&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.247862, &quot;longitude&quot; : -2.647710, &quot;popupContent&quot; : &quot;Lime Kiln&quot;} },
-			{id: &quot;5ccfccd342520b5c4826b18648447b92&quot;,
+			{id: &quot;b754d031dfbb0cb196ce92ff6401d0f1&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.247510, &quot;longitude&quot; : -2.609605, &quot;popupContent&quot; : &quot;Bells Chapel&quot;} },
               
-    {id: &quot;d0cfcbfef7f224b2f377aec8b3d8e152&quot;,
+    {id: &quot;ce85c0544ff43eceb8cc58a17c67b404&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Border.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-06b310d05be08a5a2274bd8c57e4995c&quot;;
+    var defaultMapElId = &quot;leaflet-map-125aa21e5c10315a116126f69282dbde&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5293,7 +5296,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 06b310d05be08a5a2274bd8c57e4995c with these args:&quot;);
+        console.log(&quot;Creating map 125aa21e5c10315a116126f69282dbde with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6201,7 +6204,7 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">The Lairig Leachach and Corrour Forest</title><link href="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html" rel="alternate" type="text/html" title="The Lairig Leachach and Corrour Forest" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-15T00:00:00+01:00</updated><id>https://sarahdal.github.io//scotland/2025/09/15/Corrour</id><content type="html" xml:base="https://sarahdal.github.io//scotland/2025/09/15/Corrour.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">The Lairig Leachach and Corrour Forest</title><link href="http://localhost:4000/scotland/2025/09/15/Corrour.html" rel="alternate" type="text/html" title="The Lairig Leachach and Corrour Forest" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-15T00:00:00+01:00</updated><id>http://localhost:4000/scotland/2025/09/15/Corrour</id><content type="html" xml:base="http://localhost:4000/scotland/2025/09/15/Corrour.html">&lt;hr /&gt;
 
 &lt;p&gt;For this walk I left my car at Bridge of Orchy and took the train up to Spean Bridge. The West Highland Line skirts through infamous Rannoch Moor, which I’ve always wanted to walk across, and I planned a 4-day route with easy get outs (train stations and the A82) if I needed them.&lt;/p&gt;
 
@@ -6210,17 +6213,17 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/Signs.JPG&quot; alt=&quot;Four Scotways Heritage Signs, green with white text on a metal pole, pointing to: Raineach / Rannoch 26m, Ceann Loch Liobhainn / Kinlochleven 16m, Gleann Nibheis / Glen Nevis 16m, and Steaisean Choire Odhair / Corrour Station 12m. Underneath a square sign has both English and Gaelic &amp;quot;This was once a major drove road for cattle travelling to the Trysts at Crieff and Falkirk. It uses a glen called the Lairig Leachach which means Pass of the Flagstones. &quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/Signs.JPG&quot; alt=&quot;Four Scotways Heritage Signs, green with white text on a metal pole, pointing to: Raineach / Rannoch 26m, Ceann Loch Liobhainn / Kinlochleven 16m, Gleann Nibheis / Glen Nevis 16m, and Steaisean Choire Odhair / Corrour Station 12m. Underneath a square sign has both English and Gaelic &amp;quot;This was once a major drove road for cattle travelling to the Trysts at Crieff and Falkirk. It uses a glen called the Lairig Leachach which means Pass of the Flagstones. &quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/ChoireCoille.JPG&quot; alt=&quot;a wet dirt road leads off through scrub and fields towards distant hills clouded by, er, clouds.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/ChoireCoille.JPG&quot; alt=&quot;a wet dirt road leads off through scrub and fields towards distant hills clouded by, er, clouds.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_094110.JPG&quot; alt=&quot;a painted wooden statue of a stern looking man in priest&apos;s clothes, clutching a bible, next to a small donations box made of stone.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_094110.JPG&quot; alt=&quot;a painted wooden statue of a stern looking man in priest&apos;s clothes, clutching a bible, next to a small donations box made of stone.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6230,18 +6233,18 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_111646.JPG&quot; alt=&quot;A gravel track winds its way into the far distance over boggy ground in the valley bottom. Either side and in the distance, the hills rise up into the cloud.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_111646.JPG&quot; alt=&quot;A gravel track winds its way into the far distance over boggy ground in the valley bottom. Either side and in the distance, the hills rise up into the cloud.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/bothy4.JPG&quot; alt=&quot;A small, single storey building with only a door, sits on the other side of a wide, shallow, rocky burn. Behind it, a hill brown with heather rises up into the clouds.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/bothy4.JPG&quot; alt=&quot;A small, single storey building with only a door, sits on the other side of a wide, shallow, rocky burn. Behind it, a hill brown with heather rises up into the clouds.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Lairig Leachach Bothy&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/bothy2.JPG&quot; alt=&quot;Inside the bothy, the walls are whitewashed and light comes from a single pane of glass in the roof. To the right, sleeping platforms - simple wooden bunks - are covered in grafitti, while on the right notices and signs hang above a white shelf. On the shelf I have my jetboil stove cooking away, and a yellow chair and a stool stand by.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/bothy2.JPG&quot; alt=&quot;Inside the bothy, the walls are whitewashed and light comes from a single pane of glass in the roof. To the right, sleeping platforms - simple wooden bunks - are covered in grafitti, while on the right notices and signs hang above a white shelf. On the shelf I have my jetboil stove cooking away, and a yellow chair and a stool stand by.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;inside the bothy&lt;/td&gt;
@@ -6254,13 +6257,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_125736.JPG&quot; alt=&quot;Muddy quadbike tracks show the way along the boggy valley bottom.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_125736.JPG&quot; alt=&quot;Muddy quadbike tracks show the way along the boggy valley bottom.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Very wet going underfoot&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_125421.JPG&quot; alt=&quot;A rocky burn crossing, two old pieces of timber are the remains of what was a footbridge&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_125421.JPG&quot; alt=&quot;A rocky burn crossing, two old pieces of timber are the remains of what was a footbridge&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Remains of a footbridge on the Allt Feith nan Sac&lt;/td&gt;
@@ -6273,10 +6276,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_133423.JPG&quot; alt=&quot;The river flows through trees and curves away behind the slopes. In the distance, more hills&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_133423.JPG&quot; alt=&quot;The river flows through trees and curves away behind the slopes. In the distance, more hills&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_135937.JPG&quot; alt=&quot;Now by the river&apos;s edge, where it flows wide between flatter banks. There are a few trees either side too.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_135937.JPG&quot; alt=&quot;Now by the river&apos;s edge, where it flows wide between flatter banks. There are a few trees either side too.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6286,10 +6289,10 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_141239.JPG&quot; alt=&quot;A narrow wooded ravine with rock faces rising up either side&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_141239.JPG&quot; alt=&quot;A narrow wooded ravine with rock faces rising up either side&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_141746.JPG&quot; alt=&quot;A wide view of the scenery. The river emerges from a patch of tall broadleaf trees, flowing through the centre of the image and past a small white house. In front of me, the path emerges from bracken and runs near a dry stone wall, leading to the house. More hills behind, of course.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_141746.JPG&quot; alt=&quot;A wide view of the scenery. The river emerges from a patch of tall broadleaf trees, flowing through the centre of the image and past a small white house. In front of me, the path emerges from bracken and runs near a dry stone wall, leading to the house. More hills behind, of course.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6301,19 +6304,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_142822.JPG&quot; alt=&quot;Behind the lodge, a two storey stone house with boarded up windows, looking out from the trees to the loch and hills behind.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_142822.JPG&quot; alt=&quot;Behind the lodge, a two storey stone house with boarded up windows, looking out from the trees to the loch and hills behind.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;I didn’t take many photos here as it was chucking it down&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_145631.JPG&quot; alt=&quot;A footbridge carried the path out of the trees and through the heather. A Scotways directional sign, green with white text, on a metal pole and of course a hill brown with heather rising above.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_145631.JPG&quot; alt=&quot;A footbridge carried the path out of the trees and through the heather. A Scotways directional sign, green with white text, on a metal pole and of course a hill brown with heather rising above.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;The path crosses the Abhainn Rath river&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_150321.JPG&quot; alt=&quot;Heathery and rocky hills overlap each other, dotted with trees, as the valley snakes back the way I&apos;ve just walked. The foreground is green and boggy.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_150321.JPG&quot; alt=&quot;Heathery and rocky hills overlap each other, dotted with trees, as the valley snakes back the way I&apos;ve just walked. The foreground is green and boggy.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Looking back the way I’ve just walked&lt;/td&gt;
@@ -6326,13 +6329,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_150640.JPG&quot; alt=&quot;Wet ground around the edge of the loch, with rocky outcrops. In the immediate foreground heather is in purple flowers; behind rises up a small rocky hill &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_150640.JPG&quot; alt=&quot;Wet ground around the edge of the loch, with rocky outcrops. In the immediate foreground heather is in purple flowers; behind rises up a small rocky hill &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Creagan a’ Chaise behind the Loch&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_150136.JPG&quot; alt=&quot;The track, still not as wide as a road, leads off through bracken and heather. Behind are the steep slopes above Loch Trieg&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_150136.JPG&quot; alt=&quot;The track, still not as wide as a road, leads off through bracken and heather. Behind are the steep slopes above Loch Trieg&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Garbh-bhienn behind Loch Trieg. The line of trees on the distant slope marks where the West Highland rail line runs.&lt;/td&gt;
@@ -6345,13 +6348,13 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_153144.JPG&quot; alt=&quot;A view of the Loch from a broad gravel track. Below it, the slate roof of a stone building.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_153144.JPG&quot; alt=&quot;A view of the Loch from a broad gravel track. Below it, the slate roof of a stone building.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;The Hydro building peeking out from by the loch&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_160641.JPG&quot; alt=&quot;The road carries on alongside a stream. Up ahead, a rail bridge, a metal structure between two stone structures carries the rail line over it. Along the roadside and in the distance, the heather is in flower.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_160641.JPG&quot; alt=&quot;The road carries on alongside a stream. Up ahead, a rail bridge, a metal structure between two stone structures carries the rail line over it. Along the roadside and in the distance, the heather is in flower.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6361,19 +6364,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_164854.JPG&quot; alt=&quot;A boggy moorland expanse stretching away, punctuated only by the white dot of the station buildings. Beyond that, a hill rises up and is cloaked in cloud. It&apos;s raining.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_164854.JPG&quot; alt=&quot;A boggy moorland expanse stretching away, punctuated only by the white dot of the station buildings. Beyond that, a hill rises up and is cloaked in cloud. It&apos;s raining.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Corrour Station in the distance..&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_170211.JPG&quot; alt=&quot;Four white oblong signs with black text, one above the other, on two metal poles in the ground, in the heather and bog. Corrour Station (left) 1 and a half miles; Loch Treig by footpath (right) 3 miles; Kinlochleven by footpath (right) 15 miles, Fort william By Footpath (right) 20 miles&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_170211.JPG&quot; alt=&quot;Four white oblong signs with black text, one above the other, on two metal poles in the ground, in the heather and bog. Corrour Station (left) 1 and a half miles; Loch Treig by footpath (right) 3 miles; Kinlochleven by footpath (right) 15 miles, Fort william By Footpath (right) 20 miles&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;I love how there’s always direction signs, even in the remotest bit of the country&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250915_170822.JPG&quot; alt=&quot;Loch Ossian, a large waterbody. In the foreground before the loch the ground is brown and boggy, dotted with a few rocks. On the edge of the lake are a few pieces of land jutting into the loch, with copses of Scots Pines, in the one on the left of the picture you can just make out a single-storey wooden building, Loch Ossian Youth Hostel. Beyond, the banks of the loch have patches of forestry while mountains rise above and into the cloud. &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250915_170822.JPG&quot; alt=&quot;Loch Ossian, a large waterbody. In the foreground before the loch the ground is brown and boggy, dotted with a few rocks. On the edge of the lake are a few pieces of land jutting into the loch, with copses of Scots Pines, in the one on the left of the picture you can just make out a single-storey wooden building, Loch Ossian Youth Hostel. Beyond, the banks of the loch have patches of forestry while mountains rise above and into the cloud. &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6387,7 +6390,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_065625.JPG&quot; alt=&quot;The early dawn sky with hughes of pink and yellow behind the clouds, over the loch with the hillsides in shadow.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_065625.JPG&quot; alt=&quot;The early dawn sky with hughes of pink and yellow behind the clouds, over the loch with the hillsides in shadow.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Dawn from the tent&lt;/td&gt;
@@ -6400,7 +6403,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_084142.JPG&quot; alt=&quot;A bronze plate is fixed to a rock. The text is in the caption below.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_084142.JPG&quot; alt=&quot;A bronze plate is fixed to a rock. The text is in the caption below.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -6415,7 +6418,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_084150.JPG&quot; alt=&quot;A few boulders in the heather, one has pebbles piled on top and holds the bronze plaque. The land leads to hills and Loch Ossian, and a rainbow is rising in the sky above.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_084150.JPG&quot; alt=&quot;A few boulders in the heather, one has pebbles piled on top and holds the bronze plaque. The land leads to hills and Loch Ossian, and a rainbow is rising in the sky above.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Peter’s Rock (in the foreground) has a suitably beautiful and contemplative setting&lt;/td&gt;
@@ -6430,19 +6433,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_093051.JPG&quot; alt=&quot;Brown-yellow bog stretches ahead for miles, flat and featureless, until it reaches a large waterbody, behind which mountains rise into the sky, where white clouds hang in the blue sky.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_093051.JPG&quot; alt=&quot;Brown-yellow bog stretches ahead for miles, flat and featureless, until it reaches a large waterbody, behind which mountains rise into the sky, where white clouds hang in the blue sky.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Stunning vista.. also it’s stopped raining!&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_090343.JPG&quot; alt=&quot;Zoomed in a little on the Caledonia Sleeper train as it crosses in front of the loch.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_090343.JPG&quot; alt=&quot;Zoomed in a little on the Caledonia Sleeper train as it crosses in front of the loch.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;The Caledonia Sleeper train in the distance&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_093057.JPG&quot; alt=&quot;the track, gravel with grass growing up the middle, runs ahead on the left of the picture, the ground sloping gently away to the right, all grass and heather and a few big rocks.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_093057.JPG&quot; alt=&quot;the track, gravel with grass growing up the middle, runs ahead on the left of the picture, the ground sloping gently away to the right, all grass and heather and a few big rocks.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6454,19 +6457,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_093921.JPG&quot; alt=&quot;well-made granite stone blocks make up the ruined walls of the lodge. there are a few columns in the centre, but none of the walls or columns are higher than chest height. Mountains can be seen in the far distance. &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_093921.JPG&quot; alt=&quot;well-made granite stone blocks make up the ruined walls of the lodge. there are a few columns in the centre, but none of the walls or columns are higher than chest height. Mountains can be seen in the far distance. &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Corrour Old Lodge&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_110351.JPG&quot; alt=&quot;In the lovely sunshine, the road runs straight ahead through towards a small waterbody, behind which is a hill Sron Smeur. Beyond this is a distant ridge, ending in the conical shape of Schiehallion. &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_110351.JPG&quot; alt=&quot;In the lovely sunshine, the road runs straight ahead through towards a small waterbody, behind which is a hill Sron Smeur. Beyond this is a distant ridge, ending in the conical shape of Schiehallion. &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Concial Schiehallion in the far distance&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_115204.JPG&quot; alt=&quot;A grand view over grassy morrland, down to a clump of woodland, then behind this more grass and heather. You can just make out a viaduct, taking the train line out of Rannoch station, and the edge of Loch Ladon can just be seen. On the horizon, of course, more mountains, and the sun is out and it&apos;s all lovely. &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_115204.JPG&quot; alt=&quot;A grand view over grassy morrland, down to a clump of woodland, then behind this more grass and heather. You can just make out a viaduct, taking the train line out of Rannoch station, and the edge of Loch Ladon can just be seen. On the horizon, of course, more mountains, and the sun is out and it&apos;s all lovely. &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6478,19 +6481,19 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_112223.JPG&quot; alt=&quot;A stone wall with doors in a grassy bank with a gravel yard is actually an electricity substation &quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_112223.JPG&quot; alt=&quot;A stone wall with doors in a grassy bank with a gravel yard is actually an electricity substation &quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Another Hydro Substation - fun fact, these all have wifi and the password is CorrourGuest&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_125109.JPG&quot; alt=&quot;A tarmac road runs alongside the loch. Wooden pylons carry a single strand of wire into the distance.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_125109.JPG&quot; alt=&quot;A tarmac road runs alongside the loch. Wooden pylons carry a single strand of wire into the distance.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_132730.JPG&quot; alt=&quot;Rannoch Station from the footbridge. An island platform with pink gravel between two tracks, with a single storey, green and white painted station building. There are the usual Scotrail signs and lighting, but nice picnic tables and flowerbeds on the platform. on the far side of the tracks is a wooden hut with a rusty red roof, and there are trees alongside the track but in the distance, of course, are more mountains.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_132730.JPG&quot; alt=&quot;Rannoch Station from the footbridge. An island platform with pink gravel between two tracks, with a single storey, green and white painted station building. There are the usual Scotrail signs and lighting, but nice picnic tables and flowerbeds on the platform. on the far side of the tracks is a wooden hut with a rusty red roof, and there are trees alongside the track but in the distance, of course, are more mountains.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Corrour/20250916_133206.JPG&quot; alt=&quot;Rannoch Station Honesty Box refreshment room. inside the wooden building there are two tables with shaker-style chairs, a central box with historic information and leaflets on it, and on the far side of the whitewashed room, a rable full of drinks and snacks, a kettle and a fridge. The walls are covered in informative interpretation boards, all about the history of the station and the line, and the ecology of Rannoch Moor.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Corrour/20250916_133206.JPG&quot; alt=&quot;Rannoch Station Honesty Box refreshment room. inside the wooden building there are two tables with shaker-style chairs, a central box with historic information and leaflets on it, and on the far side of the whitewashed room, a rable full of drinks and snacks, a kettle and a fridge. The walls are covered in informative interpretation boards, all about the history of the station and the line, and the ecology of Rannoch Moor.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Rannoch 24 Hour Honesty Box Refreshment Room&lt;/td&gt;
@@ -6500,7 +6503,7 @@
 
 &lt;p&gt;I really did want to walk the whole 4 day route, but if I’d known most of it would be on gravel road, I would have stopped another night at the hostel and spent a day going up hills or walking a lap of Loch Ossian instead, then take the train back to the car rather than walking back to Rannoch. But I am really glad I went, the first day was brilliant as was the overnight at the hostel, and I’m very keen to get back up here to do more.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-f4fd79f380a856157e2abb5cacd410e1&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-5da146a4ca222e95bcbcb72fb7590e13&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -6511,33 +6514,33 @@
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-					{id: &quot;9d52a7f00a02649bdd0a25cc0fe1ae55&quot;,
+					{id: &quot;0b6ec0865d9ff5267c9795f689351972&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.8226501347723, &quot;longitude&quot; : -4.81573035855517, &quot;popupContent&quot; : &quot;Lairig Leachach Bothy&quot;} },
-					{id: &quot;67e613519ceb4bb8ccfb509e9d99e0ef&quot;,
+					{id: &quot;7141ec268f67924e9afeac32a6a2128e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7814955286038, &quot;longitude&quot; : -4.7682681567902, &quot;popupContent&quot; : &quot;Creaguaineach Lodge&quot;} },
-					{id: &quot;85a7eba1bb8ef82808209c78408e6a5e&quot;,
+					{id: &quot;bec9578022b0ac90068dd533bd1ce29a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7667729897402, &quot;longitude&quot; : -4.66628207401042, &quot;popupContent&quot; : &quot;Loch Ossian Youth Hostel&quot;} },
-					{id: &quot;1bd88322fefc09650ac91f399faf1c38&quot;,
+					{id: &quot;db931f7e29bbf5386634bd980c84bf1a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7472082956488, &quot;longitude&quot; : -4.60532455748222, &quot;popupContent&quot; : &quot;Corrour Old Lodge&quot;} },
-					{id: &quot;dc18c971715df469a4b24b57f1f42571&quot;,
+					{id: &quot;88cd30aec2acdb1e0a44886100dee42e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.760128, &quot;longitude&quot; : -4.690883, &quot;popupContent&quot; : &quot;Corrour Station&quot;} },
-					{id: &quot;4a55d7977ca832a439d4673963935e43&quot;,
+					{id: &quot;4a4d3f11a94a140f5165ae4bf23fb570&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.685852, &quot;longitude&quot; : -4.577023, &quot;popupContent&quot; : &quot;Rannoch Station&quot;} },
 
               
-    {id: &quot;f49289fda602c78135a33f84e20b7ba5&quot;,
+    {id: &quot;759eef285b75fbe47fcfc75d7281c33a&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Corrour.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-f4fd79f380a856157e2abb5cacd410e1&quot;;
+    var defaultMapElId = &quot;leaflet-map-5da146a4ca222e95bcbcb72fb7590e13&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6670,7 +6673,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map f4fd79f380a856157e2abb5cacd410e1 with these args:&quot;);
+        console.log(&quot;Creating map 5da146a4ca222e95bcbcb72fb7590e13 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -7578,7 +7581,7 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Scotland" /><category term="walks" /><category term="Scotland" /><summary type="html"></summary></entry><entry><title type="html">The Wannie Line</title><link href="https://sarahdal.github.io//northumberland/2025/08/03/WannieLine.html" rel="alternate" type="text/html" title="The Wannie Line" /><published>2025-08-03T00:00:00+01:00</published><updated>2025-08-03T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2025/08/03/WannieLine</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2025/08/03/WannieLine.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Scotland" /><category term="walks" /><category term="Scotland" /><summary type="html"></summary></entry><entry><title type="html">The Wannie Line</title><link href="http://localhost:4000/northumberland/2025/08/03/WannieLine.html" rel="alternate" type="text/html" title="The Wannie Line" /><published>2025-08-03T00:00:00+01:00</published><updated>2025-08-03T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2025/08/03/WannieLine</id><content type="html" xml:base="http://localhost:4000/northumberland/2025/08/03/WannieLine.html">&lt;hr /&gt;
 
 &lt;p&gt;This was a nice long walk, starting out at Scot’s Gap following the old rail line, The Wannie Line, then across farmland to Greenleighton, meeting up with the Wannie Line again and heading back south before cutting across the Rothley Estate back to Scot’s Gap. About 28km in total.&lt;/p&gt;
 
@@ -7587,7 +7590,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Wannie.jpg&quot; alt=&quot;A green grass path has been cut through the vegetation, Rosebay Willowherb and other green lush plants grow on the railway embankments to the left, while on the right bushes and trees&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Wannie.jpg&quot; alt=&quot;A green grass path has been cut through the vegetation, Rosebay Willowherb and other green lush plants grow on the railway embankments to the left, while on the right bushes and trees&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7597,17 +7600,17 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Wannie3.jpg&quot; alt=&quot;a low, old stone bridge carried the rail bed over a field access crossing. This is now cordened off with barbed wire.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Wannie3.jpg&quot; alt=&quot;a low, old stone bridge carried the rail bed over a field access crossing. This is now cordened off with barbed wire.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Wannie2.jpg&quot; alt=&quot;By the bridge, the top of the track has been shored up with rusty old rails to stop the embankment colapsing down&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Wannie2.jpg&quot; alt=&quot;By the bridge, the top of the track has been shored up with rusty old rails to stop the embankment colapsing down&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Wannie4.jpg&quot; alt=&quot;Next to a spindly tree, on the grassy embankment slope above the trackbed, is a single stone built column that was presumably once part of a railway structure, but it&apos;s impossible to tell what it was&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Wannie4.jpg&quot; alt=&quot;Next to a spindly tree, on the grassy embankment slope above the trackbed, is a single stone built column that was presumably once part of a railway structure, but it&apos;s impossible to tell what it was&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -7624,7 +7627,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/DelfHedge.jpg&quot; alt=&quot;A long line of very tall beech(?) trees stretches along the field edge into the distance&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/DelfHedge.jpg&quot; alt=&quot;A long line of very tall beech(?) trees stretches along the field edge into the distance&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7636,7 +7639,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Hostel1950s.jpg&quot; alt=&quot;A black and white photo of a neat, simple wooden building. It has four windows and a door partly obscured by ornamental bushes. A low wooden fence surrounds it, and a young woman is stood on the far left of the picture.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Hostel1950s.jpg&quot; alt=&quot;A black and white photo of a neat, simple wooden building. It has four windows and a door partly obscured by ornamental bushes. A low wooden fence surrounds it, and a young woman is stood on the far left of the picture.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -7646,7 +7649,7 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Hostel2005.jpg&quot; alt=&quot;The same building, but a more modern photo (2005). It is extremely ramshackle, the roof has holes, and the whole exterior at some point has been covered with black material, possibly tarpaulin, which is now covered in moss and falling down. A porch was added at some point, and this is now also falling down. The entire site is surrounded by trees.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Hostel2005.jpg&quot; alt=&quot;The same building, but a more modern photo (2005). It is extremely ramshackle, the roof has holes, and the whole exterior at some point has been covered with black material, possibly tarpaulin, which is now covered in moss and falling down. A porch was added at some point, and this is now also falling down. The entire site is surrounded by trees.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Rothley Shiel Youth Hostel in 2005&lt;/td&gt;
@@ -7661,12 +7664,12 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/RothleyShielYH2.jpg&quot; alt=&quot;in a sun-dappled copse, a big pile of wooden ruins&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/RothleyShielYH2.jpg&quot; alt=&quot;in a sun-dappled copse, a big pile of wooden ruins&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/RothleyShielYH4.jpg&quot; alt=&quot;The same ruin from a different angle&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/RothleyShielYH4.jpg&quot; alt=&quot;The same ruin from a different angle&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7678,7 +7681,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/WannieLineEwesleyStation.jpg&quot; alt=&quot;a very old and rotten railway hut, made of upright wood with a rusty corregated metal roof and a wonky brick chimney. It&apos;s safely fenced off with security fence and it looks like someone is working on maintaining it. Behind can be seen more brick buildings.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/WannieLineEwesleyStation.jpg&quot; alt=&quot;a very old and rotten railway hut, made of upright wood with a rusty corregated metal roof and a wonky brick chimney. It&apos;s safely fenced off with security fence and it looks like someone is working on maintaining it. Behind can be seen more brick buildings.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7690,12 +7693,12 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/WannieLinePost.jpg&quot; alt=&quot;A metal post emerges from dence grass. It is made of two railway tracks bolted together.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/WannieLinePost.jpg&quot; alt=&quot;A metal post emerges from dence grass. It is made of two railway tracks bolted together.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/Wannie6.jpg&quot; alt=&quot;another railway bridge crosses a farm track. The stone supports either side curve gracefully round, and the trackbed is carried on metal girders over the path.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/Wannie6.jpg&quot; alt=&quot;another railway bridge crosses a farm track. The stone supports either side curve gracefully round, and the trackbed is carried on metal girders over the path.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7705,7 +7708,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/LongwittonColliery.jpg&quot; alt=&quot;In a sunny woodland clearing, a few structures made of large stone blocks. They are no taller than 1.8m, and it&apos;s not clear what they were.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/LongwittonColliery.jpg&quot; alt=&quot;In a sunny woodland clearing, a few structures made of large stone blocks. They are no taller than 1.8m, and it&apos;s not clear what they were.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -7719,7 +7722,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/RothleyFarm.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/RothleyFarm.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -7729,7 +7732,7 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Wannie/RothleyMillFord.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Wannie/RothleyMillFord.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -7741,7 +7744,7 @@
 
 &lt;p&gt;A very satisfying walk, although a real shame about the difficult permissive path on the second part of the Wannie Line. Earlier in the walk too I’d had to climb a padlocked gate on a Right-of-way, but it was great to see the old Wannie Line and the few other bits I found. I really recommend both National Trust walks too.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-ae372cd25f1720ec6b0f8f6581987e08&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-7f5b76b75b969c0121f1daf1c73b6c0f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -7752,28 +7755,28 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;ae26e3fcddf01353e93bacb972cf44e8&quot;,
+			{id: &quot;9e1f9ea7b141ddf8c0b6efeb10e65a5a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.217220, &quot;longitude&quot; : -1.9475539, &quot;popupContent&quot; : &quot;Rothley Shiel Youth Hostel&quot;} },
-			{id: &quot;47bda30cad77ce1d85e06c78be62cf13&quot;,
+			{id: &quot;b5bee2ae77d68437d9726da2eb659cee&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.200181, &quot;longitude&quot; : -1.9008531, &quot;popupContent&quot; : &quot;Longwitton Colliery&quot;} },
-			{id: &quot;ae0e3d460546f5ee0a311870cbb2a56b&quot;,
+			{id: &quot;03f654af31197d9b6d9dce37c0e9b26d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.227989, &quot;longitude&quot; : -1.9085820, &quot;popupContent&quot; : &quot;Ewesley Station&quot;} },
-			{id: &quot;8185ce5bb699082f2f86a04ce8dacfa9&quot;,
+			{id: &quot;a466ca17ae52629c583cef6ce82d8dfe&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.172403, &quot;longitude&quot; : -1.943137, &quot;popupContent&quot; : &quot;National Trust Car Park&quot;} },
 
 
               
-    {id: &quot;26012ed99c509d711bac5280fcca1989&quot;,
+    {id: &quot;62718fc95134a46786356f3ff761ddf4&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Wannies.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-ae372cd25f1720ec6b0f8f6581987e08&quot;;
+    var defaultMapElId = &quot;leaflet-map-7f5b76b75b969c0121f1daf1c73b6c0f&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -7906,7 +7909,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map ae372cd25f1720ec6b0f8f6581987e08 with these args:&quot;);
+        console.log(&quot;Creating map 7f5b76b75b969c0121f1daf1c73b6c0f with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -8814,7 +8817,7 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Kielder Stone</title><link href="https://sarahdal.github.io//northumberland/2025/06/08/KielderStone.html" rel="alternate" type="text/html" title="Kielder Stone" /><published>2025-06-08T00:00:00+01:00</published><updated>2025-06-08T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2025/06/08/KielderStone</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2025/06/08/KielderStone.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Kielder Stone</title><link href="http://localhost:4000/northumberland/2025/06/08/KielderStone.html" rel="alternate" type="text/html" title="Kielder Stone" /><published>2025-06-08T00:00:00+01:00</published><updated>2025-06-08T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2025/06/08/KielderStone</id><content type="html" xml:base="http://localhost:4000/northumberland/2025/06/08/KielderStone.html">&lt;hr /&gt;
 
 &lt;p&gt;I’ve previously been up to Kielderhead Wildwood to look at the &lt;a href=&quot;/northumberland/2024/04/07/WilliamsCleuchPines.html&quot;&gt;William’s Cleugh Pines&lt;/a&gt;, but on that day the weather was really too poor to go up onto the high fells and have a look at the Kielder Stone.&lt;/p&gt;
 
@@ -8825,7 +8828,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/brash.jpg&quot; alt=&quot;A view from a forest ride. The way is blocked by huge, dead, fallen sitka trees.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/brash.jpg&quot; alt=&quot;A view from a forest ride. The way is blocked by huge, dead, fallen sitka trees.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8844,7 +8847,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/TravRest.jpg&quot; alt=&quot;Surrounded by heather and very young sitka spruce saplings, some sandstone boulders lie in the heather.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/TravRest.jpg&quot; alt=&quot;Surrounded by heather and very young sitka spruce saplings, some sandstone boulders lie in the heather.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8859,7 +8862,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/Leaping.jpg&quot; alt=&quot;A view down a slope of heather and grasses. Fence posts run in a line from the right hand side opf the image, to the distance, gradually descending, and hills in the distance are covered in platnation forestry. Forest tracks lead through clearfell behind the fence, and a rock outcrop can be made out.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/Leaping.jpg&quot; alt=&quot;A view down a slope of heather and grasses. Fence posts run in a line from the right hand side opf the image, to the distance, gradually descending, and hills in the distance are covered in platnation forestry. Forest tracks lead through clearfell behind the fence, and a rock outcrop can be made out.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8874,7 +8877,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/Stones.jpg&quot; alt=&quot;Several sandstone slabs emerge from the deep heather. One of them is particularly tall and gravestone-like.&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/Stones.jpg&quot; alt=&quot;Several sandstone slabs emerge from the deep heather. One of them is particularly tall and gravestone-like.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -8884,7 +8887,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/PeelFell.jpg&quot; alt=&quot;on top of the hill, a few stacked blocks of sandstone. The heather and bog extends into the distance, with the summit of Deadwater Fell behind, on it are some structures and a radar station. A very localise rainstorm is falling from clouds in the sky just behind Deadwater.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/PeelFell.jpg&quot; alt=&quot;on top of the hill, a few stacked blocks of sandstone. The heather and bog extends into the distance, with the summit of Deadwater Fell behind, on it are some structures and a radar station. A very localise rainstorm is falling from clouds in the sky just behind Deadwater.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8897,7 +8900,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/track.jpg&quot; alt=&quot;A narrow boggy track follows some old wooden fenceposts across an expanse of moorland. In the very far distant horizon, the shape of the Cheviot can be see.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/track.jpg&quot; alt=&quot;A narrow boggy track follows some old wooden fenceposts across an expanse of moorland. In the very far distant horizon, the shape of the Cheviot can be see.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8912,7 +8915,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/spooked.jpg&quot; alt=&quot;slightly blurred by motion, seven brown shaggy goats, some with long horns, are startled and about to charge away from the camera. As their bums are facing us, their tails are up, it&apos;s not very pleasant!.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/spooked.jpg&quot; alt=&quot;slightly blurred by motion, seven brown shaggy goats, some with long horns, are startled and about to charge away from the camera. As their bums are facing us, their tails are up, it&apos;s not very pleasant!.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8927,12 +8930,12 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/herd.jpg&quot; alt=&quot;As I stand next to the Kielder Stone in the rain, goats are scattered about the sandstone blocks opposite. A wet area filled with rushes lies between me and then. There are some goats shetlering in a cleft in the blocks, while one with large horns stands on top of the outcrop. On the right of the picture, a younger goat peers out at me from the Kielder Stone itself.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/herd.jpg&quot; alt=&quot;As I stand next to the Kielder Stone in the rain, goats are scattered about the sandstone blocks opposite. A wet area filled with rushes lies between me and then. There are some goats shetlering in a cleft in the blocks, while one with large horns stands on top of the outcrop. On the right of the picture, a younger goat peers out at me from the Kielder Stone itself.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/majestic.jpg&quot; alt=&quot;View from next to the Kielder Stone, looking out from this immense sandstone outcrop in the rain. On top of a grassy rock opposite, silhouetted against the grey sky, are two goats looking straight at me.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/majestic.jpg&quot; alt=&quot;View from next to the Kielder Stone, looking out from this immense sandstone outcrop in the rain. On top of a grassy rock opposite, silhouetted against the grey sky, are two goats looking straight at me.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -8942,7 +8945,7 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/FullHerd.jpg&quot; alt=&quot;Looking from the sandstone blocks down the Kielderstone Cleugh, a densely vegetated and narrow stream valley. Around 20 goats are in two clusters lookign up at me. They are mostly brown, with various white patches, and most have long curved horns&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/FullHerd.jpg&quot; alt=&quot;Looking from the sandstone blocks down the Kielderstone Cleugh, a densely vegetated and narrow stream valley. Around 20 goats are in two clusters lookign up at me. They are mostly brown, with various white patches, and most have long curved horns&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -8957,7 +8960,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/KielderStone.jpg&quot; alt=&quot;A huge block of sandstone with horizontal clefts. It sits in teh grass on a heathery slope, and has a thick layer of vegetation on top and on a shelf running bout halfway down.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/KielderStone.jpg&quot; alt=&quot;A huge block of sandstone with horizontal clefts. It sits in teh grass on a heathery slope, and has a thick layer of vegetation on top and on a shelf running bout halfway down.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -8974,19 +8977,19 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/burn1.jpg&quot; alt=&quot;A small stream flows over the rocks and descends down the steep-sided valley, between heather, grasses, plants and the odd small tree.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/burn1.jpg&quot; alt=&quot;A small stream flows over the rocks and descends down the steep-sided valley, between heather, grasses, plants and the odd small tree.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/Kielderstone/burn2.jpg&quot; alt=&quot;Further down the valley, more small broadleaf trees. On one side of the burn a very old circular stone structure, a sheep stell or bield.&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/Kielderstone/burn2.jpg&quot; alt=&quot;Further down the valley, more small broadleaf trees. On one side of the burn a very old circular stone structure, a sheep stell or bield.&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;At the head of the Scaup, I saw a male Hen Harrier hunting, a real treat. I picked up some forestry paths through newly felled plantation, and from there reached the roads to follow the Scaup Burn back to the car park.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-ee9fcd4288ef9b292d21799e28c95740&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-a1ee3eb722c0f3b6c66abcdfbbbeddeb&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -8997,21 +9000,21 @@
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;4814fbfbcf26c28bc2c9a7da1d89ea6d&quot;,
+			{id: &quot;c8f553361845d7692b5e933a4c130f29&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.269870, &quot;longitude&quot; : -2.5695339, &quot;popupContent&quot; : &quot;The Traveller&apos;s Rest&quot;} },
-			{id: &quot;b5afc1ec91fa5cc4d9cd8341c0168540&quot;,
+			{id: &quot;00b7c52c25ca19470595df37a29fa28a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.297259, &quot;longitude&quot; : -2.5735486, &quot;popupContent&quot; : &quot;The Kielder Stone&quot;} },
 
               
-    {id: &quot;64b1ae72c94f42ef5deacb9ecb4e8c50&quot;,
+    {id: &quot;6c2b189cb526decedf8edd791620f1dd&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kielderhead.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-ee9fcd4288ef9b292d21799e28c95740&quot;;
+    var defaultMapElId = &quot;leaflet-map-a1ee3eb722c0f3b6c66abcdfbbbeddeb&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -9144,7 +9147,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map ee9fcd4288ef9b292d21799e28c95740 with these args:&quot;);
+        console.log(&quot;Creating map a1ee3eb722c0f3b6c66abcdfbbbeddeb with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -10052,14 +10055,14 @@
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Emblehope Moor and Tarsetdale</title><link href="https://sarahdal.github.io//northumberland/2025/04/21/EmblehopeMoor.html" rel="alternate" type="text/html" title="Emblehope Moor and Tarsetdale" /><published>2025-04-21T00:00:00+01:00</published><updated>2025-04-21T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2025/04/21/EmblehopeMoor</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2025/04/21/EmblehopeMoor.html">&lt;hr /&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Emblehope Moor and Tarsetdale</title><link href="http://localhost:4000/northumberland/2025/04/21/EmblehopeMoor.html" rel="alternate" type="text/html" title="Emblehope Moor and Tarsetdale" /><published>2025-04-21T00:00:00+01:00</published><updated>2025-04-21T00:00:00+01:00</updated><id>http://localhost:4000/northumberland/2025/04/21/EmblehopeMoor</id><content type="html" xml:base="http://localhost:4000/northumberland/2025/04/21/EmblehopeMoor.html">&lt;hr /&gt;
 
 &lt;p&gt;I had wanted to go and look at Bastles and things in Redesdale for a while, so today I set off from &lt;a href=&quot;https://www.english-heritage.org.uk/visit/places/black-middens-bastle-house/history/&quot;&gt;Black Middens Bastle in Tarsetdale&lt;/a&gt;, on the edge of Kielder Forest and Redesdale. This is an area infamous for its bloody border history, with a cluster of Bastles (fortified farmhouses) dating from the 16th and early 17th century, around the Tarset Burn.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-11.jpg&quot; alt=&quot;a two story stone building. it has a doorway next to an external flight of stone stairs, which lead to another doorway. The only windows are two small square openings next to the upper window; the structure has no roof. It sits in muddy looking grass and behind it can be seen the ruins of another stone building.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-11.jpg&quot; alt=&quot;a two story stone building. it has a doorway next to an external flight of stone stairs, which lead to another doorway. The only windows are two small square openings next to the upper window; the structure has no roof. It sits in muddy looking grass and behind it can be seen the ruins of another stone building.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10076,7 +10079,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-17.jpg&quot; alt=&quot;A view over rough moorland with long tussocky yellow grass downhill. On the other side of the valley are some forestry plantation, and a small house, Ridley Shiel, can just be made out.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-17.jpg&quot; alt=&quot;A view over rough moorland with long tussocky yellow grass downhill. On the other side of the valley are some forestry plantation, and a small house, Ridley Shiel, can just be made out.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10095,8 +10098,8 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/2009-camp.jpg&quot; alt=&quot;A photograph from 2009 of a small green tent in the sunshine, pitched in a small clearing near a wooden footbridge and surrounded by mature plantation woodland. The edge of a road that fords the stream can be seen at the bottom of the image..&quot; /&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-24.jpg&quot; alt=&quot;A wider view, taken in 2025, of the same location. The footbridge and ford can be seen, but now the landscape has been cleared of trees, apart from a few young ones and a distant plantation just over the horizon. Grass, heather and a small gorse shrub are where the woods and the clearing were.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/2009-camp.jpg&quot; alt=&quot;A photograph from 2009 of a small green tent in the sunshine, pitched in a small clearing near a wooden footbridge and surrounded by mature plantation woodland. The edge of a road that fords the stream can be seen at the bottom of the image..&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-24.jpg&quot; alt=&quot;A wider view, taken in 2025, of the same location. The footbridge and ford can be seen, but now the landscape has been cleared of trees, apart from a few young ones and a distant plantation just over the horizon. Grass, heather and a small gorse shrub are where the woods and the clearing were.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10114,8 +10117,8 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/greymare-old.jpg&quot; alt=&quot;a greyscale map from the 1st edition OS, so mid 19th century. two paths from the west join and then cross to the east, and are crossed by a path running north-south. On this path, north of the Junction is tmarked the Graymare stone. We can also see a point labelled &amp;quot;B.M.935.2&amp;quot; this is a boundary marker&quot; /&gt;&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/modern-os.jpg&quot; alt=&quot;A part of a modern OS map, green with forestry with white rides marked in. a single green bridleway crosses from south east to the north west, and an orange permissive footpath is further to the east.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/greymare-old.jpg&quot; alt=&quot;a greyscale map from the 1st edition OS, so mid 19th century. two paths from the west join and then cross to the east, and are crossed by a path running north-south. On this path, north of the Junction is tmarked the Graymare stone. We can also see a point labelled &amp;quot;B.M.935.2&amp;quot; this is a boundary marker&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/modern-os.jpg&quot; alt=&quot;A part of a modern OS map, green with forestry with white rides marked in. a single green bridleway crosses from south east to the north west, and an orange permissive footpath is further to the east.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10129,7 +10132,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-28.jpg&quot; alt=&quot;A wall of plantation forestry, too dense to enter.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-28.jpg&quot; alt=&quot;A wall of plantation forestry, too dense to enter.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10144,7 +10147,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-30.jpg&quot; alt=&quot;thick and tussocky yellow grass carpets the floor, with some tussocks of moss poking out. Either side are Sitka Spruce, about 4m tall.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-30.jpg&quot; alt=&quot;thick and tussocky yellow grass carpets the floor, with some tussocks of moss poking out. Either side are Sitka Spruce, about 4m tall.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10159,7 +10162,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-32.jpg&quot; alt=&quot;in the dense forest surrounded by sitka spruce, a large, flat topped grey boulder. It has patches of moss and the soggy vegetation half swallows it, the top is fairly smooth with some indentations. It is about 2m across and rises perhaps 50cm out of the ground&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-32.jpg&quot; alt=&quot;in the dense forest surrounded by sitka spruce, a large, flat topped grey boulder. It has patches of moss and the soggy vegetation half swallows it, the top is fairly smooth with some indentations. It is about 2m across and rises perhaps 50cm out of the ground&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10174,7 +10177,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-39.jpg&quot; alt=&quot;a grey boulder with white lichen lies in thick tussocky grass at the edge of a conical depression that can just be made out. In the distance are scattered sitka spruce.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-39.jpg&quot; alt=&quot;a grey boulder with white lichen lies in thick tussocky grass at the edge of a conical depression that can just be made out. In the distance are scattered sitka spruce.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10189,7 +10192,7 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/namebook.jpg&quot; alt=&quot;A screenshot of part of a handwritten page about Fairy&apos;s Kirk, I have transcribed in the text below&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/namebook.jpg&quot; alt=&quot;A screenshot of part of a handwritten page about Fairy&apos;s Kirk, I have transcribed in the text below&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10225,7 +10228,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-42.jpg&quot; alt=&quot;a sweeping vista under the grey sky of yellowy moorland extending far to the opposite horizon. There are patches of plantation forestry and the odd tree; in the centre-distance the farmhouse can faintly be made out, surrounded by green in-bye fields.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-42.jpg&quot; alt=&quot;a sweeping vista under the grey sky of yellowy moorland extending far to the opposite horizon. There are patches of plantation forestry and the odd tree; in the centre-distance the farmhouse can faintly be made out, surrounded by green in-bye fields.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10233,7 +10236,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
       &lt;td style=&quot;text-align: center&quot;&gt;Emblehope Moor, the farm is in the centre distance near the greener in-bye fields&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-53.jpg&quot; alt=&quot;The Tarset Burn flows away from the footbridge. it has been widened just ahead, possibly for stock access, and flows in a small U-shaped grassy valley. It is about 3 or 4m wide at this point&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-53.jpg&quot; alt=&quot;The Tarset Burn flows away from the footbridge. it has been widened just ahead, possibly for stock access, and flows in a small U-shaped grassy valley. It is about 3 or 4m wide at this point&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -10246,7 +10249,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-62.jpg&quot; alt=&quot;A very overgrown track in the forest cuts through grass and is bordered by heather. Either side grown tall sitka trees&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-62.jpg&quot; alt=&quot;A very overgrown track in the forest cuts through grass and is bordered by heather. Either side grown tall sitka trees&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10261,7 +10264,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-68.jpg&quot; alt=&quot;the ruins of a 2 storey, squat stone building sit in boggy ground next to a bare tree in a forestry clearing.&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-68.jpg&quot; alt=&quot;the ruins of a 2 storey, squat stone building sit in boggy ground next to a bare tree in a forestry clearing.&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10280,7 +10283,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/emble/Emblehope-74.jpg&quot; alt=&quot;The ruins of another small stone building, only two or three courses high, poke out of the grass&quot; /&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://localhost:4000//assets/images/emble/Emblehope-74.jpg&quot; alt=&quot;The ruins of another small stone building, only two or three courses high, poke out of the grass&quot; /&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -10294,7 +10297,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 &lt;p&gt;This was a really great walk, and would be much improved if you don’t go offroading into thick forestry looking for novelty rocks, and if the Forestry Comission ever decide to sort out the Tarset Bastle Trail so you can actually follow it. As it is.. I don’t recommend, but Fairy’s Kirk might be worth some further investigation.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-8e889f76e76258bbfa4e12824cc9945b&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-7595db8a6b6c68b827d5e4b3d82fd152&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -10305,32 +10308,32 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;859ad13bce82417a4be011ef782896ee&quot;,
+			{id: &quot;8a220b09dc69d36b35534bdc964629d5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.227476, &quot;longitude&quot; : -2.3592819, &quot;popupContent&quot; : &quot;Graymare Stone&quot;} },
-			{id: &quot;942c8cd384dd0f35a586825f7bc36b5c&quot;,
+			{id: &quot;7a7301c37d68b318deb3ffe4af4658a2&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.220143, &quot;longitude&quot; : -2.3467511, &quot;popupContent&quot; : &quot;Wild Camp Site&quot;} },
-			{id: &quot;628a9349bf2f1f1681125a31a87ee5a8&quot;,
+			{id: &quot;826d4e26b9d9d3503c3454ef1cf10fbd&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.237339, &quot;longitude&quot; : -2.3723757, &quot;popupContent&quot; : &quot;Fairy Kirk&quot;} },
-			{id: &quot;ad7f94e5afc7de0ed0b0297abefce78e&quot;,
+			{id: &quot;d00371fd82c835ed372944d9438171dc&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.212579, &quot;longitude&quot; : -2.3763562, &quot;popupContent&quot; : &quot;Bog Head Bastle&quot;} },
-			{id: &quot;107e676862cbfb959c907d26594ba8eb&quot;,
+			{id: &quot;8f46d804df61a11e6885d49eb4b8ece2&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.207226, &quot;longitude&quot; : -2.3728330, &quot;popupContent&quot; : &quot;Shilla Hill Bastle&quot;} },
-			{id: &quot;b232f2b14b1996ece852f4866f63e2d2&quot;,
+			{id: &quot;6fe44245dda6fe002fe96e986e18782c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.203622, &quot;longitude&quot; : -2.3579828, &quot;popupContent&quot; : &quot;Black Middens Bastle&quot;} },
               
-    {id: &quot;695674af435d74ca9d745ffb978af6a6&quot;,
+    {id: &quot;d47e4b3523056f6d220fbb1cfe33e6db&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Emblehope.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-8e889f76e76258bbfa4e12824cc9945b&quot;;
+    var defaultMapElId = &quot;leaflet-map-7595db8a6b6c68b827d5e4b3d82fd152&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -10463,7 +10466,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 8e889f76e76258bbfa4e12824cc9945b with these args:&quot;);
+        console.log(&quot;Creating map 7595db8a6b6c68b827d5e4b3d82fd152 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -11371,7 +11374,7 @@ A subterraneous passage on Comb Moor extending about fifteen yards from the entr
       &lt;td&gt;Map of route taken&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Cat Wheel Speedo 2</title><link href="https://sarahdal.github.io//home%20assistant/2025/03/30/Cat-speedo-2.html" rel="alternate" type="text/html" title="Cat Wheel Speedo 2" /><published>2025-03-30T00:00:00+00:00</published><updated>2025-03-30T00:00:00+00:00</updated><id>https://sarahdal.github.io//home%20assistant/2025/03/30/Cat-speedo-2</id><content type="html" xml:base="https://sarahdal.github.io//home%20assistant/2025/03/30/Cat-speedo-2.html">&lt;p&gt;&lt;img src=&quot;https://sarahdal.github.io///assets/images/wheel/wheel1.jpg&quot; alt=&quot;a black cat with a yellow collar sits in an upright wheel about 1m high.&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+&lt;/table&gt;</content><author><name>sarah</name></author><category term="Northumberland" /><category term="walks" /><category term="northumberland" /><category term="history" /><summary type="html"></summary></entry><entry><title type="html">Cat Wheel Speedo 2</title><link href="http://localhost:4000/home%20assistant/2025/03/30/Cat-speedo-2.html" rel="alternate" type="text/html" title="Cat Wheel Speedo 2" /><published>2025-03-30T00:00:00+00:00</published><updated>2025-03-30T00:00:00+00:00</updated><id>http://localhost:4000/home%20assistant/2025/03/30/Cat-speedo-2</id><content type="html" xml:base="http://localhost:4000/home%20assistant/2025/03/30/Cat-speedo-2.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000//assets/images/wheel/wheel1.jpg&quot; alt=&quot;a black cat with a yellow collar sits in an upright wheel about 1m high.&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Previously I tried to write about how to set up a speedometer for a cat wheel &lt;a href=&quot;/arduino-esp32/2025/02/11/CatWheel.html&quot;&gt;using an ESP32, hall sensor and some magnets&lt;/a&gt;. I have now found a much easier way to get the speed into &lt;a href=&quot;https://www.home-assistant.io/&quot;&gt;Home Assistant&lt;/a&gt; via &lt;a href=&quot;https://esphome.io/&quot;&gt;ESPHome&lt;/a&gt;. If you use Home Assistant but don’t already use ESPhome, it’s a great and simple way to get DIY devices made with ESP32 boards into Home Assistant.&lt;/p&gt;
 
