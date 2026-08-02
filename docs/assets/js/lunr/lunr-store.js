@@ -178,4 +178,10 @@ var store = [{
         "tags": ["walks","Scotland","history"],
         "url": "/scotland/2026/04/20/WesterRoss.html",
         "teaser": "/assets/images/Plashetts/passing.JPG"
+      },{
+        "title": "Kershope",
+        "excerpt":"I love walking to remote places, what could be more remote than the point in England furthest from a road? In the whole of the UK, the most remote point from a road is (obviously) up in the Cairngorms near Glen Tilt, around 15km from any roads. In England, however,...","categories": ["Northumberland"],
+        "tags": ["walks","northumberland","history"],
+        "url": "/northumberland/2026/08/01/Kershope.html",
+        "teaser": "/assets/images/Kershope/Skelton.JPG"
       }]
