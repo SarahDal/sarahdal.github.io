@@ -187,7 +187,7 @@ var store = [{
       },{
         "title": "Bridge of Orchy to Taynuilt",
         "excerpt":"Scotways publish Scottish Hill Tracks, a hefty book listing hundreds of tracks and routes across Scotland, often following ancient routes through mountainous terrain. It’s a great way to find relatively easy to follow but challenging long walks. Route 137 runs from Bridge of Orchy to Bridge of Awe, and from...","categories": ["Northumberland"],
-        "tags": ["walks","northumberland","history"],
+        "tags": ["walks","Scotland"],
         "url": "/northumberland/2026/08/29/Kinglass.html",
         "teaser": "/assets/images/Kinglass/044.JPG"
       }]
