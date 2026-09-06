@@ -7,9 +7,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 4.4"
 
-gem "github-pages", "~> 228", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 
 #group: :jekyll_plugins
@@ -46,3 +45,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
+
+gem "jekyll-remote-theme", "~> 0.5.2"

@@ -26,6 +26,7 @@ destination: docs
 plugins:
 - jekyll-feed
 - jekyll-include-cache
+- jekyll-remote-theme
 #- jekyll-leaflet
 
 plugins_dir: _plugins
