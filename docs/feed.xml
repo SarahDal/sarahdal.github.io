@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2026-10-12T09:26:33+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Branxton Cement Menagerie</title><link href="https://sarahdal.github.io//northumberland/2026/10/12/Branxton.html" rel="alternate" type="text/html" title="Branxton Cement Menagerie" /><published>2026-10-12T00:00:00+01:00</published><updated>2026-10-12T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2026/10/12/Branxton</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/10/12/Branxton.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sarahdal.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sarahdal.github.io//" rel="alternate" type="text/html" /><updated>2026-10-12T11:37:03+01:00</updated><id>https://sarahdal.github.io//feed.xml</id><title type="html">Sarah Dalrymple</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Branxton Cement Menagerie</title><link href="https://sarahdal.github.io//northumberland/2026/10/12/Branxton.html" rel="alternate" type="text/html" title="Branxton Cement Menagerie" /><published>2026-10-12T00:00:00+01:00</published><updated>2026-10-12T00:00:00+01:00</updated><id>https://sarahdal.github.io//northumberland/2026/10/12/Branxton</id><content type="html" xml:base="https://sarahdal.github.io//northumberland/2026/10/12/Branxton.html">&lt;hr /&gt;
 
-&lt;p&gt;“Outsider Art” is a term that refers to an individual who is self-taught, untrained and untutored, creating art with little or no contact with the art world (thanks &lt;a href=&quot;https://en.wikipedia.org/wiki/Outsider_art&quot;&gt;Wikipedia&lt;/a&gt;). I first came across it when I was a student of ecology and hanging around with far too many Edinburgh art college students; we took a trip to Pittenweem where (I think - this was about 25 years ago) &lt;a href=&quot;https://en.wikipedia.org/wiki/Joyce_Laing_(art_therapist)&quot;&gt;Joyce Laing&lt;/a&gt;, an art therapist working at Barlinnie Prison, and a collector of Outsider Art, was based, and we went to see an exhibition of work. It was fascinating, and I must have done a bit of research and found out about Branxton Cement Menagerie, near Flodden Field.&lt;/p&gt;
+&lt;p&gt;“Outsider Art” is a term that refers to an individual who is self-taught, untrained and untutored, creating art with little or no contact with the art world (thanks &lt;a href=&quot;https://en.wikipedia.org/wiki/Outsider_art&quot;&gt;Wikipedia&lt;/a&gt;). I first came across it when I was a student of ecology and hanging around with Edinburgh art college students; we took a trip to Pittenweem where (I think - this was about 25 years ago) &lt;a href=&quot;https://en.wikipedia.org/wiki/Joyce_Laing_(art_therapist)&quot;&gt;Joyce Laing&lt;/a&gt;, an art therapist working at Barlinnie Prison, and a collector of Outsider Art, was based, and we went to see an exhibition of work. It was fascinating, and I must have done a bit of research and found out about Branxton Cement Menagerie, near Flodden Field.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -357,7 +357,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;A really nice, long walk, with no real steep  or challenging bits, and a very easy route to follow. For me I think the broad estate roads spoil it, because they make it feel less remote than it is? Once I got home, I spent my evening picking over 50 ticks off me, thanks to Narrachan Bothy. Great.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-320cd57873eae5c80b157878d27adebf&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-c49bf099f505309576d591de6c95dee9&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -368,21 +368,21 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;f7b4b9b09b17124380926d91a75c642c&quot;,
+			{id: &quot;73b42334eb8a21dff8d8b410e2c249e2&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  56.482709, &quot;longitude&quot; :  -5.0696506, &quot;popupContent&quot; : &quot;Narrachan Bothy&quot;} },
-			{id: &quot;12726503f71d089cfe08a2bc27a0b212&quot;,
+			{id: &quot;3686b92afda2c6bd48b96146b1d6f52c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  56.534178, &quot;longitude&quot; :  -4.9015891, &quot;popupContent&quot; : &quot;Loch Dochan&quot;} },
 
               
-    {id: &quot;e85f0d380009fb208caac913149c4bf8&quot;,
+    {id: &quot;da703a2f94f898b3de97397512759e91&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kinglass.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-320cd57873eae5c80b157878d27adebf&quot;;
+    var defaultMapElId = &quot;leaflet-map-c49bf099f505309576d591de6c95dee9&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -516,7 +516,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 320cd57873eae5c80b157878d27adebf with these args:&quot;);
+        console.log(&quot;Creating map c49bf099f505309576d591de6c95dee9 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1594,7 +1594,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;I made it out of Kershope Forest alive, although knackered. I think I might need to plan another walk (or just hire a bike) to get to the remote spot from Kielder next time. The whole walk was 25km and a great mix of easy forest tracks and extremely tough and exhausting moorland.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-a8f1e354d227283d7adb4f2e88ee2ee2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-fbb9f922d069e4e309e37f2438300bb0&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -1605,35 +1605,35 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;372589b3e7f114e008de26e24c8d51c9&quot;,
+			{id: &quot;0105d5ed4007508e4e2f2d0c6314c338&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.136490, &quot;longitude&quot; :  -2.7268439, &quot;popupContent&quot; : &quot;Long Cairn&quot;} },
-			{id: &quot;c0c6153c8b6059f55f450921a0a54807&quot;,
+			{id: &quot;c6ae2fda837e1a5c9d45b2d165051e7e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.151196, &quot;longitude&quot; :  -2.7321327, &quot;popupContent&quot; : &quot;Davdson&apos;s Monument&quot;} },
-			{id: &quot;dc0754eeac945b4aeaad654f1945fd15&quot;,
+			{id: &quot;488a6270657f228a8fdad42b5c31fb95&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.169742, &quot;longitude&quot; :  -2.6795671, &quot;popupContent&quot; : &quot;Glendhu Trign&quot;} },
-			{id: &quot;3ad05dd632b4ca87189e737edff073f4&quot;,
+			{id: &quot;fa5914d4e09add281897828d48f1442e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.132805, &quot;longitude&quot; :  -2.6640391, &quot;popupContent&quot; : &quot;Christianbury Crags&apos;&quot;} },
-			{id: &quot;9d39c167aa2bc7778276711be14ba004&quot;,
+			{id: &quot;abcb56caf3507161000b4444906f716a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.128174, &quot;longitude&quot; :  -2.6727445, &quot;popupContent&quot; : &quot;The Glawegian Fosse&quot;} },
-			{id: &quot;604e600a7fc7ead1508982b4a211bf0a&quot;,
+			{id: &quot;021620f9a47e794bb0ccd438bd2e913b&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.121263, &quot;longitude&quot; :  -2.7030473, &quot;popupContent&quot; : &quot;Kettle Hall&quot;} },
-			{id: &quot;da2a9cc1cd162dbffdce0f623ad75089&quot;,
+			{id: &quot;d3d498f0f73d938feef7eb6589417527&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.165352, &quot;longitude&quot; :  -2.6608127, &quot;popupContent&quot; : &quot;Point in England Furthest From A Road&quot;} },
               
-    {id: &quot;018018f8bbf30fd22bf846f8ef104de4&quot;,
+    {id: &quot;f89df9fa85543543f7c79e39b671443d&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kershope.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-a8f1e354d227283d7adb4f2e88ee2ee2&quot;;
+    var defaultMapElId = &quot;leaflet-map-fbb9f922d069e4e309e37f2438300bb0&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -1767,7 +1767,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map a8f1e354d227283d7adb4f2e88ee2ee2 with these args:&quot;);
+        console.log(&quot;Creating map fbb9f922d069e4e309e37f2438300bb0 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -2897,7 +2897,7 @@ This mark of true perfection find&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div id=&quot;leaflet-map-73631d8953ebd91a8940677990128c31&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-384c1a56f5b7dd646b5b882d7071af02&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -2908,31 +2908,31 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 10,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;aae7f65e43c565dc6eb8c57e42cc726e&quot;,
+			{id: &quot;908b1c2f689a46784ca7f2dde86d415c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.776804, &quot;longitude&quot; :   -5.254020, &quot;popupContent&quot; : &quot;Shenavall Bothy&quot;} },
-			{id: &quot;00b5261605a6cde892ce05962096f75c&quot;,
+			{id: &quot;72efd515332e8f9068b4a43b60b4c953&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.911065, &quot;longitude&quot; :   -5.368555, &quot;popupContent&quot; : &quot;Scoraig&quot;} },
-			{id: &quot;e5e98766eabe16d6cfbe5b960aff0bec&quot;,
+			{id: &quot;0cb88fba3b2eacd64fc2cdded766948d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :   57.883964, &quot;longitude&quot; :   -5.636692, &quot;popupContent&quot; : &quot;Slaggan Village&quot;} },
-    {id: &quot;9cc6483abd8a261ac3b820815da9fecc&quot;,
+    {id: &quot;74be2a8b3a1b66eb8291573ae5d8608c&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/AnTeallach.geojson&quot; },
-    {id: &quot;7dfe911b15fa68d356a2046c18c912a4&quot;,
+    {id: &quot;c5c78f98af09987f66acea89be64dfdd&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Shenavall.geojson&quot; },
-    {id: &quot;ac3fce734f0b5156def2941081cb75b6&quot;,
+    {id: &quot;051a29e36e1511f66d4bfb6a141a0e01&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Slaggan.geojson&quot; },
-    {id: &quot;5371dcda9845a9db1fdb5cc0d17618c9&quot;,
+    {id: &quot;f129b0cb8584f81f331b955e620e5430&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Scoraig.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-73631d8953ebd91a8940677990128c31&quot;;
+    var defaultMapElId = &quot;leaflet-map-384c1a56f5b7dd646b5b882d7071af02&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -3066,7 +3066,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 73631d8953ebd91a8940677990128c31 with these args:&quot;);
+        console.log(&quot;Creating map 384c1a56f5b7dd646b5b882d7071af02 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -4168,7 +4168,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;From here, it was just a nice 10km wander along part of the &lt;a href=&quot;https://reivertrails.com/trails/kielder-lakeside-way&quot;&gt;Kielder Lakeside Way&lt;/a&gt; and back to the car.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-c1113e6b01a70f896e713727339bbe52&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-b9323b6f82451d80f64b4b68c67fce02&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -4179,33 +4179,33 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;1c37c033cb325c35a34d26bd363ef206&quot;,
+			{id: &quot;bc50070214765ed2b38695ca22de4835&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.201886, &quot;longitude&quot; :  -2.485753, &quot;popupContent&quot; : &quot;Far Colliery&quot;} },
-			{id: &quot;e70e0b29df273658d62da57f74ee6728&quot;,
+			{id: &quot;b5c3bcfccaffcc6fdfc9845ae223ac41&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.212909, &quot;longitude&quot; :  -2.486030, &quot;popupContent&quot; : &quot;Bellingburn Head&quot;} },
-			{id: &quot;5203376adfd40a0961b9c956a0f22177&quot;,
+			{id: &quot;df864d203e0c5730b31d471b2f4479c5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.206958, &quot;longitude&quot; :  -2.483882, &quot;popupContent&quot; : &quot;Seldom Seen&quot;} },
-			{id: &quot;1d1244990f8b483e668a9c7c632084cd&quot;,
+			{id: &quot;5c177a53356143090381f6bd0378fc0e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.199387, &quot;longitude&quot; :  -2.497361, &quot;popupContent&quot; : &quot;Plashett&apos;s Colliery Cottages&apos;&quot;} },
-			{id: &quot;8006dd036d420c81cefe8092ece41305&quot;,
+			{id: &quot;5bab68d97a364ecf05532c32b449fcfd&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.206705, &quot;longitude&quot; :  -2.512952, &quot;popupContent&quot; : &quot;Top of Incline Plane&quot;} },
-			{id: &quot;cb7a09619c433e719d07e5e37b0fc8fd&quot;,
+			{id: &quot;d5f2c134d42ecf4c2c0c2000d93187a6&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.204523, &quot;longitude&quot; :  -2.525860, &quot;popupContent&quot; : &quot;Location of Plashetts Station&quot;} },
 
               
-    {id: &quot;0cb7ce04cfa485f99321ddd5cf86a04d&quot;,
+    {id: &quot;340a14c742825b8ca1ee9ffccdabffe3&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Plashetts.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-c1113e6b01a70f896e713727339bbe52&quot;;
+    var defaultMapElId = &quot;leaflet-map-b9323b6f82451d80f64b4b68c67fce02&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -4339,7 +4339,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map c1113e6b01a70f896e713727339bbe52 with these args:&quot;);
+        console.log(&quot;Creating map b9323b6f82451d80f64b4b68c67fce02 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -5358,7 +5358,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;Very lovely today to be able to get out and enjoy the sunshine on top of the hills.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-f7b881b8248c7592727997005f23cc27&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-8b3d7d2fc95eb02f77f2f9bb35548254&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -5369,30 +5369,30 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;2242f3f7e214c6b792a842f729f5a7fb&quot;,
+			{id: &quot;fc6ae417c10bec50b913c22bfa9ef9cf&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.390085, &quot;longitude&quot; :  -2.278833, &quot;popupContent&quot; : &quot;Car Park&quot;} },
-			{id: &quot;e502f6e13c1452e19abe150848c45de9&quot;,
+			{id: &quot;9c6ac8dce813b1f09b2205bd0c7fa094&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.391078, &quot;longitude&quot; :  -2.270881, &quot;popupContent&quot; : &quot;Blindburn Farm&quot;} },
-			{id: &quot;19a57314e62e41ea247f904d3b638d02&quot;,
+			{id: &quot;2e2c6043c1baf0b1a577cc35ea8414f5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.398243, &quot;longitude&quot; :  -2.256799, &quot;popupContent&quot; : &quot;Carlcroft Farm&quot;} },
-			{id: &quot;2aa7d96fed4e62abc62e8be88fa73134&quot;,
+			{id: &quot;398093604f521571201fa42e0eb88813&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.394072, &quot;longitude&quot; :  -2.317557, &quot;popupContent&quot; : &quot;Buckham&apos;s Walls Ruin&apos;&quot;} },
-			{id: &quot;e48219fc8afa1e616cf265ecca055cbe&quot;,
+			{id: &quot;9568ed0cc04c2835cb801b3ef050de6b&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; :  55.409928, &quot;longitude&quot; :  -2.310675, &quot;popupContent&quot; : &quot;Lamb Hill Mountain Rescue Hut&quot;} },
 
               
-    {id: &quot;a45d8cb945ae5c8bb0050255773fa98c&quot;,
+    {id: &quot;e62a4043e6a07a5d0701ce13f83c050c&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Buckhams.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-f7b881b8248c7592727997005f23cc27&quot;;
+    var defaultMapElId = &quot;leaflet-map-8b3d7d2fc95eb02f77f2f9bb35548254&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -5526,7 +5526,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map f7b881b8248c7592727997005f23cc27 with these args:&quot;);
+        console.log(&quot;Creating map 8b3d7d2fc95eb02f77f2f9bb35548254 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -6560,7 +6560,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;No sign of the chapel now, after however many centuries, but I wonder if the border was altered with the strange dog-leg to reach close to it? On the English side, a right of way follows the holloway up the hill and to a fence corner, so I crossed back into Scotland and then into England one final time before walking down the hill to rejoin the old rail line and back to the car.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-13b3b50312cfded9d35f783aa87799a2&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-8ac68d17077c55a39f1c4c9b52acad40&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -6571,29 +6571,29 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 13,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;bb0f7d5625827db6c488bd4bd40bcf24&quot;,
+			{id: &quot;b813bcce6a107922502e8c822964e37f&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.2641995, &quot;longitude&quot; : 2.6280458, &quot;popupContent&quot; : &quot;Deadwater Well&quot;} },
-			{id: &quot;2e7167a875c5776201cbaeee01ae4a7e&quot;,
+			{id: &quot;4c4d54a9aab835c2740f6f8b7b2ecbb5&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.2643200, &quot;longitude&quot; : -2.6392875, &quot;popupContent&quot; : &quot;Quarry&quot;} },
-			{id: &quot;6be32cf2d3982001a6dbfaa4e3208293&quot;,
+			{id: &quot;7636836a75136b2d508aa43e1c49a3f6&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.248347, &quot;longitude&quot; : -2.652703, &quot;popupContent&quot; : &quot;Foulmire Trig Point&quot;} },
-			{id: &quot;b867abde778911a882aef8b2f275826b&quot;,
+			{id: &quot;2df807fc0942300f90a4d5c679a59f48&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.247862, &quot;longitude&quot; : -2.647710, &quot;popupContent&quot; : &quot;Lime Kiln&quot;} },
-			{id: &quot;3397fe1cadad70c999057e44d7252f74&quot;,
+			{id: &quot;a7e6ff837d9337ad7db94708e1d1dbbd&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.247510, &quot;longitude&quot; : -2.609605, &quot;popupContent&quot; : &quot;Bells Chapel&quot;} },
               
-    {id: &quot;65587aad89ea24e0926d12cf44daf98e&quot;,
+    {id: &quot;235cbf0f39722af7982ebc9487db93a0&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Border.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-13b3b50312cfded9d35f783aa87799a2&quot;;
+    var defaultMapElId = &quot;leaflet-map-8ac68d17077c55a39f1c4c9b52acad40&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -6727,7 +6727,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 13b3b50312cfded9d35f783aa87799a2 with these args:&quot;);
+        console.log(&quot;Creating map 8ac68d17077c55a39f1c4c9b52acad40 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -7934,7 +7934,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;I really did want to walk the whole 4 day route, but if I’d known most of it would be on gravel road, I would have stopped another night at the hostel and spent a day going up hills or walking a lap of Loch Ossian instead, then take the train back to the car rather than walking back to Rannoch. But I am really glad I went, the first day was brilliant as was the overnight at the hostel, and I’m very keen to get back up here to do more.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-4bdc7cb64380a7ac7c5479930691bf7f&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-7aeff463b5aa3aed9a4f028754cb9a13&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -7945,33 +7945,33 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 11,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-					{id: &quot;6b522d385c01e2bdb2d49ec9b93506a3&quot;,
+					{id: &quot;e39c046811a5151adcb6736392f1dc48&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.8226501347723, &quot;longitude&quot; : -4.81573035855517, &quot;popupContent&quot; : &quot;Lairig Leachach Bothy&quot;} },
-					{id: &quot;b6f94bc712a3fa9a8439cd034a5a5972&quot;,
+					{id: &quot;1294593751e319f97064430b946484ea&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7814955286038, &quot;longitude&quot; : -4.7682681567902, &quot;popupContent&quot; : &quot;Creaguaineach Lodge&quot;} },
-					{id: &quot;cbb8bdb6bcda6ef5840a2d5cf03781f0&quot;,
+					{id: &quot;35dd69903855689edcfbef34decdab39&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7667729897402, &quot;longitude&quot; : -4.66628207401042, &quot;popupContent&quot; : &quot;Loch Ossian Youth Hostel&quot;} },
-					{id: &quot;421ca72571359b3278a938333a04a80a&quot;,
+					{id: &quot;99f71d1b5d396b2fa699209982667252&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.7472082956488, &quot;longitude&quot; : -4.60532455748222, &quot;popupContent&quot; : &quot;Corrour Old Lodge&quot;} },
-					{id: &quot;62920080467ecbdbd837a066802ea2e9&quot;,
+					{id: &quot;0a746dac929088ab959ad47b55512807&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.760128, &quot;longitude&quot; : -4.690883, &quot;popupContent&quot; : &quot;Corrour Station&quot;} },
-					{id: &quot;45468952622b573a2d886f0bc891f7cb&quot;,
+					{id: &quot;f183ddaf67faeec77d7ea442d4186998&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 56.685852, &quot;longitude&quot; : -4.577023, &quot;popupContent&quot; : &quot;Rannoch Station&quot;} },
 
               
-    {id: &quot;0e4ee069f78b72be4a081c3f7f53f265&quot;,
+    {id: &quot;297c8e5fe509907983d14976bfb1c79c&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Corrour.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-4bdc7cb64380a7ac7c5479930691bf7f&quot;;
+    var defaultMapElId = &quot;leaflet-map-7aeff463b5aa3aed9a4f028754cb9a13&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -8105,7 +8105,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 4bdc7cb64380a7ac7c5479930691bf7f with these args:&quot;);
+        console.log(&quot;Creating map 7aeff463b5aa3aed9a4f028754cb9a13 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -9176,7 +9176,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;A very satisfying walk, although a real shame about the difficult permissive path on the second part of the Wannie Line. Earlier in the walk too I’d had to climb a padlocked gate on a Right-of-way, but it was great to see the old Wannie Line and the few other bits I found. I really recommend both National Trust walks too.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-a3fe36d9e8ed6be813f84b3bf9e75397&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-8bc321d6a897464522257a516641cf5c&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -9187,28 +9187,28 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;b4ff45b2f14e12c96efabcdb176972f3&quot;,
+			{id: &quot;36571e237ad3e512ce5f9b6f07734f7d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.217220, &quot;longitude&quot; : -1.9475539, &quot;popupContent&quot; : &quot;Rothley Shiel Youth Hostel&quot;} },
-			{id: &quot;8ba5e9294c8024b1c4540a352ae6f52c&quot;,
+			{id: &quot;f3e64908c29e9c0bb7747ee2d445c490&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.200181, &quot;longitude&quot; : -1.9008531, &quot;popupContent&quot; : &quot;Longwitton Colliery&quot;} },
-			{id: &quot;d7619676b1a002c0239619c4546aca40&quot;,
+			{id: &quot;058efdf616851f8dde77c42a32d2ce8e&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.227989, &quot;longitude&quot; : -1.9085820, &quot;popupContent&quot; : &quot;Ewesley Station&quot;} },
-			{id: &quot;90460a3ef18d57250cb098e993935ebe&quot;,
+			{id: &quot;5cfceeae2ac958b6649763fa6d088178&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.172403, &quot;longitude&quot; : -1.943137, &quot;popupContent&quot; : &quot;National Trust Car Park&quot;} },
 
 
               
-    {id: &quot;c088b367a97057738d24e5857a17c67d&quot;,
+    {id: &quot;f9b771d26dfab208e468e7bc46829eb0&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Wannies.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-a3fe36d9e8ed6be813f84b3bf9e75397&quot;;
+    var defaultMapElId = &quot;leaflet-map-8bc321d6a897464522257a516641cf5c&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -9342,7 +9342,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map a3fe36d9e8ed6be813f84b3bf9e75397 with these args:&quot;);
+        console.log(&quot;Creating map 8bc321d6a897464522257a516641cf5c with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -10422,7 +10422,7 @@ This mark of true perfection find&lt;/p&gt;
 
 &lt;p&gt;At the head of the Scaup, I saw a male Hen Harrier hunting, a real treat. I picked up some forestry paths through newly felled plantation, and from there reached the roads to follow the Scaup Burn back to the car park.&lt;/p&gt;
 
-&lt;div id=&quot;leaflet-map-8251195e5907420cd884a46d0e03cf4b&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-d31b91d8028844d98f7ca4dc72ccda89&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -10433,21 +10433,21 @@ This mark of true perfection find&lt;/p&gt;
                  &quot;zoom&quot; : 12,
                  &quot;providerBasemap&quot;: &quot;OpenTopoMap&quot; } ;
     var blockLeafletItems = [
-			{id: &quot;52c3a84c50eabce39eb04e4d3d110785&quot;,
+			{id: &quot;aab4285d9b1828f78b0f739e3181d0ef&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.269870, &quot;longitude&quot; : -2.5695339, &quot;popupContent&quot; : &quot;The Traveller&apos;s Rest&quot;} },
-			{id: &quot;0fa02ac0de33726cf28ce91d1ec33589&quot;,
+			{id: &quot;ce80e2fa1edc25abc180fa0604852e0a&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 55.297259, &quot;longitude&quot; : -2.5735486, &quot;popupContent&quot; : &quot;The Kielder Stone&quot;} },
 
               
-    {id: &quot;da1ab4907463dbaa5357a265269751c6&quot;,
+    {id: &quot;978a65032cf4b89fe7b04d0ca182bda8&quot;,
               type: &quot;LeafletGeoJSON&quot;,
               value: &quot;/assets/geojson/Kielderhead.geojson&quot; },
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-8251195e5907420cd884a46d0e03cf4b&quot;;
+    var defaultMapElId = &quot;leaflet-map-d31b91d8028844d98f7ca4dc72ccda89&quot;;
    var defaultMapElStyle = &quot;height:600px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if(&apos;divId&apos; in tagInputArg){
@@ -10581,7 +10581,7 @@ This mark of true perfection find&lt;/p&gt;
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map 8251195e5907420cd884a46d0e03cf4b with these args:&quot;);
+        console.log(&quot;Creating map d31b91d8028844d98f7ca4dc72ccda89 with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
