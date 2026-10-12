@@ -190,4 +190,10 @@ var store = [{
         "tags": ["walks","Scotland"],
         "url": "/northumberland/2026/08/29/Kinglass.html",
         "teaser": "/assets/images/Kinglass/044.JPG"
+      },{
+        "title": "Branxton Cement Menagerie",
+        "excerpt":"“Outsider Art” is a term that refers to an individual who is self-taught, untrained and untutored, creating art with little or no contact with the art world (thanks Wikipedia). I first came across it when I was a student of ecology and hanging around with far too many Edinburgh art...","categories": ["Northumberland"],
+        "tags": ["Northumberland"],
+        "url": "/northumberland/2026/10/12/Branxton.html",
+        "teaser": "/assets/images/Branxton/ORIG_017.jpg"
       }]
