@@ -196,4 +196,10 @@ var store = [{
         "tags": ["Northumberland"],
         "url": "/northumberland/2026/10/12/Branxton.html",
         "teaser": "/assets/images/Branxton/ORIG_017.jpg"
+      },{
+        "title": "Cumbria Way",
+        "excerpt":"For a nice multi-day that wasn’t too taxing, at the end of September I thought I’d spend a few days walking The Cumbria Way, a relatively low level route from Ulswater to Carlisle, with just two steep bits. I parked at Carlisle, took the train to Ulverston where I spent...","categories": ["Northumberland"],
+        "tags": ["walks","Scotland"],
+        "url": "/northumberland/2026/10/14/CumbriaWay.html",
+        "teaser": "/assets/images/Cumbria/025.JPG"
       }]
