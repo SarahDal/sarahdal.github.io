@@ -129,13 +129,17 @@ Here, I took a detour to the north-east, following old mine tracks past fenced-o
 
 | ![Hudcsale Camping Barn, an old agricultural barn now looking lovely with a very neat gravel area in front, trees either side and a red door]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/060.JPG)| 
 
-The barn was perfect, even with a £1 meter for the electricity. The farmer brought round a vast tub of firewood for the woodburner and after my 25km, I slept very well.
+The barn was perfect, a large room divided into two, with a kitchen area, woodburner, a £1 meter for the electricity, hot shower, and the other area with about a dozen plastic matresses on the floor to sleep on. There was even a games room upstairs. The farmer brought round a vast tub of firewood for the woodburner and after my 25km, I had the place to myself and slept very well.
+
+| ![Inside the camping barn. A long room with low wooden dividers halfway up, on this side, two long tables with chairs, and beyond an open space where you can just about see blue plastic stacked mattresses at one side]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/061.JPG)|
 
 The next day was 20km to Dalston Train station. I had intended to skip the last 8km to Carlisle, as it wasn't suposed to be very good. In fact, the whole day was a bit of a let down after three marvellous days in the fells. Caldbeck was a lovely village, but after that the path followed the River Caldew through what felt like amenity woodland, with very muddy paths, or along muddy field edges. Still, it was nice to follow the River for so many miles.
 
 | ![A narrow, muddy path through woodland]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/065.JPG)|
 
 | ![A huge arable field with a single oak tree in the middle]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/067.JPG)|  
+
+| ![The river Caldew flows broadly through grassy fields and broadleaf trees]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/071.JPG)| 
 
 At least the weather was good! After a while the signage sort of gave up, which made it quite difficult in a few places where lots of Rights of Way met - it wasn't always clear which way to go and I got annoyingly lost at one point, walking round in circles trying to find the route past houses with angry dogs and no entry signs. Helpfully, I realised someone had written "CW" in marker pen on the finger posts.
 
@@ -147,7 +151,7 @@ I realised I was going to miss my train by about 20 minutes, so didn't bother ru
 
 | ![A broad path follows the broad River Caldew, with trees on both sides]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/076.JPG)| 
 
-I saw the last "Cumbria Way" waymarker about 500m before the path just sort of stopped at a car park behind the rail line. 
+I saw the last "Cumbria Way" waymarker about 500m before the path just sort of petered out a car park behind the rail line. 
 
 | ![A wooden fence seperates the path from a near empty car park in an industrial estate]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/079.JPG)| 
 
@@ -157,10 +161,14 @@ Not a very inspiring finish, but a really great walk. I feel that (apart from ra
                  "zoom" : 9,
                  "providerBasemap": "OpenTopoMap" } %}
 			{% leaflet_marker { "latitude" :  54.433350183096834, "longitude" :  -3.038112348420398, "popupContent" : "Elterwater Hostel"} %}
-			{% leaflet_marker { "latitude" :  54.60337716633592, "longitude" :  -3.12600669051037, "popupContent" : "Denton House Hostel"} %}
+			{% leaflet_marker { "latitude" :  54.60337716633592, "longitude" :  -3.12600669051037, "popupContent" : "Denton House Hostel, Keswick"} %}
 			{% leaflet_marker { "latitude" :  54.652156, "longitude" :  -3.105108, "popupContent" : "Skiddaw House Hostel"} %}
 			{% leaflet_marker { "latitude" :  54.692522788620245, "longitude" :  -3.0694386535601783, "popupContent" : "Lingy Hut"} %}
 			{% leaflet_marker { "latitude" :  54.728397125483646, "longitude" :  -3.0401237940550776, "popupContent" : "Hudscales Camping Barn"} %}
+			{% leaflet_marker { "latitude" :  54.843266174745715, "longitude" :  -2.9832367968882507, "popupContent" : "Dalston"} %}
+			{% leaflet_marker { "latitude" :  54.33797411106088, "longitude" :  -3.102897942687902, "popupContent" : "Torver"} %}
+			{% leaflet_marker { "latitude" :  54.462020406092506, "longitude" :  -3.1433161101463143, "popupContent" : "Stake Pass"} %}
+			{% leaflet_marker { "latitude" :  54.89606708734459, "longitude" :  -2.943527002021008, "popupContent" : "Carlisle"} %}
 
               
     {% leaflet_geojson "/assets/geojson/Cumbria.geojson" %}
