@@ -137,7 +137,7 @@ The next day was 20km to Dalston Train station. I had intended to skip the last 
 
 | ![A huge arable field with a single oak tree in the middle]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/067.JPG)|  
 
-At least the weather was good! After a while the signage sort of gave up, which made it quite difficult in a few places where lots of Rights of Way met - it wasn't always clear which was to go and I got annoyingly lost at one point, walking round in circles trying to find the route past houses with angry dogs and no entry signs. Helpfully, I realised someone had written "CW" in marker pen on the finger posts.
+At least the weather was good! After a while the signage sort of gave up, which made it quite difficult in a few places where lots of Rights of Way met - it wasn't always clear which way to go and I got annoyingly lost at one point, walking round in circles trying to find the route past houses with angry dogs and no entry signs. Helpfully, I realised someone had written "CW" in marker pen on the finger posts.
 
 | ![Wooden directional sign pointing in three directions for Public Footpaths and Bridleways, to Rose Bridge, Holmhill, Dalston and Gaitsgill. On two of them the letter CW and an arrow have been scrawled.]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/074.JPG)| 
 
@@ -154,7 +154,7 @@ I saw the last "Cumbria Way" waymarker about 500m before the path just sort of s
 Not a very inspiring finish, but a really great walk. I feel that (apart from random knee and ankle injuries that never returned) I have a good measure of my fitness now for multi-day hikes, and I'm very keen to do another one soon.
 
 {% leaflet_map { "center" : [54.601055 , -3.0680401],
-                 "zoom" : 10,
+                 "zoom" : 9,
                  "providerBasemap": "OpenTopoMap" } %}
 			{% leaflet_marker { "latitude" :  54.433350183096834, "longitude" :  -3.038112348420398, "popupContent" : "Elterwater Hostel"} %}
 			{% leaflet_marker { "latitude" :  54.60337716633592, "longitude" :  -3.12600669051037, "popupContent" : "Denton House Hostel"} %}
