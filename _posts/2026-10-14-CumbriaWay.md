@@ -39,7 +39,7 @@ As I followed the River Brathay and came into Elterwater, it got busy again, but
 
 | ![A row of stone buildings that has been knocked into one, with two floors and 6 windows on teh top floor, and a mix of windows an doors on the ground floor. It is covered in Ivy and surrounded by trees.]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/014a.JPG)| 
 
-At Elterwater Hostel I sat and rested and drank lots of free tea until they came to open up the hostel, dropped my things off in the dorm, had a hot dinner, then went out to look up some nearby [cup & ring marked rocks on the Langdale Boulders](https://historicengland.org.uk/listing/the-list/list-entry/1019434).
+At Elterwater Hostel I sat and rested and drank lots of free tea until they came to open up the hostel, dropped my things off in the dorm, had a hot dinner, then went out to look up some nearby [cup & ring marked rocks on the Langdale Boulders](https://historicengland.org.uk/listing/the-list/list-entry/1019434) iin the evening light.
 
 | ![Landgale at dusk, the valley bottom green fields and sheep sprinkled with trees while the knobbly hills rise up]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/015.JPG)| 
 
@@ -49,13 +49,13 @@ At Elterwater Hostel I sat and rested and drank lots of free tea until they came
 
 Very different to the concentric circles cup & ring marks you find see in Northumberland.
 
-Back at the hostel, there was a few people sitting around chatting in the common room, so I joined them. It was a very lovely evening, with most people either the Cumbria Way, plus two young Australian backpackers. I didn't sleep brilliantly in a shared dorm, but was up early and had breakfast with one of the Cumbria Way guys before setting off.
+Back at the hostel, there was a few people sitting around chatting in the common room, so I joined them. It was a very lovely evening, with most people walking the Cumbria Way, plus two young Australian backpackers. I didn't sleep brilliantly in a shared dorm, but was up early and had breakfast with one of the Cumbria Way guys before setting off.
 
 I'd realised that I could probably make Keswick (33km) that day, rather than split the walk with a stay in Borrowdale and end up getting into Keswick at 11am the next day with nothing to do. Why not push on? I'd see how I feel. 
 
 | ![The gravel path splits here on the valley floor, with steep slopes rising off to the left of the pictures. A wooden directional sign gives the way]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/020.JPG)| 
 
-The walk along Langdale was beautiful, and the guy from this morning caught up with me. It was really nice to walk with him and chat, a firefighter from Manchester aiming to do the whole Ulverston to Carlisle in 4 days. We reached the foot of the Stake Pass and he forged on ahead, but with him setting the pace for the first 10km I'd made really good time.
+The walk along Langdale was beautiful, and the guy from breakfast caught up with me. It was really nice to walk with him and chat, a firefighter from Manchester aiming to do the whole Ulverston to Carlisle in 4 days. We reached the foot of the Stake Pass and he forged on ahead, but with him setting the pace for the first 10km I'd made really good time.
 
 | ![A pile of rocks marks the footpath up out of Langdale to the Stake Pass. The way follows a cascading stream coming down the steep slopes, and the tops are cloaked in cloud.]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/022.JPG)| 
 
@@ -75,7 +75,7 @@ I stopped at Rosthwaite's [Flock In Tearoom](https://borrowdaleyewtreefarm.co.uk
 
 | ![The Derwent River before it reaches Derwent Water. It flows between grassy banks with broadleaf trees, the hills rising in the distance are cloaked in fluffy clouds as the sun tries to break through]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/030.JPG)| 
 
-The paths got a little busy again, I sat and ate some snacks on the shore of Derwent Water and was entertained by an absolutely manic female Mandarin Duck that agressively chased off any mallard that tried to ask me for a crisp. Eventually a Lesser Black-backed gull showed up, I was delighted to see it sported a green colour ring from the North West Gull Project - my friends there told me he'd been ringed as a chick on that very lake, and seen the [previous day on the top of Cat Bells](https://www.nwgulls.org.uk/index.php/recoveries/lesser-black-backed-gull/bird/GBT-GY04102).
+The paths got a little busy again, I sat and ate some snacks on the shore of Derwent Water and was entertained by an absolutely manic female Mandarin Duck that agressively chased off any mallard that tried to ask me for a crisp. Eventually a Lesser Black-backed gull showed up, I was delighted to see it sported a green colour ring from the North West Gull Project - my friends there told me he'd been ringed as a chick on that very lake, and seen a few days [previously on the top of Cat Bells](https://www.nwgulls.org.uk/index.php/recoveries/lesser-black-backed-gull/bird/GBT-GY04102).
 
 | ![A gull, white body and grey wings, stands on the rocky lake shore with trees and hills in the distance. A mandarin duck is pecking about at the gravel too.]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/033.JPG)| 
 
@@ -131,7 +131,7 @@ Here, I took a detour to the north-east, following old mine tracks past fenced-o
 
 The barn was perfect, even with a £1 meter for the electricity. The farmer brought round a vast tub of firewood for the woodburner and after my 25km, I slept very well.
 
-The next day was 20km to Torver Train station. I had intended to skip the last 8km to Carlisle, as it wasn't suposed to be very good. In fact, the whole day was a bit of a let down after three marvellous days in the fells. Caldbeck was a lovely village, but after that the path followed the River Caldew through what felt like amenity woodland, with very muddy paths, or along muddy field edges. Still, it was nice to follow the River for so many miles.
+The next day was 20km to Dalston Train station. I had intended to skip the last 8km to Carlisle, as it wasn't suposed to be very good. In fact, the whole day was a bit of a let down after three marvellous days in the fells. Caldbeck was a lovely village, but after that the path followed the River Caldew through what felt like amenity woodland, with very muddy paths, or along muddy field edges. Still, it was nice to follow the River for so many miles.
 
 | ![A narrow, muddy path through woodland]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/065.JPG)|
 
@@ -141,7 +141,7 @@ At least the weather was good! After a while the signage sort of gave up, which 
 
 | ![Wooden directional sign pointing in three directions for Public Footpaths and Bridleways, to Rose Bridge, Holmhill, Dalston and Gaitsgill. On two of them the letter CW and an arrow have been scrawled.]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/074.JPG)| 
 
-I realised I was going to miss my train by about 20 minutes, so didn't bother rushing to try and make it. Instead I picked up some snacks at Dalston co-op, and pressed on to Carlisle, where I'd parked. After Dalston the path, still following the Caldew, passed factories and housing estates, before entering Carlisle. 
+I realised I was going to miss my train by about 20 minutes, so didn't bother rushing to try and make it. Instead I picked up some snacks at Dalston supermarket, and pressed on to Carlisle, where I'd parked. After Dalston the path, still following the Caldew, passed factories and housing estates, before entering Carlisle. 
 
 | ![Behind a large metal fence, a large Nescafe factory towers into the blue sky]({{ site.url }}{{ site.baseurl }}/assets/images/Cumbria/075.JPG)| 
 
